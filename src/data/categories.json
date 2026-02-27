@@ -1,0 +1,156 @@
+[
+  {
+    "id": 725,
+    "name": "Album Reviews",
+    "slug": "album-reviews",
+    "count": 2,
+    "description": "In-depth metal album reviews covering new releases across metal, metalcore, deathcore, thrash, and hardcore. Metal Mantra delivers honest critiques, standout track analysis, production breakdowns, and album-by-album insight from a heavy-music perspective."
+  },
+  {
+    "id": 976,
+    "name": "Artist Interviews",
+    "slug": "artist-interviews",
+    "count": 0,
+    "description": "Read in-depth artist interviews with metal bands and musicians from around the world. Metal Mantra speaks directly with artists about new releases, touring, songwriting, creative influences, and life inside the metal, metalcore, deathcore, and hardcore scenes.\r\n"
+  },
+  {
+    "id": 919,
+    "name": "Band Updates",
+    "slug": "band-updates",
+    "count": 13,
+    "description": "Catch up on the latest band updates across the heavy-music world. Metal Mantra covers lineup changes, studio progress, member announcements, reunions, departures, and major developments from metal, metalcore, deathcore, and thrash bands. Fast, verified updates delivered daily."
+  },
+  {
+    "id": 963,
+    "name": "Concert Reviews",
+    "slug": "concert-reviews",
+    "count": 3,
+    "description": "Read in-depth metal concert reviews covering live shows, tour stops, setlists, crowd energy, and performance highlights. Metal Mantra delivers firsthand coverage of concerts across metal, metalcore, deathcore, thrash, and the broader heavy-music scene.\r\n"
+  },
+  {
+    "id": 917,
+    "name": "Deathcore News",
+    "slug": "deathcore-news",
+    "count": 1,
+    "description": "Stay updated with the latest deathcore news, including new singles and albums, tour announcements, lineup changes, and major updates across the heavy music scene. Metal Mantra delivers fast, accurate coverage of both rising and established deathcore bands from around the world.\r\n"
+  },
+  {
+    "id": 978,
+    "name": "Editorials",
+    "slug": "editorials",
+    "count": 8,
+    "description": "Read metal editorials from Metal Mantra featuring opinion pieces, commentary, and critical perspectives on bands, scenes, trends, and the culture shaping heavy music today.\r\n"
+  },
+  {
+    "id": 977,
+    "name": "Features",
+    "slug": "features",
+    "count": 2,
+    "description": "Explore long-form metal features from Metal Mantra, including deep dives into bands, albums, scenes, history, and heavy-music culture. Our features deliver thoughtful analysis, context, and commentary across metal, metalcore, deathcore, and beyond.\r\n"
+  },
+  {
+    "id": 964,
+    "name": "Festival Reviews",
+    "slug": "festival-reviews",
+    "count": 4,
+    "description": "Read in-depth metal festival reviews covering live performances, setlists, production, crowd experience, and overall atmosphere. Metal Mantra delivers firsthand coverage of major and underground heavy-music festivals across metal, metalcore, deathcore, and thrash."
+  },
+  {
+    "id": 962,
+    "name": "Festivals",
+    "slug": "festivals",
+    "count": 21,
+    "description": "Stay updated on the latest metal festival news, including lineup announcements, schedule changes, ticket information, and major updates across global heavy-music events. Metal Mantra covers everything from large international festivals to core-focused underground gatherings."
+  },
+  {
+    "id": 1058,
+    "name": "Hardcore News",
+    "slug": "hardcore-news",
+    "count": 2,
+    "description": "Stay locked into the latest hardcore news with breaking updates on new singles, EPs, albums, tour announcements, lineup changes, festival appearances, and underground movement shifts. Metal Mantra covers modern hardcore, metallic hardcore, beatdown, crossover, and the global DIY scene \u2014 from basement shows to main-stage chaos. If it\u2019s loud, fast, aggressive, and community-driven, it belongs here."
+  },
+  {
+    "id": 975,
+    "name": "Interviews",
+    "slug": "interviews",
+    "count": 0,
+    "description": "Explore exclusive metal interviews with bands, artists, and heavy-music creators from around the world. Metal Mantra delivers in-depth conversations covering new releases, touring, songwriting, influences, and life inside the metal, metalcore, deathcore, and hardcore scenes.\r\n"
+  },
+  {
+    "id": 981,
+    "name": "Live",
+    "slug": "live",
+    "count": 3,
+    "description": "Metal Mantra\u2019s Live category covers metal tours, festivals, and on-the-road updates from across the heavy music world. From tour announcements and lineup changes to major festival news and live coverage, this is where heavy music comes alive on stage."
+  },
+  {
+    "id": 915,
+    "name": "Metal News",
+    "slug": "metal-news",
+    "count": 44,
+    "description": "<h2>The Latest Metal News &amp; Heavy Music Headlines</h2>\r\n\r\n<p>\r\nMetal Mantra delivers fast, verified metal news covering releases, tours, lineup changes, and breaking stories across the heavy music world. From legacy metal icons to underground breakthroughs, we track what matters without the fluff or recycled hype.\r\n</p>\r\n\r\n<p>\r\n<a href=\"https://metal-mantra.com/category/news/\">Explore more in our main Metal News hub</a>\r\n</p>\r\n"
+  },
+  {
+    "id": 961,
+    "name": "Metalcore News",
+    "slug": "metalcore-news",
+    "count": 4,
+    "description": "Stay on top of the latest metalcore news with new singles, albums, tour announcements, lineup changes, and scene updates from across the global heavy-music community. Metal Mantra covers rising bands, core veterans, and everything breakdown-heavy in between."
+  },
+  {
+    "id": 921,
+    "name": "New Releases",
+    "slug": "new-releases",
+    "count": 15,
+    "description": "Latest metal singles, albums, EPs, and music videos, plus release-date announcements, artwork reveals, tracklists, and preorder details across all heavy-music subgenres. Your fast source for what's new in metal, metalcore, deathcore, thrash, and more."
+  },
+  {
+    "id": 247,
+    "name": "News",
+    "slug": "news",
+    "count": 53,
+    "description": "Welcome to Metal Mantra\u2019s Metal News hub \u2014 your source for the latest metal, metalcore, deathcore, and thrash updates. We deliver fast, verified reporting on new music releases, band announcements, tour reveals, lineup changes, festival news, and everything happening across the heavy-music landscape. If it\u2019s breaking in metal, it breaks here first.\r\n\r\n"
+  },
+  {
+    "id": 684,
+    "name": "Reviews",
+    "slug": "review",
+    "count": 2,
+    "description": "Explore Metal Mantra\u2019s metal reviews hub, featuring in-depth album reviews, single reviews, concert reviews, and festival coverage. Our reviews span metal, metalcore, deathcore, thrash, and heavy music, delivering honest critiques, performance breakdowns, and expert analysis from the heavy-music scene."
+  },
+  {
+    "id": 979,
+    "name": "Rundown",
+    "slug": "rundown",
+    "count": 24,
+    "description": "The Daily Metal Mantra Rundown delivers fast, curated summaries of the latest metal news. Each rundown highlights breaking stories, new music releases, tour announcements, lineup changes, and major updates across metal, metalcore, deathcore, thrash, and heavy music."
+  },
+  {
+    "id": 965,
+    "name": "Singles Review",
+    "slug": "singles-review",
+    "count": 5,
+    "description": "Focused metal singles reviews covering new tracks, songwriting, production quality, and standout moments. Metal Mantra breaks down individual songs from metal, metalcore, deathcore, thrash, and the broader heavy-music scene.\r\n"
+  },
+  {
+    "id": 918,
+    "name": "Thrash News",
+    "slug": "thrash-news",
+    "count": 8,
+    "description": "Get the latest thrash metal news, including new singles, albums, tour announcements, lineup changes, and major updates from both classic and modern thrash bands. Metal Mantra brings fast, accurate coverage of everything happening across the global thrash metal scene.\r\n"
+  },
+  {
+    "id": 369,
+    "name": "Tours",
+    "slug": "metal-tours",
+    "count": 26,
+    "description": "Stay updated with the latest metal tour announcements and routing changes. Metal Mantra covers new tour dates, added shows, cancellations, festival appearances, rescheduled runs, and major live event updates across metal, metalcore, deathcore, and thrash."
+  },
+  {
+    "id": 1,
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "count": 0,
+    "description": ""
+  }
+]
