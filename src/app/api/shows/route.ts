@@ -10,6 +10,22 @@ function affiliateUrl(tmUrl: string): string {
   return `${AFFILIATE_BASE}?u=${encodeURIComponent(tmUrl)}`;
 }
 
+// Geocode zip to lat/long using Zippopotam (free, no key)
+async function geocodeZip(zip: string): Promise<{ lat: string; lon: string } | null> {
+  try {
+    const res = await fetch(`https://api.zippopotam.us/us/${zip}`, {
+      next: { revalidate: 86400 }, // cache 24h — zips don't move
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const place = data.places?.[0];
+    if (!place) return null;
+    return { lat: place.latitude, lon: place.longitude };
+  } catch {
+    return null;
+  }
+}
+
 interface TMEvent {
   id: string;
   name: string;
@@ -28,16 +44,13 @@ interface TMEvent {
     }>;
     attractions?: Array<{
       name: string;
-      classifications?: Array<{
-        genre?: { name: string };
-        subGenre?: { name: string };
-      }>;
     }>;
   };
   images?: Array<{ url: string; width: number; height: number; ratio: string }>;
   classifications?: Array<{
     genre?: { id: string; name: string };
     subGenre?: { id: string; name: string };
+    segment?: { name: string };
   }>;
 }
 
@@ -71,15 +84,21 @@ export async function GET(req: NextRequest) {
       return NextResponse.json({ error: "Valid 5-digit zip code required" }, { status: 400 });
     }
 
-    // Query Ticketmaster Discovery API — broad rock/metal/alternative/punk search
+    // Geocode zip to lat/long — postalCode param returns garbage results
+    const geo = await geocodeZip(zip);
+    if (!geo) {
+      return NextResponse.json({ error: "Could not locate that zip code" }, { status: 400 });
+    }
+
+    // Query Ticketmaster Discovery API using latlong (massively more results than postalCode)
     const params = new URLSearchParams({
       apikey: API_KEY,
-      postalCode: zip,
+      latlong: `${geo.lat},${geo.lon}`,
       radius,
       unit: "miles",
       segmentName: "Music",
       sort: "date,asc",
-      size: "50",
+      size: "80",
       page,
     });
 
@@ -99,13 +118,20 @@ export async function GET(req: NextRequest) {
     const totalPages = data.page?.totalPages || 1;
     const totalElements = data.page?.totalElements || 0;
 
-    const shows: Show[] = events.map((e) => {
+    // Deduplicate — same event name + same date + same venue = one entry
+    const seen = new Set<string>();
+    const shows: Show[] = [];
+
+    for (const e of events) {
       const venue = e._embedded?.venues?.[0];
+      const dedupeKey = `${e.name}|${e.dates.start.localDate}|${venue?.name || ""}`;
+      if (seen.has(dedupeKey)) continue;
+      seen.add(dedupeKey);
+
       const artists = e._embedded?.attractions?.map((a) => a.name) || [];
       const classification = e.classifications?.[0];
       const subGenre = classification?.subGenre?.name;
       const mainGenre = classification?.genre?.name;
-      // Use subgenre if meaningful, otherwise main genre
       const genre = (subGenre && subGenre !== "Other" && subGenre !== "Undefined")
         ? subGenre
         : (mainGenre && mainGenre !== "Other" && mainGenre !== "Undefined")
@@ -118,7 +144,7 @@ export async function GET(req: NextRequest) {
         .sort((a, b) => b.width - a.width)[0]
         || e.images?.[0];
 
-      return {
+      shows.push({
         id: e.id,
         name: e.name,
         date: e.dates.start.localDate,
@@ -131,8 +157,8 @@ export async function GET(req: NextRequest) {
         genre,
         ticketUrl: affiliateUrl(e.url),
         image: img?.url || null,
-      };
-    });
+      });
+    }
 
     return NextResponse.json({
       shows,
