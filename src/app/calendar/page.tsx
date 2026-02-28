@@ -30,20 +30,19 @@ interface ShowsResponse {
 const RADIUS_OPTIONS = [25, 50, 100, 150, 200];
 
 const GENRE_FILTERS = [
-  { label: "All", value: "all" },
-  { label: "Metal", value: "metal" },
-  { label: "Hard Rock", value: "hard rock" },
-  { label: "Rock", value: "rock" },
-  { label: "Alternative", value: "alternative" },
-  { label: "Punk", value: "punk" },
-  { label: "Pop", value: "pop" },
-  { label: "Hip-Hop", value: "hip-hop" },
-  { label: "R&B", value: "r&b" },
-  { label: "Country", value: "country" },
-  { label: "EDM", value: "electro" },
-  { label: "Latin", value: "latin" },
-  { label: "Jazz", value: "jazz" },
-  { label: "Classical", value: "classical" },
+  { label: "All", value: "all", match: [] },
+  { label: "Metal / Hard Rock", value: "metal", match: ["metal", "hard rock"] },
+  { label: "Rock", value: "rock", match: ["rock"] },
+  { label: "Alternative", value: "alternative", match: ["alternative", "indie"] },
+  { label: "Punk", value: "punk", match: ["punk"] },
+  { label: "Pop", value: "pop", match: ["pop"] },
+  { label: "Hip-Hop", value: "hip-hop", match: ["hip-hop", "rap"] },
+  { label: "R&B", value: "r&b", match: ["r&b", "soul"] },
+  { label: "Country", value: "country", match: ["country"] },
+  { label: "EDM", value: "edm", match: ["electro", "dance", "edm", "house", "techno", "trance"] },
+  { label: "Latin", value: "latin", match: ["latin", "reggaeton"] },
+  { label: "Jazz", value: "jazz", match: ["jazz"] },
+  { label: "Classical", value: "classical", match: ["classical", "symphony", "opera"] },
 ];
 
 function formatShowDate(dateStr: string): string {
@@ -252,9 +251,13 @@ export default function CalendarPage() {
 
       {/* Results */}
       {searched && !loading && (() => {
+        const activeFilter = GENRE_FILTERS.find((f) => f.value === genreFilter);
         const filtered = genreFilter === "all"
           ? shows
-          : shows.filter((s) => s.genre.toLowerCase().includes(genreFilter));
+          : shows.filter((s) => {
+              const g = s.genre.toLowerCase();
+              return activeFilter?.match.some((m) => g.includes(m)) ?? false;
+            });
         const grouped = groupByDate(filtered);
         const sortedDates = Object.keys(grouped).sort();
         return (
