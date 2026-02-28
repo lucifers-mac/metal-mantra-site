@@ -6,19 +6,23 @@ import Link from "next/link";
 import { getLatestPosts, getPostsByType } from "@/lib/content";
 
 export default function HomePage() {
-  // Get latest non-rundown posts for hero + grid
-  const allLatest = getLatestPosts(30);
+  // Get latest posts — exclude rundowns from main feed
+  const allLatest = getLatestPosts(40);
   const nonRundown = allLatest.filter((p) => p.contentType !== "rundown");
 
-  const hero = nonRundown[0];
-  const subHeroes = nonRundown.slice(1, 3);   // 2 side features
-  const gridPosts = nonRundown.slice(3, 9);   // 6 standard cards
-  const morePosts = nonRundown.slice(9, 15);  // 6 more for "More Stories"
+  // Hero should be breaking news/tour/festival — not reviews or features
+  const heroPool = nonRundown.filter((p) => ["news", "tour", "festival"].includes(p.contentType));
+  const hero = heroPool[0];
+  const subHeroes = heroPool.slice(1, 3);   // 2 side features
+  // News grid: only news/tour posts, no festivals bleeding in
+  const newsOnly = nonRundown.filter((p) => p.contentType === "news" || p.contentType === "tour");
+  const gridPosts = newsOnly.slice(0, 6);
+  const morePosts = nonRundown.slice(9, 15);  // mixed is fine for "More Stories"
 
-  // Ticker: most recent 8 posts
-  const tickerPosts = allLatest.slice(0, 8);
+  // Ticker: most recent 8 non-rundown posts
+  const tickerPosts = nonRundown.slice(0, 8);
 
-  // Featured content by type
+  // Featured content by type — strict
   const festivals = getPostsByType("festival").slice(0, 3);
   const features = getPostsByType("feature").slice(0, 3);
 
@@ -74,7 +78,7 @@ export default function HomePage() {
                   className="text-sm font-bold uppercase tracking-[0.15em] text-white"
                   style={{ fontFamily: "var(--font-heading)" }}
                 >
-                  Latest News
+                  News &amp; Tours
                 </h2>
                 <Link href="/news/" className="text-[11px] text-mantra-dim hover:text-mantra-red uppercase tracking-wider font-bold transition-colors">
                   View All &rarr;
