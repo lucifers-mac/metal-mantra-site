@@ -1,5 +1,6 @@
 import Link from "next/link";
 import PostCard from "@/components/PostCard";
+import NewsletterSignup from "@/components/NewsletterSignup";
 import { getTrendingPosts, getPopularTags, getPostsByType, formatDateShort } from "@/lib/content";
 
 export default function Sidebar() {
@@ -67,6 +68,9 @@ export default function Sidebar() {
           ))}
         </div>
       </div>
+
+      {/* Newsletter */}
+      <NewsletterSignup variant="footer" />
 
       {/* Merch CTA */}
       <div className="relative overflow-hidden bg-mantra-card border border-mantra-red/20 rounded-lg p-5 text-center">

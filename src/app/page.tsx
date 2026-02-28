@@ -1,6 +1,7 @@
 import PostCard from "@/components/PostCard";
 import Sidebar from "@/components/Sidebar";
 import BreakingTicker from "@/components/BreakingTicker";
+import NewsletterSignup from "@/components/NewsletterSignup";
 import Link from "next/link";
 import { getLatestPosts, getPostsByType } from "@/lib/content";
 
@@ -129,6 +130,11 @@ export default function HomePage() {
                 </div>
               </section>
             )}
+
+            {/* Newsletter CTA */}
+            <section className="mt-12">
+              <NewsletterSignup />
+            </section>
 
             {/* More Stories */}
             {morePosts.length > 0 && (

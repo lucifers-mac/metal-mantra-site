@@ -1,5 +1,8 @@
-import { getAllPosts, getPostBySlug, getRelatedPosts, formatDate } from "@/lib/content";
+import { getAllPosts, getPostBySlug, getRelatedPosts, getLatestPosts, formatDate } from "@/lib/content";
 import PostCard from "@/components/PostCard";
+import NewsletterSignup from "@/components/NewsletterSignup";
+import ReadNextBar from "@/components/ReadNextBar";
+import ReadingProgress from "@/components/ReadingProgress";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -47,6 +50,13 @@ export default async function PostPage({ params }: PageProps) {
   if (!post) notFound();
 
   const related = getRelatedPosts(post, 4);
+  
+  // Find next post for ReadNextBar
+  const allPosts = getLatestPosts(200);
+  const currentIdx = allPosts.findIndex((p) => p.id === post.id);
+  const nextPost = currentIdx >= 0 && currentIdx < allPosts.length - 1
+    ? allPosts[currentIdx + 1]
+    : related[0] || null;
 
   // Structured data for Google News
   const jsonLd = {
@@ -68,6 +78,7 @@ export default async function PostPage({ params }: PageProps) {
 
   return (
     <>
+      <ReadingProgress />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <article className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
@@ -174,6 +185,11 @@ export default async function PostPage({ params }: PageProps) {
         </div>
       </article>
 
+      {/* Newsletter CTA */}
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+        <NewsletterSignup />
+      </section>
+
       {/* Related Posts */}
       {related.length > 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 py-12 border-t border-mantra-border">
@@ -189,6 +205,15 @@ export default async function PostPage({ params }: PageProps) {
             ))}
           </div>
         </section>
+      )}
+
+      {/* Sticky Read Next Bar */}
+      {nextPost && (
+        <ReadNextBar
+          title={nextPost.title}
+          href={nextPost.path}
+          contentType={nextPost.contentType}
+        />
       )}
     </>
   );
