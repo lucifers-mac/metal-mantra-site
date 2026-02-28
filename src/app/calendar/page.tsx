@@ -156,10 +156,10 @@ export default function CalendarPage() {
           className="text-3xl md:text-5xl font-black text-white tracking-wider"
           style={{ fontFamily: "var(--font-heading)" }}
         >
-          METAL SHOWS NEAR YOU
+          SHOWS NEAR YOU
         </h1>
         <p className="mt-3 text-mantra-muted max-w-xl mx-auto">
-          Every metal and hard rock show in your area. Enter your zip, pick your radius, find your next pit.
+          Every live music event in your area. Enter your zip, pick your radius, find your next show.
         </p>
       </header>
 
@@ -349,7 +349,7 @@ export default function CalendarPage() {
           <div className="text-6xl mb-4">🤘</div>
           <p className="text-xl text-mantra-muted mb-2">Find your next show</p>
           <p className="text-sm text-mantra-dim max-w-md mx-auto">
-            Enter your zip code above and we'll show you every metal and hard rock show coming to your area.
+            Enter your zip code above and we'll show you every live music event coming to your area.
             Your location is saved locally — you'll never have to enter it again.
           </p>
         </div>

@@ -77,7 +77,7 @@ export async function GET(req: NextRequest) {
       postalCode: zip,
       radius,
       unit: "miles",
-      classificationName: "rock,metal,alternative,punk,hard rock",
+      segmentName: "Music",
       sort: "date,asc",
       size: "50",
       page,
