@@ -8,9 +8,7 @@ export const metadata: Metadata = {
 };
 
 export default function ToursPage() {
-  const posts = getAllPosts().filter(
-    (p) => p.slug.includes("tour") || p.categories.includes("tours") || p.tags.some((t) => t.slug.includes("tour"))
-  );
+  const posts = getAllPosts().filter((p) => p.contentType === "tour");
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
       <header className="mb-8">
