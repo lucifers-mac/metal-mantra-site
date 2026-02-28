@@ -6,13 +6,22 @@ export default function NewsletterSignup({ variant = "inline" }: { variant?: "in
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "success" | "error">("idle");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Wire up to email provider (Mailchimp, ConvertKit, etc.)
-    if (email.includes("@")) {
-      setStatus("success");
-      setEmail("");
-    } else {
+    setStatus("loading" as "idle" | "success" | "error");
+    try {
+      const res = await fetch("/api/newsletter", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email }),
+      });
+      if (res.ok) {
+        setStatus("success");
+        setEmail("");
+      } else {
+        setStatus("error");
+      }
+    } catch {
       setStatus("error");
     }
   };

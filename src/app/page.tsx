@@ -18,7 +18,9 @@ export default function HomePage() {
   const usedIds = new Set([hero?.id, ...subHeroes.map(p => p.id)]);
   const newsOnly = nonRundown.filter((p) => (p.contentType === "news" || p.contentType === "tour") && !usedIds.has(p.id));
   const gridPosts = newsOnly.slice(0, 6);
-  const morePosts = nonRundown.slice(9, 15);  // mixed is fine for "More Stories"
+  // More Stories: exclude everything already shown above
+  const shownIds = new Set([hero?.id, ...subHeroes.map(p => p.id), ...gridPosts.map(p => p.id)]);
+  const morePosts = nonRundown.filter(p => !shownIds.has(p.id)).slice(0, 6);
 
   // Ticker: most recent 8 non-rundown posts
   const tickerPosts = nonRundown.slice(0, 8);
