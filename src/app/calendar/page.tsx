@@ -29,6 +29,23 @@ interface ShowsResponse {
 
 const RADIUS_OPTIONS = [25, 50, 100, 150, 200];
 
+const GENRE_FILTERS = [
+  { label: "All", value: "all" },
+  { label: "Metal", value: "metal" },
+  { label: "Hard Rock", value: "hard rock" },
+  { label: "Rock", value: "rock" },
+  { label: "Alternative", value: "alternative" },
+  { label: "Punk", value: "punk" },
+  { label: "Pop", value: "pop" },
+  { label: "Hip-Hop", value: "hip-hop" },
+  { label: "R&B", value: "r&b" },
+  { label: "Country", value: "country" },
+  { label: "EDM", value: "electro" },
+  { label: "Latin", value: "latin" },
+  { label: "Jazz", value: "jazz" },
+  { label: "Classical", value: "classical" },
+];
+
 function formatShowDate(dateStr: string): string {
   const d = new Date(dateStr + "T12:00:00");
   return d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
@@ -62,6 +79,7 @@ export default function CalendarPage() {
   const [searched, setSearched] = useState(false);
   const [page, setPage] = useState(0);
   const [totalPages, setTotalPages] = useState(1);
+  const [genreFilter, setGenreFilter] = useState("all");
 
   // Load saved zip from localStorage
   useEffect(() => {
@@ -145,9 +163,6 @@ export default function CalendarPage() {
     );
   };
 
-  const grouped = groupByDate(shows);
-  const sortedDates = Object.keys(grouped).sort();
-
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8">
       {/* Header */}
@@ -215,12 +230,38 @@ export default function CalendarPage() {
         )}
       </form>
 
+      {/* Genre Filters */}
+      {searched && !loading && shows.length > 0 && (
+        <div className="mb-6 flex flex-wrap gap-2 justify-center">
+          {GENRE_FILTERS.map((g) => (
+            <button
+              key={g.value}
+              onClick={() => setGenreFilter(g.value)}
+              className={`px-3 py-1.5 text-[11px] font-bold uppercase tracking-wider rounded-full border transition-all ${
+                genreFilter === g.value
+                  ? "bg-mantra-red text-white border-mantra-red"
+                  : "bg-mantra-card text-mantra-muted border-mantra-border hover:text-white hover:border-mantra-red/30"
+              }`}
+              style={{ fontFamily: "var(--font-heading)" }}
+            >
+              {g.label}
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Results */}
-      {searched && !loading && (
+      {searched && !loading && (() => {
+        const filtered = genreFilter === "all"
+          ? shows
+          : shows.filter((s) => s.genre.toLowerCase().includes(genreFilter));
+        const grouped = groupByDate(filtered);
+        const sortedDates = Object.keys(grouped).sort();
+        return (
         <>
           <div className="flex items-center justify-between mb-6">
             <p className="text-sm text-mantra-muted">
-              <span className="text-white font-bold">{total}</span> shows within{" "}
+              <span className="text-white font-bold">{filtered.length}</span>{genreFilter !== "all" ? ` ${genreFilter}` : ""} shows within{" "}
               <span className="text-white font-bold">{radius} miles</span> of{" "}
               <span className="text-white font-bold">{zip}</span>
             </p>
@@ -341,7 +382,8 @@ export default function CalendarPage() {
             </div>
           )}
         </>
-      )}
+        );
+      })()}
 
       {/* Empty state — first visit, no saved zip */}
       {!searched && !loading && (
