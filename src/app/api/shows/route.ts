@@ -3,12 +3,6 @@ import { NextRequest, NextResponse } from "next/server";
 const API_KEY = process.env.TICKETMASTER_API_KEY || "";
 const TM_BASE = "https://app.ticketmaster.com/discovery/v2/events.json";
 
-// Ticketmaster genre/subgenre IDs for metal & hard rock
-const GENRE_IDS = [
-  "KnvZfZ7vAeA", // Rock
-  "KnvZfZ7vAvE", // Metal  
-];
-
 // Impact affiliate base URL for Ticketmaster
 const AFFILIATE_BASE = "https://ticketmaster.evyy.net/c/6786771/264167/4272";
 
@@ -77,20 +71,17 @@ export async function GET(req: NextRequest) {
       return NextResponse.json({ error: "Valid 5-digit zip code required" }, { status: 400 });
     }
 
-    // Query Ticketmaster Discovery API
+    // Query Ticketmaster Discovery API — broad rock/metal/alternative/punk search
     const params = new URLSearchParams({
       apikey: API_KEY,
       postalCode: zip,
       radius,
       unit: "miles",
-      classificationName: "rock,metal",
+      classificationName: "rock,metal,alternative,punk,hard rock",
       sort: "date,asc",
       size: "50",
       page,
     });
-
-    // Add genre filter
-    params.set("genreId", GENRE_IDS.join(","));
 
     const tmRes = await fetch(`${TM_BASE}?${params}`, {
       headers: { Accept: "application/json" },
@@ -112,7 +103,14 @@ export async function GET(req: NextRequest) {
       const venue = e._embedded?.venues?.[0];
       const artists = e._embedded?.attractions?.map((a) => a.name) || [];
       const classification = e.classifications?.[0];
-      const genre = classification?.subGenre?.name || classification?.genre?.name || "Rock/Metal";
+      const subGenre = classification?.subGenre?.name;
+      const mainGenre = classification?.genre?.name;
+      // Use subgenre if meaningful, otherwise main genre
+      const genre = (subGenre && subGenre !== "Other" && subGenre !== "Undefined")
+        ? subGenre
+        : (mainGenre && mainGenre !== "Other" && mainGenre !== "Undefined")
+          ? mainGenre
+          : "Rock";
 
       // Pick best image (prefer 16:9, largest)
       const img = e.images

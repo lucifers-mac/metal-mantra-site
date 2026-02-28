@@ -290,9 +290,11 @@ export default function CalendarPage() {
                           <div className="mt-1 flex items-center gap-2 text-xs text-mantra-dim">
                             {show.time && <span>{formatShowTime(show.time)}</span>}
                             <span className={`px-1.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider border ${
-                              show.genre.toLowerCase().includes("metal")
+                              show.genre.toLowerCase().includes("metal") || show.genre.toLowerCase().includes("hard rock")
                                 ? "bg-mantra-red/10 text-mantra-red-hot border-mantra-red/30"
-                                : "bg-purple-900/30 text-purple-400 border-purple-500/30"
+                                : show.genre.toLowerCase().includes("alternative") || show.genre.toLowerCase().includes("punk")
+                                  ? "bg-amber-900/30 text-amber-400 border-amber-500/30"
+                                  : "bg-purple-900/30 text-purple-400 border-purple-500/30"
                             }`}>
                               {show.genre}
                             </span>
