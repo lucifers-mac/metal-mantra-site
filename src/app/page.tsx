@@ -14,8 +14,9 @@ export default function HomePage() {
   const heroPool = nonRundown.filter((p) => ["news", "tour", "festival"].includes(p.contentType));
   const hero = heroPool[0];
   const subHeroes = heroPool.slice(1, 3);   // 2 side features
-  // News grid: only news/tour posts, no festivals bleeding in
-  const newsOnly = nonRundown.filter((p) => p.contentType === "news" || p.contentType === "tour");
+  // News grid: exclude hero + subheroes, news/tour only
+  const usedIds = new Set([hero?.id, ...subHeroes.map(p => p.id)]);
+  const newsOnly = nonRundown.filter((p) => (p.contentType === "news" || p.contentType === "tour") && !usedIds.has(p.id));
   const gridPosts = newsOnly.slice(0, 6);
   const morePosts = nonRundown.slice(9, 15);  // mixed is fine for "More Stories"
 
