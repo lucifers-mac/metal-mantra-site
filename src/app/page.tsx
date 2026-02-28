@@ -1,92 +1,161 @@
 import PostCard from "@/components/PostCard";
 import Sidebar from "@/components/Sidebar";
+import BreakingTicker from "@/components/BreakingTicker";
 import Link from "next/link";
 import { getLatestPosts, getPostsByType } from "@/lib/content";
 
 export default function HomePage() {
-  const latest = getLatestPosts(13);
-  const hero = latest[0];
-  const grid = latest.slice(1, 7);
-  const more = latest.slice(7, 13);
-  const rundowns = getPostsByType("rundown").slice(0, 3);
+  // Get latest non-rundown posts for hero + grid
+  const allLatest = getLatestPosts(30);
+  const nonRundown = allLatest.filter((p) => p.contentType !== "rundown");
+
+  const hero = nonRundown[0];
+  const subHeroes = nonRundown.slice(1, 3);   // 2 side features
+  const gridPosts = nonRundown.slice(3, 9);   // 6 standard cards
+  const morePosts = nonRundown.slice(9, 15);  // 6 more for "More Stories"
+
+  // Ticker: most recent 8 posts
+  const tickerPosts = allLatest.slice(0, 8);
+
+  // Featured content by type
+  const festivals = getPostsByType("festival").slice(0, 3);
+  const features = getPostsByType("feature").slice(0, 3);
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
-      {/* Hero */}
-      {hero && (
-        <section className="mb-10">
-          <PostCard post={hero} variant="hero" />
-        </section>
-      )}
+    <>
+      {/* Breaking News Ticker */}
+      <BreakingTicker posts={tickerPosts} />
 
-      <div className="lg:grid lg:grid-cols-3 lg:gap-10">
-        {/* Main Feed */}
-        <div className="lg:col-span-2">
-          {/* Latest News Grid */}
-          <section>
-            <div className="flex items-center justify-between mb-6">
-              <h2
-                className="text-lg font-bold uppercase tracking-wider text-white"
-                style={{ fontFamily: "var(--font-display)" }}
-              >
-                Latest
-              </h2>
-              <Link href="/news/" className="text-xs text-mantra-red hover:text-mantra-red-hot uppercase tracking-wider font-bold transition-colors">
-                View All &rarr;
-              </Link>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
+        {/* ═══ HERO SECTION ═══ */}
+        <section className="py-6">
+          <div className="grid lg:grid-cols-3 gap-4">
+            {/* Main Hero */}
+            <div className="lg:col-span-2">
+              {hero && <PostCard post={hero} variant="hero" />}
             </div>
-            <div className="grid sm:grid-cols-2 gap-5">
-              {grid.map((post) => (
-                <PostCard key={post.id} post={post} />
+
+            {/* Side Stack — 2 featured cards */}
+            <div className="flex flex-col gap-4">
+              {subHeroes.map((post) => (
+                <Link key={post.id} href={post.path} className="group relative flex-1 overflow-hidden rounded-lg">
+                  <div className="relative h-full min-h-[180px]">
+                    {post.featuredImage ? (
+                      <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover absolute inset-0 group-hover:scale-[1.03] transition-transform duration-500" />
+                    ) : (
+                      <div className="w-full h-full absolute inset-0 bg-gradient-to-br from-mantra-card to-mantra-black" />
+                    )}
+                    <div className="hero-gradient absolute inset-0" />
+                    <div className="absolute bottom-0 left-0 right-0 p-4">
+                      <h3
+                        className="text-sm md:text-base font-bold text-white leading-tight group-hover:text-mantra-red-hot transition-colors line-clamp-2"
+                        style={{ fontFamily: "var(--font-heading)" }}
+                      >
+                        {post.title}
+                      </h3>
+                      <time className="mt-1 text-[11px] text-gray-400 block">{new Date(post.date).toLocaleDateString("en-US", { month: "short", day: "numeric" })}</time>
+                    </div>
+                  </div>
+                </Link>
               ))}
             </div>
-          </section>
+          </div>
+        </section>
 
-          {/* Rundowns Section */}
-          {rundowns.length > 0 && (
-            <section className="mt-12">
-              <div className="flex items-center justify-between mb-6">
+        {/* ═══ MAIN CONTENT ═══ */}
+        <div className="lg:grid lg:grid-cols-3 lg:gap-8 pb-12">
+          {/* Main Feed — 2/3 */}
+          <div className="lg:col-span-2">
+            {/* Latest News Grid */}
+            <section>
+              <div className="section-header flex items-center justify-between">
                 <h2
-                  className="text-lg font-bold uppercase tracking-wider text-white"
-                  style={{ fontFamily: "var(--font-display)" }}
+                  className="text-sm font-bold uppercase tracking-[0.15em] text-white"
+                  style={{ fontFamily: "var(--font-heading)" }}
                 >
-                  Rundowns
+                  Latest News
                 </h2>
-                <Link href="/rundowns/" className="text-xs text-mantra-ember hover:text-mantra-red uppercase tracking-wider font-bold transition-colors">
-                  All Rundowns &rarr;
+                <Link href="/news/" className="text-[11px] text-mantra-dim hover:text-mantra-red uppercase tracking-wider font-bold transition-colors">
+                  View All &rarr;
                 </Link>
               </div>
-              <div className="grid sm:grid-cols-3 gap-4">
-                {rundowns.map((post) => (
-                  <PostCard key={post.id} post={post} variant="compact" />
+              <div className="grid sm:grid-cols-2 gap-4">
+                {gridPosts.map((post) => (
+                  <PostCard key={post.id} post={post} />
                 ))}
               </div>
             </section>
-          )}
 
-          {/* More Stories */}
-          {more.length > 0 && (
-            <section className="mt-12">
-              <h2
-                className="text-lg font-bold uppercase tracking-wider text-white mb-6"
-                style={{ fontFamily: "var(--font-display)" }}
-              >
-                More Stories
-              </h2>
-              <div className="space-y-5">
-                {more.map((post) => (
-                  <PostCard key={post.id} post={post} variant="horizontal" />
-                ))}
-              </div>
-            </section>
-          )}
-        </div>
+            {/* Featured / Long-form */}
+            {features.length > 0 && (
+              <section className="mt-12">
+                <div className="section-header flex items-center justify-between">
+                  <h2
+                    className="text-sm font-bold uppercase tracking-[0.15em] text-white"
+                    style={{ fontFamily: "var(--font-heading)" }}
+                  >
+                    Features
+                  </h2>
+                  <Link href="/features/" className="text-[11px] text-mantra-dim hover:text-mantra-red uppercase tracking-wider font-bold transition-colors">
+                    View All &rarr;
+                  </Link>
+                </div>
+                <div className="space-y-4">
+                  {features.map((post) => (
+                    <PostCard key={post.id} post={post} variant="featured" />
+                  ))}
+                </div>
+              </section>
+            )}
 
-        {/* Sidebar */}
-        <div className="mt-10 lg:mt-0">
-          <Sidebar />
+            {/* Festivals */}
+            {festivals.length > 0 && (
+              <section className="mt-12">
+                <div className="section-header flex items-center justify-between">
+                  <h2
+                    className="text-sm font-bold uppercase tracking-[0.15em] text-white"
+                    style={{ fontFamily: "var(--font-heading)" }}
+                  >
+                    Festivals &amp; Events
+                  </h2>
+                  <Link href="/festivals/" className="text-[11px] text-mantra-dim hover:text-mantra-red uppercase tracking-wider font-bold transition-colors">
+                    View All &rarr;
+                  </Link>
+                </div>
+                <div className="grid sm:grid-cols-3 gap-4">
+                  {festivals.map((post) => (
+                    <PostCard key={post.id} post={post} />
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {/* More Stories */}
+            {morePosts.length > 0 && (
+              <section className="mt-12">
+                <div className="section-header">
+                  <h2
+                    className="text-sm font-bold uppercase tracking-[0.15em] text-white"
+                    style={{ fontFamily: "var(--font-heading)" }}
+                  >
+                    More Stories
+                  </h2>
+                </div>
+                <div className="space-y-0">
+                  {morePosts.map((post) => (
+                    <PostCard key={post.id} post={post} variant="horizontal" />
+                  ))}
+                </div>
+              </section>
+            )}
+          </div>
+
+          {/* Sidebar — 1/3 */}
+          <div className="mt-10 lg:mt-0">
+            <Sidebar />
+          </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
