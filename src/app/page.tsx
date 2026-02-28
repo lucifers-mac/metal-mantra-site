@@ -138,11 +138,6 @@ export default function HomePage() {
               </section>
             )}
 
-            {/* Newsletter CTA */}
-            <section className="mt-12">
-              <NewsletterSignup />
-            </section>
-
             {/* More Stories */}
             {morePosts.length > 0 && (
               <section className="mt-12">

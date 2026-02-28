@@ -48,6 +48,9 @@ export default function Sidebar() {
         </div>
       )}
 
+      {/* Newsletter — right after Rundowns */}
+      <NewsletterSignup variant="footer" />
+
       {/* Popular Tags */}
       <div className="bg-mantra-card border border-mantra-border rounded-lg p-5">
         <h3
@@ -68,9 +71,6 @@ export default function Sidebar() {
           ))}
         </div>
       </div>
-
-      {/* Newsletter */}
-      <NewsletterSignup variant="footer" />
 
       {/* Merch CTA */}
       <div className="relative overflow-hidden bg-mantra-card border border-mantra-red/20 rounded-lg p-5 text-center">
