@@ -139,7 +139,7 @@ export default function ArticlePage({ post }: { post: Post }) {
           <div className="mt-10 lg:mt-0 space-y-6">
             {/* Affiliate widget — shows + music for bands in this article */}
             {post.tags && post.tags.length > 0 && (
-              <AffiliateWidget bands={post.tags.map((t) => t.name)} />
+              <AffiliateWidget bands={post.tags.map((t) => t.name)} title={post.title} />
             )}
             <SponsorSlot label="Sponsored By" />
             <Sidebar />

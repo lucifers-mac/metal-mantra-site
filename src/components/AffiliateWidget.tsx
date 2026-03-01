@@ -13,6 +13,7 @@ interface Show {
 
 interface AffiliateWidgetProps {
   bands: string[]; // tag names — e.g. ["Metallica", "Black Label Society"]
+  title?: string;  // post title — used to find the primary band
 }
 
 const AFFILIATE_BASE = "https://ticketmaster.evyy.net/c/6786771/264167/4272";
@@ -26,12 +27,46 @@ function tmAffiliateUrl(url: string): string {
   return `${AFFILIATE_BASE}?u=${encodeURIComponent(url)}`;
 }
 
-export default function AffiliateWidget({ bands }: AffiliateWidgetProps) {
+// Non-band terms to exclude from band detection
+const NON_BAND_TERMS = new Set([
+  "tour","concert","live","album","ep","single","video","review","news","metal",
+  "rock","hardcore","metalcore","deathcore","death metal","black metal","thrash",
+  "heavy metal","alternative metal","prog","progressive","nu-metal","punk",
+  "announcement","tickets","interview","exclusive","premiere","stream","watch",
+  "listen","new","2024","2025","2026","2027","band","music","song","track",
+  "release","debut","reunion","farewell","hiatus","split","cover","tribute",
+]);
+
+function findPrimaryBand(bands: string[], title?: string): string {
+  if (!bands.length) return "";
+
+  // Filter out obvious non-band tags
+  const bandCandidates = bands.filter(b => {
+    const lower = b.toLowerCase().replace(/\s*\(band\)\s*/i, "").trim();
+    return !NON_BAND_TERMS.has(lower) && lower.length > 2;
+  });
+
+  if (!bandCandidates.length) return bands[0];
+
+  // If we have a title, find which candidate appears in it
+  if (title) {
+    const titleLower = title.toLowerCase();
+    // Exact match first
+    const exact = bandCandidates.find(b =>
+      titleLower.includes(b.toLowerCase().replace(/\s*\(band\)\s*/i, "").trim())
+    );
+    if (exact) return exact.replace(/\s*\(band\)\s*/i, "").trim();
+  }
+
+  // Fall back to first non-generic candidate
+  return bandCandidates[0].replace(/\s*\(band\)\s*/i, "").trim();
+}
+
+export default function AffiliateWidget({ bands, title }: AffiliateWidgetProps) {
   const [shows, setShows] = useState<Show[]>([]);
   const [loading, setLoading] = useState(true);
 
-  // Use the primary band (first tag) for TM search
-  const primaryBand = bands[0];
+  const primaryBand = findPrimaryBand(bands, title);
 
   useEffect(() => {
     if (!primaryBand) { setLoading(false); return; }

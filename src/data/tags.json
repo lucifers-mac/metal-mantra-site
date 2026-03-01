@@ -3,7 +3,7 @@
     "id": 23,
     "name": "metal mantra",
     "slug": "metal-mantra",
-    "count": 75
+    "count": 73
   },
   {
     "id": 30,
@@ -39,18 +39,18 @@
     "id": 51,
     "name": "heavy metal news",
     "slug": "heavy-metal-news",
-    "count": 14
-  },
-  {
-    "id": 43,
-    "name": "Festivals",
-    "slug": "festivals",
     "count": 13
   },
   {
     "id": 31,
     "name": "metal tours",
     "slug": "metal-tours",
+    "count": 12
+  },
+  {
+    "id": 43,
+    "name": "Festivals",
+    "slug": "festivals",
     "count": 12
   },
   {
@@ -84,12 +84,6 @@
     "count": 7
   },
   {
-    "id": 5,
-    "name": "Pantera",
-    "slug": "pantera",
-    "count": 6
-  },
-  {
     "id": 12,
     "name": "Lamb of God",
     "slug": "lamb-of-god",
@@ -99,18 +93,6 @@
     "id": 24,
     "name": "metal tour announcements",
     "slug": "metal-tour-announcements",
-    "count": 6
-  },
-  {
-    "id": 32,
-    "name": "Metallica",
-    "slug": "metallica",
-    "count": 6
-  },
-  {
-    "id": 109,
-    "name": "ShipRocked",
-    "slug": "shiprocked",
     "count": 6
   },
   {
@@ -144,10 +126,16 @@
     "count": 6
   },
   {
-    "id": 218,
-    "name": "Limp Bizkit",
-    "slug": "limp-bizkit",
-    "count": 6
+    "id": 5,
+    "name": "Pantera",
+    "slug": "pantera",
+    "count": 5
+  },
+  {
+    "id": 32,
+    "name": "Metallica",
+    "slug": "metallica",
+    "count": 5
   },
   {
     "id": 53,
@@ -180,27 +168,27 @@
     "count": 5
   },
   {
+    "id": 109,
+    "name": "ShipRocked",
+    "slug": "shiprocked",
+    "count": 5
+  },
+  {
     "id": 111,
     "name": "Knocked Loose",
     "slug": "knocked-loose",
     "count": 5
   },
   {
-    "id": 146,
-    "name": "metal cruise",
-    "slug": "metal-cruise",
-    "count": 5
-  },
-  {
-    "id": 167,
-    "name": "Suicidal Tendencies",
-    "slug": "suicidal-tendencies",
-    "count": 5
-  },
-  {
     "id": 169,
     "name": "Gojira",
     "slug": "gojira",
+    "count": 5
+  },
+  {
+    "id": 218,
+    "name": "Limp Bizkit",
+    "slug": "limp-bizkit",
     "count": 5
   },
   {
@@ -219,12 +207,6 @@
     "id": 249,
     "name": "Slipknot",
     "slug": "slipknot",
-    "count": 5
-  },
-  {
-    "id": 425,
-    "name": "Parkway Drive",
-    "slug": "parkway-drive",
     "count": 5
   },
   {
@@ -276,6 +258,12 @@
     "count": 4
   },
   {
+    "id": 146,
+    "name": "metal cruise",
+    "slug": "metal-cruise",
+    "count": 4
+  },
+  {
     "id": 156,
     "name": "deathcore",
     "slug": "deathcore",
@@ -288,15 +276,15 @@
     "count": 4
   },
   {
-    "id": 180,
-    "name": "metalcore news",
-    "slug": "metalcore-news",
+    "id": 167,
+    "name": "Suicidal Tendencies",
+    "slug": "suicidal-tendencies",
     "count": 4
   },
   {
-    "id": 213,
-    "name": "Ice Nine Kills",
-    "slug": "ice-nine-kills",
+    "id": 180,
+    "name": "metalcore news",
+    "slug": "metalcore-news",
     "count": 4
   },
   {
@@ -327,6 +315,12 @@
     "id": 392,
     "name": "Amy Lee",
     "slug": "amy-lee",
+    "count": 4
+  },
+  {
+    "id": 425,
+    "name": "Parkway Drive",
+    "slug": "parkway-drive",
     "count": 4
   },
   {
@@ -396,12 +390,6 @@
     "count": 3
   },
   {
-    "id": 141,
-    "name": "festival review",
-    "slug": "festival-review",
-    "count": 3
-  },
-  {
     "id": 142,
     "name": "Halestorm",
     "slug": "halestorm",
@@ -417,6 +405,12 @@
     "id": 148,
     "name": "The Funeral Portrait",
     "slug": "the-funeral-portrait",
+    "count": 3
+  },
+  {
+    "id": 213,
+    "name": "Ice Nine Kills",
+    "slug": "ice-nine-kills",
     "count": 3
   },
   {
@@ -459,12 +453,6 @@
     "id": 612,
     "name": "2026 metal tours",
     "slug": "2026-metal-tours",
-    "count": 3
-  },
-  {
-    "id": 800,
-    "name": "Bay Area Metal",
-    "slug": "bay-area-metal",
     "count": 3
   },
   {
@@ -681,6 +669,12 @@
     "id": 140,
     "name": "Dead Poet Society",
     "slug": "dead-poet-society",
+    "count": 2
+  },
+  {
+    "id": 141,
+    "name": "festival review",
+    "slug": "festival-review",
     "count": 2
   },
   {
@@ -1014,93 +1008,9 @@
     "count": 2
   },
   {
-    "id": 810,
-    "name": "72 Seasons",
-    "slug": "72-seasons",
-    "count": 2
-  },
-  {
-    "id": 811,
-    "name": "Bay Area Music",
-    "slug": "bay-area-music",
-    "count": 2
-  },
-  {
-    "id": 812,
-    "name": "In-The-Round Stage",
-    "slug": "in-the-round-stage",
-    "count": 2
-  },
-  {
-    "id": 813,
-    "name": "Levi’s Stadium",
-    "slug": "levis-stadium",
-    "count": 2
-  },
-  {
-    "id": 814,
-    "name": "Live Metallica 2025",
-    "slug": "live-metallica-2025",
-    "count": 2
-  },
-  {
-    "id": 815,
-    "name": "M72 World Tour",
-    "slug": "m72-world-tour",
-    "count": 2
-  },
-  {
-    "id": 816,
-    "name": "Metal Shows",
-    "slug": "metal-shows",
-    "count": 2
-  },
-  {
-    "id": 817,
-    "name": "Metallica Concert Review",
-    "slug": "metallica-concert-review",
-    "count": 2
-  },
-  {
-    "id": 818,
-    "name": "Metallica Hometown Show",
-    "slug": "metallica-hometown-show",
-    "count": 2
-  },
-  {
-    "id": 819,
-    "name": "Metallica Legacy",
-    "slug": "metallica-legacy",
-    "count": 2
-  },
-  {
-    "id": 820,
-    "name": "No Repeat Weekend",
-    "slug": "no-repeat-weekend",
-    "count": 2
-  },
-  {
-    "id": 821,
-    "name": "Santa Clara",
-    "slug": "santa-clara",
-    "count": 2
-  },
-  {
-    "id": 829,
-    "name": "ShipRocked 2025",
-    "slug": "shiprocked-2025",
-    "count": 2
-  },
-  {
-    "id": 830,
-    "name": "Silly Goose",
-    "slug": "silly-goose",
-    "count": 2
-  },
-  {
-    "id": 831,
-    "name": "The Stowaways",
-    "slug": "the-stowaways",
+    "id": 800,
+    "name": "Bay Area Metal",
+    "slug": "bay-area-metal",
     "count": 2
   },
   {
@@ -4944,6 +4854,78 @@
     "count": 1
   },
   {
+    "id": 810,
+    "name": "72 Seasons",
+    "slug": "72-seasons",
+    "count": 1
+  },
+  {
+    "id": 811,
+    "name": "Bay Area Music",
+    "slug": "bay-area-music",
+    "count": 1
+  },
+  {
+    "id": 812,
+    "name": "In-The-Round Stage",
+    "slug": "in-the-round-stage",
+    "count": 1
+  },
+  {
+    "id": 813,
+    "name": "Levi’s Stadium",
+    "slug": "levis-stadium",
+    "count": 1
+  },
+  {
+    "id": 814,
+    "name": "Live Metallica 2025",
+    "slug": "live-metallica-2025",
+    "count": 1
+  },
+  {
+    "id": 815,
+    "name": "M72 World Tour",
+    "slug": "m72-world-tour",
+    "count": 1
+  },
+  {
+    "id": 816,
+    "name": "Metal Shows",
+    "slug": "metal-shows",
+    "count": 1
+  },
+  {
+    "id": 817,
+    "name": "Metallica Concert Review",
+    "slug": "metallica-concert-review",
+    "count": 1
+  },
+  {
+    "id": 818,
+    "name": "Metallica Hometown Show",
+    "slug": "metallica-hometown-show",
+    "count": 1
+  },
+  {
+    "id": 819,
+    "name": "Metallica Legacy",
+    "slug": "metallica-legacy",
+    "count": 1
+  },
+  {
+    "id": 820,
+    "name": "No Repeat Weekend",
+    "slug": "no-repeat-weekend",
+    "count": 1
+  },
+  {
+    "id": 821,
+    "name": "Santa Clara",
+    "slug": "santa-clara",
+    "count": 1
+  },
+  {
     "id": 822,
     "name": "Archetypes Collide",
     "slug": "archetypes-collide",
@@ -4983,6 +4965,24 @@
     "id": 828,
     "name": "rock festival at sea",
     "slug": "rock-festival-at-sea",
+    "count": 1
+  },
+  {
+    "id": 829,
+    "name": "ShipRocked 2025",
+    "slug": "shiprocked-2025",
+    "count": 1
+  },
+  {
+    "id": 830,
+    "name": "Silly Goose",
+    "slug": "silly-goose",
+    "count": 1
+  },
+  {
+    "id": 831,
+    "name": "The Stowaways",
+    "slug": "the-stowaways",
     "count": 1
   }
 ]

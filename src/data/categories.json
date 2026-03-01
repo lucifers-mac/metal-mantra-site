@@ -10,7 +10,7 @@
     "id": 2,
     "name": "Festivals",
     "slug": "festivals",
-    "count": 20,
+    "count": 19,
     "description": ""
   },
   {
@@ -101,7 +101,7 @@
     "id": 15,
     "name": "Festival Reviews",
     "slug": "festival-reviews",
-    "count": 4,
+    "count": 3,
     "description": ""
   },
   {
@@ -115,14 +115,14 @@
     "id": 17,
     "name": "Concert Reviews",
     "slug": "concert-reviews",
-    "count": 3,
+    "count": 2,
     "description": ""
   },
   {
     "id": 18,
     "name": "Live",
     "slug": "live",
-    "count": 3,
+    "count": 2,
     "description": ""
   },
   {
