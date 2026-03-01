@@ -7,6 +7,10 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import matter from "gray-matter";
+import { marked } from "marked";
+
+// Configure marked for clean output
+marked.setOptions({ gfm: true, breaks: true });
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
@@ -61,12 +65,13 @@ const posts = files
     }));
 
     const wc = countWords(content);
+    const contentHtml = marked.parse(content);
 
     return {
       id: index + 1,
       slug,
       title,
-      content,
+      content: contentHtml,
       excerpt,
       date,
       modified,

@@ -30,12 +30,6 @@
     "count": 15
   },
   {
-    "id": 43,
-    "name": "Festivals",
-    "slug": "festivals",
-    "count": 15
-  },
-  {
     "id": 39,
     "name": "Hard Rock News",
     "slug": "hard-rock-news",
@@ -48,10 +42,10 @@
     "count": 14
   },
   {
-    "id": 1,
-    "name": "Iron Maiden",
-    "slug": "iron-maiden",
-    "count": 12
+    "id": 43,
+    "name": "Festivals",
+    "slug": "festivals",
+    "count": 13
   },
   {
     "id": 31,
@@ -60,10 +54,16 @@
     "count": 12
   },
   {
+    "id": 1,
+    "name": "Iron Maiden",
+    "slug": "iron-maiden",
+    "count": 11
+  },
+  {
     "id": 4,
     "name": "Megadeth",
     "slug": "megadeth",
-    "count": 11
+    "count": 10
   },
   {
     "id": 66,
@@ -81,12 +81,6 @@
     "id": 84,
     "name": "hardcore",
     "slug": "hardcore",
-    "count": 7
-  },
-  {
-    "id": 122,
-    "name": "Motionless In White",
-    "slug": "motionless-in-white",
     "count": 7
   },
   {
@@ -114,39 +108,21 @@
     "count": 6
   },
   {
-    "id": 55,
-    "name": "Papa Roach",
-    "slug": "papa-roach",
-    "count": 6
-  },
-  {
-    "id": 82,
-    "name": "Avatar",
-    "slug": "avatar",
-    "count": 6
-  },
-  {
     "id": 109,
     "name": "ShipRocked",
     "slug": "shiprocked",
     "count": 6
   },
   {
-    "id": 111,
-    "name": "Knocked Loose",
-    "slug": "knocked-loose",
+    "id": 122,
+    "name": "Motionless In White",
+    "slug": "motionless-in-white",
     "count": 6
   },
   {
     "id": 132,
     "name": "metal festival",
     "slug": "metal-festival",
-    "count": 6
-  },
-  {
-    "id": 167,
-    "name": "Suicidal Tendencies",
-    "slug": "suicidal-tendencies",
     "count": 6
   },
   {
@@ -174,12 +150,6 @@
     "count": 6
   },
   {
-    "id": 26,
-    "name": "Wage War",
-    "slug": "wage-war",
-    "count": 5
-  },
-  {
     "id": 53,
     "name": "festival lineup",
     "slug": "festival-lineup",
@@ -192,15 +162,39 @@
     "count": 5
   },
   {
+    "id": 55,
+    "name": "Papa Roach",
+    "slug": "papa-roach",
+    "count": 5
+  },
+  {
+    "id": 82,
+    "name": "Avatar",
+    "slug": "avatar",
+    "count": 5
+  },
+  {
     "id": 96,
     "name": "Tour Dates",
     "slug": "tour-dates",
     "count": 5
   },
   {
+    "id": 111,
+    "name": "Knocked Loose",
+    "slug": "knocked-loose",
+    "count": 5
+  },
+  {
     "id": 146,
     "name": "metal cruise",
     "slug": "metal-cruise",
+    "count": 5
+  },
+  {
+    "id": 167,
+    "name": "Suicidal Tendencies",
+    "slug": "suicidal-tendencies",
     "count": 5
   },
   {
@@ -240,6 +234,12 @@
     "count": 4
   },
   {
+    "id": 26,
+    "name": "Wage War",
+    "slug": "wage-war",
+    "count": 4
+  },
+  {
     "id": 57,
     "name": "Bad Omens",
     "slug": "bad-omens",
@@ -258,12 +258,6 @@
     "count": 4
   },
   {
-    "id": 75,
-    "name": "Starset",
-    "slug": "starset",
-    "count": 4
-  },
-  {
     "id": 116,
     "name": "festival news",
     "slug": "festival-news",
@@ -276,39 +270,9 @@
     "count": 4
   },
   {
-    "id": 135,
-    "name": "Rock for People",
-    "slug": "rock-for-people",
-    "count": 4
-  },
-  {
-    "id": 136,
-    "name": "Rock for People 2026",
-    "slug": "rock-for-people-2026",
-    "count": 4
-  },
-  {
-    "id": 142,
-    "name": "Halestorm",
-    "slug": "halestorm",
-    "count": 4
-  },
-  {
     "id": 145,
     "name": "Live Music",
     "slug": "live-music",
-    "count": 4
-  },
-  {
-    "id": 147,
-    "name": "Shiprocked 2026",
-    "slug": "shiprocked-2026",
-    "count": 4
-  },
-  {
-    "id": 148,
-    "name": "The Funeral Portrait",
-    "slug": "the-funeral-portrait",
     "count": 4
   },
   {
@@ -360,12 +324,6 @@
     "count": 4
   },
   {
-    "id": 384,
-    "name": "Bring Me The Horizon",
-    "slug": "bring-me-the-horizon",
-    "count": 4
-  },
-  {
     "id": 392,
     "name": "Amy Lee",
     "slug": "amy-lee",
@@ -402,9 +360,9 @@
     "count": 3
   },
   {
-    "id": 73,
-    "name": "Breaking Benjamin",
-    "slug": "breaking-benjamin",
+    "id": 75,
+    "name": "Starset",
+    "slug": "starset",
     "count": 3
   },
   {
@@ -426,9 +384,15 @@
     "count": 3
   },
   {
-    "id": 140,
-    "name": "Dead Poet Society",
-    "slug": "dead-poet-society",
+    "id": 135,
+    "name": "Rock for People",
+    "slug": "rock-for-people",
+    "count": 3
+  },
+  {
+    "id": 136,
+    "name": "Rock for People 2026",
+    "slug": "rock-for-people-2026",
     "count": 3
   },
   {
@@ -438,21 +402,21 @@
     "count": 3
   },
   {
-    "id": 143,
-    "name": "Holy Wars",
-    "slug": "holy-wars",
+    "id": 142,
+    "name": "Halestorm",
+    "slug": "halestorm",
     "count": 3
   },
   {
-    "id": 144,
-    "name": "House of Protection",
-    "slug": "house-of-protection",
+    "id": 147,
+    "name": "Shiprocked 2026",
+    "slug": "shiprocked-2026",
     "count": 3
   },
   {
-    "id": 260,
-    "name": "Rock news",
-    "slug": "rock-news",
+    "id": 148,
+    "name": "The Funeral Portrait",
+    "slug": "the-funeral-portrait",
     "count": 3
   },
   {
@@ -480,15 +444,15 @@
     "count": 3
   },
   {
-    "id": 394,
-    "name": "Evanescence",
-    "slug": "evanescence",
+    "id": 384,
+    "name": "Bring Me The Horizon",
+    "slug": "bring-me-the-horizon",
     "count": 3
   },
   {
-    "id": 408,
-    "name": "Static-X",
-    "slug": "static-x",
+    "id": 394,
+    "name": "Evanescence",
+    "slug": "evanescence",
     "count": 3
   },
   {
@@ -498,7 +462,7 @@
     "count": 3
   },
   {
-    "id": 806,
+    "id": 800,
     "name": "Bay Area Metal",
     "slug": "bay-area-metal",
     "count": 3
@@ -630,6 +594,12 @@
     "count": 2
   },
   {
+    "id": 73,
+    "name": "Breaking Benjamin",
+    "slug": "breaking-benjamin",
+    "count": 2
+  },
+  {
     "id": 77,
     "name": "poppy",
     "slug": "poppy",
@@ -705,6 +675,24 @@
     "id": 139,
     "name": "Carnival Horizon",
     "slug": "carnival-horizon",
+    "count": 2
+  },
+  {
+    "id": 140,
+    "name": "Dead Poet Society",
+    "slug": "dead-poet-society",
+    "count": 2
+  },
+  {
+    "id": 143,
+    "name": "Holy Wars",
+    "slug": "holy-wars",
+    "count": 2
+  },
+  {
+    "id": 144,
+    "name": "House of Protection",
+    "slug": "house-of-protection",
     "count": 2
   },
   {
@@ -834,6 +822,12 @@
     "count": 2
   },
   {
+    "id": 260,
+    "name": "Rock news",
+    "slug": "rock-news",
+    "count": 2
+  },
+  {
     "id": 262,
     "name": "black metal news",
     "slug": "black-metal-news",
@@ -855,12 +849,6 @@
     "id": 280,
     "name": "Anthrax",
     "slug": "anthrax",
-    "count": 2
-  },
-  {
-    "id": 295,
-    "name": "Alter Bridge",
-    "slug": "alter-bridge",
     "count": 2
   },
   {
@@ -936,6 +924,12 @@
     "count": 2
   },
   {
+    "id": 408,
+    "name": "Static-X",
+    "slug": "static-x",
+    "count": 2
+  },
+  {
     "id": 410,
     "name": "Wayne Static",
     "slug": "wayne-static",
@@ -1008,24 +1002,6 @@
     "count": 2
   },
   {
-    "id": 760,
-    "name": "Czech music festivals",
-    "slug": "czech-music-festivals",
-    "count": 2
-  },
-  {
-    "id": 762,
-    "name": "Electric Callboy",
-    "slug": "electric-callboy",
-    "count": 2
-  },
-  {
-    "id": 765,
-    "name": "The Pretty Reckless",
-    "slug": "the-pretty-reckless",
-    "count": 2
-  },
-  {
     "id": 769,
     "name": "Korn",
     "slug": "korn",
@@ -1038,133 +1014,91 @@
     "count": 2
   },
   {
-    "id": 816,
+    "id": 810,
     "name": "72 Seasons",
     "slug": "72-seasons",
     "count": 2
   },
   {
-    "id": 817,
+    "id": 811,
     "name": "Bay Area Music",
     "slug": "bay-area-music",
     "count": 2
   },
   {
-    "id": 818,
+    "id": 812,
     "name": "In-The-Round Stage",
     "slug": "in-the-round-stage",
     "count": 2
   },
   {
-    "id": 819,
+    "id": 813,
     "name": "Levi’s Stadium",
     "slug": "levis-stadium",
     "count": 2
   },
   {
-    "id": 820,
+    "id": 814,
     "name": "Live Metallica 2025",
     "slug": "live-metallica-2025",
     "count": 2
   },
   {
-    "id": 821,
+    "id": 815,
     "name": "M72 World Tour",
     "slug": "m72-world-tour",
     "count": 2
   },
   {
-    "id": 822,
+    "id": 816,
     "name": "Metal Shows",
     "slug": "metal-shows",
     "count": 2
   },
   {
-    "id": 823,
+    "id": 817,
     "name": "Metallica Concert Review",
     "slug": "metallica-concert-review",
     "count": 2
   },
   {
-    "id": 824,
+    "id": 818,
     "name": "Metallica Hometown Show",
     "slug": "metallica-hometown-show",
     "count": 2
   },
   {
-    "id": 825,
+    "id": 819,
     "name": "Metallica Legacy",
     "slug": "metallica-legacy",
     "count": 2
   },
   {
-    "id": 826,
+    "id": 820,
     "name": "No Repeat Weekend",
     "slug": "no-repeat-weekend",
     "count": 2
   },
   {
-    "id": 827,
+    "id": 821,
     "name": "Santa Clara",
     "slug": "santa-clara",
     "count": 2
   },
   {
-    "id": 828,
-    "name": "Archetypes Collide",
-    "slug": "archetypes-collide",
-    "count": 2
-  },
-  {
     "id": 829,
-    "name": "Carnival Horizon rock cruise",
-    "slug": "carnival-horizon-rock-cruise",
-    "count": 2
-  },
-  {
-    "id": 830,
-    "name": "cruise festival lineup",
-    "slug": "cruise-festival-lineup",
-    "count": 2
-  },
-  {
-    "id": 831,
-    "name": "DeathByRomy",
-    "slug": "deathbyromy",
-    "count": 2
-  },
-  {
-    "id": 832,
-    "name": "From Ashes To New",
-    "slug": "from-ashes-to-new",
-    "count": 2
-  },
-  {
-    "id": 833,
-    "name": "rock cruise",
-    "slug": "rock-cruise",
-    "count": 2
-  },
-  {
-    "id": 834,
-    "name": "rock festival at sea",
-    "slug": "rock-festival-at-sea",
-    "count": 2
-  },
-  {
-    "id": 835,
     "name": "ShipRocked 2025",
     "slug": "shiprocked-2025",
     "count": 2
   },
   {
-    "id": 836,
+    "id": 830,
     "name": "Silly Goose",
     "slug": "silly-goose",
     "count": 2
   },
   {
-    "id": 837,
+    "id": 831,
     "name": "The Stowaways",
     "slug": "the-stowaways",
     "count": 2
@@ -2145,6 +2079,12 @@
     "id": 294,
     "name": "Spinefarm Records",
     "slug": "spinefarm-records",
+    "count": 1
+  },
+  {
+    "id": 295,
+    "name": "Alter Bridge",
+    "slug": "alter-bridge",
     "count": 1
   },
   {
@@ -4722,9 +4662,21 @@
     "count": 1
   },
   {
+    "id": 760,
+    "name": "Czech music festivals",
+    "slug": "czech-music-festivals",
+    "count": 1
+  },
+  {
     "id": 761,
     "name": "Damon Albarn",
     "slug": "damon-albarn",
+    "count": 1
+  },
+  {
+    "id": 762,
+    "name": "Electric Callboy",
+    "slug": "electric-callboy",
     "count": 1
   },
   {
@@ -4737,6 +4689,12 @@
     "id": 764,
     "name": "Nothing But Thieves",
     "slug": "nothing-but-thieves",
+    "count": 1
+  },
+  {
+    "id": 765,
+    "name": "The Pretty Reckless",
+    "slug": "the-pretty-reckless",
     "count": 1
   },
   {
@@ -4932,93 +4890,99 @@
     "count": 1
   },
   {
-    "id": 800,
-    "name": "Blood Incantation",
-    "slug": "blood-incantation",
-    "count": 1
-  },
-  {
     "id": 801,
-    "name": "Don Broco",
-    "slug": "don-broco",
-    "count": 1
-  },
-  {
-    "id": 802,
-    "name": "Lottery Winners",
-    "slug": "lottery-winners",
-    "count": 1
-  },
-  {
-    "id": 803,
-    "name": "Malevolence",
-    "slug": "malevolence",
-    "count": 1
-  },
-  {
-    "id": 804,
-    "name": "Park 360 Hradec Králové",
-    "slug": "park-360-hradec-krlov",
-    "count": 1
-  },
-  {
-    "id": 805,
-    "name": "Rock for People festival",
-    "slug": "rock-for-people-festival",
-    "count": 1
-  },
-  {
-    "id": 807,
     "name": "heavy metal album",
     "slug": "heavy-metal-album",
     "count": 1
   },
   {
-    "id": 808,
+    "id": 802,
     "name": "us heavy metal",
     "slug": "us-heavy-metal",
     "count": 1
   },
   {
-    "id": 809,
+    "id": 803,
     "name": "back to the beginning",
     "slug": "back-to-the-beginning",
     "count": 1
   },
   {
-    "id": 810,
+    "id": 804,
     "name": "Black Sabbath",
     "slug": "black-sabbath",
     "count": 1
   },
   {
-    "id": 811,
+    "id": 805,
     "name": "Metal Icon",
     "slug": "metal-icon",
     "count": 1
   },
   {
-    "id": 812,
+    "id": 806,
     "name": "Metal Music",
     "slug": "metal-music",
     "count": 1
   },
   {
-    "id": 813,
+    "id": 807,
     "name": "Ozzfest",
     "slug": "ozzfest",
     "count": 1
   },
   {
-    "id": 814,
+    "id": 808,
     "name": "Prince of Darkness",
     "slug": "prince-of-darkness",
     "count": 1
   },
   {
-    "id": 815,
+    "id": 809,
     "name": "Rock Legend",
     "slug": "rock-legend",
+    "count": 1
+  },
+  {
+    "id": 822,
+    "name": "Archetypes Collide",
+    "slug": "archetypes-collide",
+    "count": 1
+  },
+  {
+    "id": 823,
+    "name": "Carnival Horizon rock cruise",
+    "slug": "carnival-horizon-rock-cruise",
+    "count": 1
+  },
+  {
+    "id": 824,
+    "name": "cruise festival lineup",
+    "slug": "cruise-festival-lineup",
+    "count": 1
+  },
+  {
+    "id": 825,
+    "name": "DeathByRomy",
+    "slug": "deathbyromy",
+    "count": 1
+  },
+  {
+    "id": 826,
+    "name": "From Ashes To New",
+    "slug": "from-ashes-to-new",
+    "count": 1
+  },
+  {
+    "id": 827,
+    "name": "rock cruise",
+    "slug": "rock-cruise",
+    "count": 1
+  },
+  {
+    "id": 828,
+    "name": "rock festival at sea",
+    "slug": "rock-festival-at-sea",
     "count": 1
   }
 ]
