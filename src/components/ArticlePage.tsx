@@ -1,6 +1,8 @@
 import { Post, getRelatedPosts, formatDate } from "@/lib/content";
 import PostCard from "@/components/PostCard";
 import Sidebar from "@/components/Sidebar";
+import AffiliateWidget from "@/components/AffiliateWidget";
+import SponsorSlot from "@/components/SponsorSlot";
 import Link from "next/link";
 
 const TYPE_BADGE: Record<string, string> = {
@@ -134,7 +136,12 @@ export default function ArticlePage({ post }: { post: Post }) {
           </article>
 
           {/* Sidebar */}
-          <div className="mt-10 lg:mt-0">
+          <div className="mt-10 lg:mt-0 space-y-6">
+            {/* Affiliate widget — shows + music for bands in this article */}
+            {post.tags && post.tags.length > 0 && (
+              <AffiliateWidget bands={post.tags.map((t) => t.name)} />
+            )}
+            <SponsorSlot label="Sponsored By" />
             <Sidebar />
           </div>
         </div>

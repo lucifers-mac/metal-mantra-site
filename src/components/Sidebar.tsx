@@ -1,6 +1,7 @@
 import Link from "next/link";
 import PostCard from "@/components/PostCard";
 import NewsletterSignup from "@/components/NewsletterSignup";
+import SponsorSlot from "@/components/SponsorSlot";
 import { getTrendingPosts, getPopularTags, getPostsByType, formatDateShort } from "@/lib/content";
 
 export default function Sidebar() {
@@ -50,6 +51,9 @@ export default function Sidebar() {
 
       {/* Newsletter — right after Rundowns */}
       <NewsletterSignup variant="footer" />
+
+      {/* Sponsor */}
+      <SponsorSlot />
 
       {/* Popular Tags */}
       <div className="bg-mantra-card border border-mantra-border rounded-lg p-5">
