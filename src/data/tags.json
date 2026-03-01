@@ -1,4742 +1,5024 @@
 [
   {
-    "id": 909,
+    "id": 23,
     "name": "metal mantra",
     "slug": "metal-mantra",
     "count": 75
   },
   {
-    "id": 477,
+    "id": 30,
     "name": "Metal News",
     "slug": "metal-news",
     "count": 45
   },
   {
-    "id": 775,
+    "id": 27,
     "name": "heavy metal",
     "slug": "heavy-metal",
     "count": 18
   },
   {
-    "id": 739,
+    "id": 98,
     "name": "metalcore",
     "slug": "metalcore",
     "count": 16
   },
   {
-    "id": 1038,
-    "name": "Festivals",
-    "slug": "festivals",
-    "count": 15
-  },
-  {
-    "id": 795,
+    "id": 35,
     "name": "Thrash Metal",
     "slug": "thrash-metal",
     "count": 15
   },
   {
-    "id": 483,
+    "id": 43,
+    "name": "Festivals",
+    "slug": "festivals",
+    "count": 15
+  },
+  {
+    "id": 39,
     "name": "Hard Rock News",
     "slug": "hard-rock-news",
     "count": 14
   },
   {
-    "id": 595,
+    "id": 51,
     "name": "heavy metal news",
     "slug": "heavy-metal-news",
     "count": 14
   },
   {
-    "id": 1008,
+    "id": 1,
+    "name": "Iron Maiden",
+    "slug": "iron-maiden",
+    "count": 12
+  },
+  {
+    "id": 31,
     "name": "metal tours",
     "slug": "metal-tours",
     "count": 12
   },
   {
-    "id": 443,
-    "name": "Iron Maiden",
-    "slug": "iron-maiden",
+    "id": 4,
+    "name": "Megadeth",
+    "slug": "megadeth",
     "count": 11
   },
   {
-    "id": 453,
-    "name": "Megadeth",
-    "slug": "megadeth",
-    "count": 10
-  },
-  {
-    "id": 599,
+    "id": 66,
     "name": "new metal releases",
     "slug": "new-metal-releases",
     "count": 9
   },
   {
-    "id": 1122,
+    "id": 104,
     "name": "hard rock",
     "slug": "hard-rock",
     "count": 8
   },
   {
-    "id": 1099,
+    "id": 84,
     "name": "hardcore",
     "slug": "hardcore",
     "count": 7
   },
   {
-    "id": 1160,
+    "id": 122,
     "name": "Motionless In White",
     "slug": "motionless-in-white",
     "count": 7
   },
   {
-    "id": 1057,
-    "name": "alternative metal",
-    "slug": "alternative-metal",
+    "id": 5,
+    "name": "Pantera",
+    "slug": "pantera",
     "count": 6
   },
   {
-    "id": 1274,
-    "name": "Avatar",
-    "slug": "avatar",
-    "count": 6
-  },
-  {
-    "id": 816,
-    "name": "Extreme Metal",
-    "slug": "extreme-metal",
-    "count": 6
-  },
-  {
-    "id": 539,
-    "name": "industrial metal",
-    "slug": "industrial-metal",
-    "count": 6
-  },
-  {
-    "id": 1270,
-    "name": "Knocked Loose",
-    "slug": "knocked-loose",
-    "count": 6
-  },
-  {
-    "id": 1102,
+    "id": 12,
     "name": "Lamb of God",
     "slug": "lamb-of-god",
     "count": 6
   },
   {
-    "id": 461,
-    "name": "Limp Bizkit",
-    "slug": "limp-bizkit",
-    "count": 6
-  },
-  {
-    "id": 1119,
-    "name": "metal festival",
-    "slug": "metal-festival",
-    "count": 6
-  },
-  {
-    "id": 856,
+    "id": 24,
     "name": "metal tour announcements",
     "slug": "metal-tour-announcements",
     "count": 6
   },
   {
-    "id": 1129,
+    "id": 32,
     "name": "Metallica",
     "slug": "metallica",
     "count": 6
   },
   {
-    "id": 447,
+    "id": 55,
     "name": "Papa Roach",
     "slug": "papa-roach",
     "count": 6
   },
   {
-    "id": 1168,
+    "id": 82,
+    "name": "Avatar",
+    "slug": "avatar",
+    "count": 6
+  },
+  {
+    "id": 109,
     "name": "ShipRocked",
     "slug": "shiprocked",
     "count": 6
   },
   {
-    "id": 1137,
+    "id": 111,
+    "name": "Knocked Loose",
+    "slug": "knocked-loose",
+    "count": 6
+  },
+  {
+    "id": 132,
+    "name": "metal festival",
+    "slug": "metal-festival",
+    "count": 6
+  },
+  {
+    "id": 167,
     "name": "Suicidal Tendencies",
     "slug": "suicidal-tendencies",
     "count": 6
   },
   {
-    "id": 1018,
+    "id": 170,
+    "name": "industrial metal",
+    "slug": "industrial-metal",
+    "count": 6
+  },
+  {
+    "id": 188,
+    "name": "alternative metal",
+    "slug": "alternative-metal",
+    "count": 6
+  },
+  {
+    "id": 196,
+    "name": "Extreme Metal",
+    "slug": "extreme-metal",
+    "count": 6
+  },
+  {
+    "id": 218,
+    "name": "Limp Bizkit",
+    "slug": "limp-bizkit",
+    "count": 6
+  },
+  {
+    "id": 26,
+    "name": "Wage War",
+    "slug": "wage-war",
+    "count": 5
+  },
+  {
+    "id": 53,
     "name": "festival lineup",
     "slug": "festival-lineup",
     "count": 5
   },
   {
-    "id": 553,
-    "name": "Gojira",
-    "slug": "gojira",
-    "count": 5
-  },
-  {
-    "id": 478,
-    "name": "Heavy Music News",
-    "slug": "heavy-music-news",
-    "count": 5
-  },
-  {
-    "id": 1170,
-    "name": "metal cruise",
-    "slug": "metal-cruise",
-    "count": 5
-  },
-  {
-    "id": 475,
+    "id": 54,
     "name": "Metal Festivals",
     "slug": "metal-festivals",
     "count": 5
   },
   {
-    "id": 1140,
-    "name": "Pantera",
-    "slug": "pantera",
+    "id": 96,
+    "name": "Tour Dates",
+    "slug": "tour-dates",
     "count": 5
   },
   {
-    "id": 641,
-    "name": "Parkway Drive",
-    "slug": "parkway-drive",
+    "id": 146,
+    "name": "metal cruise",
+    "slug": "metal-cruise",
     "count": 5
   },
   {
-    "id": 596,
+    "id": 169,
+    "name": "Gojira",
+    "slug": "gojira",
+    "count": 5
+  },
+  {
+    "id": 227,
     "name": "power metal",
     "slug": "power-metal",
     "count": 5
   },
   {
-    "id": 557,
+    "id": 247,
+    "name": "Heavy Music News",
+    "slug": "heavy-music-news",
+    "count": 5
+  },
+  {
+    "id": 249,
     "name": "Slipknot",
     "slug": "slipknot",
     "count": 5
   },
   {
-    "id": 558,
-    "name": "Amon Amarth",
-    "slug": "amon-amarth",
-    "count": 4
+    "id": 425,
+    "name": "Parkway Drive",
+    "slug": "parkway-drive",
+    "count": 5
   },
   {
-    "id": 969,
-    "name": "Amy Lee",
-    "slug": "amy-lee",
-    "count": 4
-  },
-  {
-    "id": 730,
-    "name": "Bad Omens",
-    "slug": "bad-omens",
-    "count": 4
-  },
-  {
-    "id": 448,
-    "name": "Bring Me The Horizon",
-    "slug": "bring-me-the-horizon",
-    "count": 4
-  },
-  {
-    "id": 1157,
-    "name": "deathcore",
-    "slug": "deathcore",
-    "count": 4
-  },
-  {
-    "id": 1153,
-    "name": "Exodus",
-    "slug": "exodus",
-    "count": 4
-  },
-  {
-    "id": 941,
-    "name": "festival news",
-    "slug": "festival-news",
-    "count": 4
-  },
-  {
-    "id": 1101,
-    "name": "groove metal",
-    "slug": "groove-metal",
-    "count": 4
-  },
-  {
-    "id": 1271,
-    "name": "Halestorm",
-    "slug": "halestorm",
-    "count": 4
-  },
-  {
-    "id": 1133,
-    "name": "Ice Nine Kills",
-    "slug": "ice-nine-kills",
-    "count": 4
-  },
-  {
-    "id": 793,
-    "name": "Kreator",
-    "slug": "kreator",
-    "count": 4
-  },
-  {
-    "id": 1034,
-    "name": "Live Music",
-    "slug": "live-music",
-    "count": 4
-  },
-  {
-    "id": 555,
-    "name": "Lorna Shore",
-    "slug": "lorna-shore",
-    "count": 4
-  },
-  {
-    "id": 633,
-    "name": "metalcore news",
-    "slug": "metalcore-news",
-    "count": 4
-  },
-  {
-    "id": 1234,
+    "id": 25,
     "name": "new music",
     "slug": "new-music",
     "count": 4
   },
   {
-    "id": 1117,
-    "name": "Rock for People",
-    "slug": "rock-for-people",
+    "id": 57,
+    "name": "Bad Omens",
+    "slug": "bad-omens",
     "count": 4
   },
   {
-    "id": 248,
-    "name": "Rock for People 2026",
-    "slug": "rock-for-people-2026",
+    "id": 61,
+    "name": "Exodus",
+    "slug": "exodus",
     "count": 4
   },
   {
-    "id": 878,
-    "name": "Shiprocked 2026",
-    "slug": "shiprocked-2026",
+    "id": 69,
+    "name": "Amon Amarth",
+    "slug": "amon-amarth",
     "count": 4
   },
   {
-    "id": 989,
-    "name": "sleep token",
-    "slug": "sleep-token",
-    "count": 4
-  },
-  {
-    "id": 807,
-    "name": "Sonic Temple",
-    "slug": "sonic-temple",
-    "count": 4
-  },
-  {
-    "id": 1273,
+    "id": 75,
     "name": "Starset",
     "slug": "starset",
     "count": 4
   },
   {
-    "id": 1279,
+    "id": 116,
+    "name": "festival news",
+    "slug": "festival-news",
+    "count": 4
+  },
+  {
+    "id": 119,
+    "name": "Lorna Shore",
+    "slug": "lorna-shore",
+    "count": 4
+  },
+  {
+    "id": 135,
+    "name": "Rock for People",
+    "slug": "rock-for-people",
+    "count": 4
+  },
+  {
+    "id": 136,
+    "name": "Rock for People 2026",
+    "slug": "rock-for-people-2026",
+    "count": 4
+  },
+  {
+    "id": 142,
+    "name": "Halestorm",
+    "slug": "halestorm",
+    "count": 4
+  },
+  {
+    "id": 145,
+    "name": "Live Music",
+    "slug": "live-music",
+    "count": 4
+  },
+  {
+    "id": 147,
+    "name": "Shiprocked 2026",
+    "slug": "shiprocked-2026",
+    "count": 4
+  },
+  {
+    "id": 148,
     "name": "The Funeral Portrait",
     "slug": "the-funeral-portrait",
     "count": 4
   },
   {
-    "id": 531,
-    "name": "2026 metal tours",
-    "slug": "2026-metal-tours",
+    "id": 156,
+    "name": "deathcore",
+    "slug": "deathcore",
+    "count": 4
+  },
+  {
+    "id": 158,
+    "name": "groove metal",
+    "slug": "groove-metal",
+    "count": 4
+  },
+  {
+    "id": 180,
+    "name": "metalcore news",
+    "slug": "metalcore-news",
+    "count": 4
+  },
+  {
+    "id": 213,
+    "name": "Ice Nine Kills",
+    "slug": "ice-nine-kills",
+    "count": 4
+  },
+  {
+    "id": 222,
+    "name": "Sonic Temple",
+    "slug": "sonic-temple",
+    "count": 4
+  },
+  {
+    "id": 223,
+    "name": "Welcome to Rockville",
+    "slug": "welcome-to-rockville",
+    "count": 4
+  },
+  {
+    "id": 337,
+    "name": "Kreator",
+    "slug": "kreator",
+    "count": 4
+  },
+  {
+    "id": 346,
+    "name": "sleep token",
+    "slug": "sleep-token",
+    "count": 4
+  },
+  {
+    "id": 384,
+    "name": "Bring Me The Horizon",
+    "slug": "bring-me-the-horizon",
+    "count": 4
+  },
+  {
+    "id": 392,
+    "name": "Amy Lee",
+    "slug": "amy-lee",
+    "count": 4
+  },
+  {
+    "id": 2,
+    "name": "Louder Than Life",
+    "slug": "louder-than-life",
     "count": 3
   },
   {
-    "id": 664,
+    "id": 8,
     "name": "August Burns Red",
     "slug": "august-burns-red",
     "count": 3
   },
   {
-    "id": 1126,
-    "name": "Bay Area Metal",
-    "slug": "bay-area-metal",
-    "count": 3
-  },
-  {
-    "id": 454,
-    "name": "Breaking Benjamin",
-    "slug": "breaking-benjamin",
-    "count": 3
-  },
-  {
-    "id": 1277,
-    "name": "Dead Poet Society",
-    "slug": "dead-poet-society",
-    "count": 3
-  },
-  {
-    "id": 1241,
-    "name": "Death Angel",
-    "slug": "death-angel",
-    "count": 3
-  },
-  {
-    "id": 686,
-    "name": "Deftones",
-    "slug": "deftones",
-    "count": 3
-  },
-  {
-    "id": 1064,
-    "name": "Dethklok",
-    "slug": "dethklok",
-    "count": 3
-  },
-  {
-    "id": 971,
-    "name": "Evanescence",
-    "slug": "evanescence",
-    "count": 3
-  },
-  {
-    "id": 1173,
-    "name": "festival review",
-    "slug": "festival-review",
-    "count": 3
-  },
-  {
-    "id": 1280,
-    "name": "Holy Wars",
-    "slug": "holy-wars",
-    "count": 3
-  },
-  {
-    "id": 1281,
-    "name": "House of Protection",
-    "slug": "house-of-protection",
-    "count": 3
-  },
-  {
-    "id": 1010,
-    "name": "live metal",
-    "slug": "live-metal",
-    "count": 3
-  },
-  {
-    "id": 799,
-    "name": "Metal Music Videos",
-    "slug": "metal-music-videos",
-    "count": 3
-  },
-  {
-    "id": 497,
-    "name": "metal tours 2026",
-    "slug": "metal-tours-2026",
-    "count": 3
-  },
-  {
-    "id": 1017,
-    "name": "modern metal",
-    "slug": "modern-metal",
-    "count": 3
-  },
-  {
-    "id": 469,
-    "name": "Nu Metal",
-    "slug": "nu-metal",
-    "count": 3
-  },
-  {
-    "id": 1041,
-    "name": "nwobhm",
-    "slug": "nwobhm",
-    "count": 3
-  },
-  {
-    "id": 1346,
+    "id": 13,
     "name": "Rob Zombie",
     "slug": "rob-zombie",
     "count": 3
   },
   {
-    "id": 460,
+    "id": 34,
+    "name": "Death Angel",
+    "slug": "death-angel",
+    "count": 3
+  },
+  {
+    "id": 72,
+    "name": "Dethklok",
+    "slug": "dethklok",
+    "count": 3
+  },
+  {
+    "id": 73,
+    "name": "Breaking Benjamin",
+    "slug": "breaking-benjamin",
+    "count": 3
+  },
+  {
+    "id": 85,
+    "name": "Nu Metal",
+    "slug": "nu-metal",
+    "count": 3
+  },
+  {
+    "id": 112,
+    "name": "Metal Music Videos",
+    "slug": "metal-music-videos",
+    "count": 3
+  },
+  {
+    "id": 133,
+    "name": "nwobhm",
+    "slug": "nwobhm",
+    "count": 3
+  },
+  {
+    "id": 140,
+    "name": "Dead Poet Society",
+    "slug": "dead-poet-society",
+    "count": 3
+  },
+  {
+    "id": 141,
+    "name": "festival review",
+    "slug": "festival-review",
+    "count": 3
+  },
+  {
+    "id": 143,
+    "name": "Holy Wars",
+    "slug": "holy-wars",
+    "count": 3
+  },
+  {
+    "id": 144,
+    "name": "House of Protection",
+    "slug": "house-of-protection",
+    "count": 3
+  },
+  {
+    "id": 260,
     "name": "Rock news",
     "slug": "rock-news",
     "count": 3
   },
   {
-    "id": 452,
+    "id": 292,
+    "name": "modern metal",
+    "slug": "modern-metal",
+    "count": 3
+  },
+  {
+    "id": 329,
+    "name": "live metal",
+    "slug": "live-metal",
+    "count": 3
+  },
+  {
+    "id": 331,
+    "name": "metal tours 2026",
+    "slug": "metal-tours-2026",
+    "count": 3
+  },
+  {
+    "id": 360,
+    "name": "Deftones",
+    "slug": "deftones",
+    "count": 3
+  },
+  {
+    "id": 394,
+    "name": "Evanescence",
+    "slug": "evanescence",
+    "count": 3
+  },
+  {
+    "id": 408,
     "name": "Static-X",
     "slug": "static-x",
     "count": 3
   },
   {
-    "id": 1136,
-    "name": "72 Seasons",
-    "slug": "72-seasons",
-    "count": 2
+    "id": 612,
+    "name": "2026 metal tours",
+    "slug": "2026-metal-tours",
+    "count": 3
   },
   {
-    "id": 689,
-    "name": "Aftershock Festival",
-    "slug": "aftershock-festival",
-    "count": 2
+    "id": 806,
+    "name": "Bay Area Metal",
+    "slug": "bay-area-metal",
+    "count": 3
   },
   {
-    "id": 1442,
+    "id": 6,
     "name": "Alex Van Halen",
     "slug": "alex-van-halen",
     "count": 2
   },
   {
-    "id": 456,
-    "name": "Alter Bridge",
-    "slug": "alter-bridge",
-    "count": 2
-  },
-  {
-    "id": 657,
-    "name": "Amity Affliction",
-    "slug": "amity-affliction",
-    "count": 2
-  },
-  {
-    "id": 1162,
-    "name": "Anthrax",
-    "slug": "anthrax",
-    "count": 2
-  },
-  {
-    "id": 1276,
-    "name": "Archetypes Collide",
-    "slug": "archetypes-collide",
-    "count": 2
-  },
-  {
-    "id": 1428,
+    "id": 7,
     "name": "At The Gates",
     "slug": "at-the-gates",
     "count": 2
   },
   {
-    "id": 463,
-    "name": "Babymetal",
-    "slug": "babymetal",
-    "count": 2
-  },
-  {
-    "id": 1139,
-    "name": "Bay Area Music",
-    "slug": "bay-area-music",
-    "count": 2
-  },
-  {
-    "id": 1433,
-    "name": "Beartooth",
-    "slug": "beartooth",
-    "count": 2
-  },
-  {
-    "id": 1100,
-    "name": "Behemoth",
-    "slug": "behemoth",
-    "count": 2
-  },
-  {
-    "id": 1397,
-    "name": "Better Noise Music",
-    "slug": "better-noise-music",
-    "count": 2
-  },
-  {
-    "id": 1319,
+    "id": 9,
     "name": "Black Label Society",
     "slug": "black-label-society",
     "count": 2
   },
   {
-    "id": 619,
-    "name": "black metal news",
-    "slug": "black-metal-news",
-    "count": 2
-  },
-  {
-    "id": 1330,
-    "name": "blackened death metal",
-    "slug": "blackened-death-metal",
-    "count": 2
-  },
-  {
-    "id": 1046,
-    "name": "bruce dickinson",
-    "slug": "bruce-dickinson",
-    "count": 2
-  },
-  {
-    "id": 1240,
-    "name": "Bush",
-    "slug": "bush",
-    "count": 2
-  },
-  {
-    "id": 1352,
-    "name": "Carnival Horizon",
-    "slug": "carnival-horizon",
-    "count": 2
-  },
-  {
-    "id": 881,
-    "name": "Carnival Horizon rock cruise",
-    "slug": "carnival-horizon-rock-cruise",
-    "count": 2
-  },
-  {
-    "id": 1061,
-    "name": "Castle Rat",
-    "slug": "castle-rat",
-    "count": 2
-  },
-  {
-    "id": 1161,
-    "name": "Converge",
-    "slug": "converge",
-    "count": 2
-  },
-  {
-    "id": 890,
-    "name": "cruise festival lineup",
-    "slug": "cruise-festival-lineup",
-    "count": 2
-  },
-  {
-    "id": 446,
-    "name": "Czech music festivals",
-    "slug": "czech-music-festivals",
-    "count": 2
-  },
-  {
-    "id": 1310,
-    "name": "Danny Wimmer Presents",
-    "slug": "danny-wimmer-presents",
-    "count": 2
-  },
-  {
-    "id": 1204,
-    "name": "Dave Mustaine",
-    "slug": "dave-mustaine",
-    "count": 2
-  },
-  {
-    "id": 985,
-    "name": "dayseeker",
-    "slug": "dayseeker",
-    "count": 2
-  },
-  {
-    "id": 1278,
-    "name": "DeathByRomy",
-    "slug": "deathbyromy",
-    "count": 2
-  },
-  {
-    "id": 1196,
-    "name": "disturbed",
-    "slug": "disturbed",
-    "count": 2
-  },
-  {
-    "id": 444,
-    "name": "Electric Callboy",
-    "slug": "electric-callboy",
-    "count": 2
-  },
-  {
-    "id": 1331,
-    "name": "Eva Under Fire",
-    "slug": "eva-under-fire",
-    "count": 2
-  },
-  {
-    "id": 1209,
-    "name": "Faith No More",
-    "slug": "faith-no-more",
-    "count": 2
-  },
-  {
-    "id": 1383,
-    "name": "Fear Factory",
-    "slug": "fear-factory",
-    "count": 2
-  },
-  {
-    "id": 825,
-    "name": "Fearless Records",
-    "slug": "fearless-records",
-    "count": 2
-  },
-  {
-    "id": 1316,
-    "name": "Five Finger Death Punch",
-    "slug": "five-finger-death-punch",
-    "count": 2
-  },
-  {
-    "id": 670,
-    "name": "Foo Fighters",
-    "slug": "foo-fighters",
-    "count": 2
-  },
-  {
-    "id": 1275,
-    "name": "From Ashes To New",
-    "slug": "from-ashes-to-new",
-    "count": 2
-  },
-  {
-    "id": 1293,
+    "id": 10,
     "name": "frozen soul",
     "slug": "frozen-soul",
     "count": 2
   },
   {
-    "id": 1298,
-    "name": "geoff thorpe",
-    "slug": "geoff-thorpe",
+    "id": 15,
+    "name": "Dave Mustaine",
+    "slug": "dave-mustaine",
     "count": 2
   },
   {
-    "id": 1177,
-    "name": "Ghost",
-    "slug": "ghost",
-    "count": 2
-  },
-  {
-    "id": 1194,
-    "name": "glam metal",
-    "slug": "glam-metal",
-    "count": 2
-  },
-  {
-    "id": 465,
-    "name": "Gorillaz",
-    "slug": "gorillaz",
-    "count": 2
-  },
-  {
-    "id": 1114,
-    "name": "hardcore punk",
-    "slug": "hardcore-punk",
-    "count": 2
-  },
-  {
-    "id": 1163,
-    "name": "Hatebreed",
-    "slug": "hatebreed",
-    "count": 2
-  },
-  {
-    "id": 1245,
-    "name": "Headbangers Boat",
-    "slug": "headbangers-boat",
-    "count": 2
-  },
-  {
-    "id": 1353,
-    "name": "heavy music cruise",
-    "slug": "heavy-music-cruise",
-    "count": 2
-  },
-  {
-    "id": 652,
-    "name": "heavy music industry",
-    "slug": "heavy-music-industry",
-    "count": 2
-  },
-  {
-    "id": 543,
-    "name": "heavy music updates",
-    "slug": "heavy-music-updates",
-    "count": 2
-  },
-  {
-    "id": 1132,
-    "name": "In-The-Round Stage",
-    "slug": "in-the-round-stage",
-    "count": 2
-  },
-  {
-    "id": 1236,
-    "name": "Judas Priest",
-    "slug": "judas-priest",
-    "count": 2
-  },
-  {
-    "id": 690,
-    "name": "Korn",
-    "slug": "korn",
-    "count": 2
-  },
-  {
-    "id": 1127,
-    "name": "Levi’s Stadium",
-    "slug": "levis-stadium",
-    "count": 2
-  },
-  {
-    "id": 1097,
-    "name": "Lionheart",
-    "slug": "lionheart",
-    "count": 2
-  },
-  {
-    "id": 1130,
-    "name": "Live Metallica 2025",
-    "slug": "live-metallica-2025",
-    "count": 2
-  },
-  {
-    "id": 948,
-    "name": "Louder Than Life",
-    "slug": "louder-than-life",
-    "count": 2
-  },
-  {
-    "id": 1128,
-    "name": "M72 World Tour",
-    "slug": "m72-world-tour",
-    "count": 2
-  },
-  {
-    "id": 1348,
-    "name": "Marilyn Manson",
-    "slug": "marilyn-manson",
-    "count": 2
-  },
-  {
-    "id": 806,
-    "name": "Maryland Deathfest",
-    "slug": "maryland-deathfest",
-    "count": 2
-  },
-  {
-    "id": 1003,
-    "name": "metal",
-    "slug": "metal",
-    "count": 2
-  },
-  {
-    "id": 805,
-    "name": "Metal Album Announcement",
-    "slug": "metal-album-announcement",
-    "count": 2
-  },
-  {
-    "id": 1070,
-    "name": "metal album review",
-    "slug": "metal-album-review",
-    "count": 2
-  },
-  {
-    "id": 1075,
-    "name": "metal concerts",
-    "slug": "metal-concerts",
-    "count": 2
-  },
-  {
-    "id": 973,
-    "name": "metal culture",
-    "slug": "metal-culture",
-    "count": 2
-  },
-  {
-    "id": 813,
-    "name": "Metal Festivals 2026",
-    "slug": "metal-festivals-2026",
-    "count": 2
-  },
-  {
-    "id": 960,
-    "name": "metal live performance",
-    "slug": "metal-live-performance",
-    "count": 2
-  },
-  {
-    "id": 627,
-    "name": "metal mantra news",
-    "slug": "metal-mantra-news",
-    "count": 2
-  },
-  {
-    "id": 1143,
-    "name": "Metal Shows",
-    "slug": "metal-shows",
-    "count": 2
-  },
-  {
-    "id": 1062,
-    "name": "metal tour news",
-    "slug": "metal-tour-news",
-    "count": 2
-  },
-  {
-    "id": 817,
-    "name": "Metal Video Premiere",
-    "slug": "metal-video-premiere",
-    "count": 2
-  },
-  {
-    "id": 1135,
-    "name": "Metallica Concert Review",
-    "slug": "metallica-concert-review",
-    "count": 2
-  },
-  {
-    "id": 1148,
-    "name": "Metallica Hometown Show",
-    "slug": "metallica-hometown-show",
-    "count": 2
-  },
-  {
-    "id": 1147,
-    "name": "Metallica Legacy",
-    "slug": "metallica-legacy",
-    "count": 2
-  },
-  {
-    "id": 1200,
-    "name": "Mushroomhead",
-    "slug": "mushroomhead",
-    "count": 2
-  },
-  {
-    "id": 540,
-    "name": "new metal singles",
-    "slug": "new-metal-singles",
-    "count": 2
-  },
-  {
-    "id": 1131,
-    "name": "No Repeat Weekend",
-    "slug": "no-repeat-weekend",
-    "count": 2
-  },
-  {
-    "id": 809,
-    "name": "Nuclear Blast Records",
-    "slug": "nuclear-blast-records",
-    "count": 2
-  },
-  {
-    "id": 1412,
-    "name": "Orbit Culture",
-    "slug": "orbit-culture",
-    "count": 2
-  },
-  {
-    "id": 1158,
-    "name": "Ov Sulfur",
-    "slug": "ov-sulfur",
-    "count": 2
-  },
-  {
-    "id": 680,
+    "id": 19,
     "name": "Ozzy Osbourne",
     "slug": "ozzy-osbourne",
     "count": 2
   },
   {
-    "id": 1069,
-    "name": "Para Bellum",
-    "slug": "para-bellum",
-    "count": 2
-  },
-  {
-    "id": 467,
-    "name": "Park 360",
-    "slug": "park-360",
-    "count": 2
-  },
-  {
-    "id": 1390,
-    "name": "Poison the Well",
-    "slug": "poison-the-well",
-    "count": 2
-  },
-  {
-    "id": 991,
-    "name": "poppy",
-    "slug": "poppy",
-    "count": 2
-  },
-  {
-    "id": 1199,
-    "name": "post-hardcore",
-    "slug": "post-hardcore",
-    "count": 2
-  },
-  {
-    "id": 777,
-    "name": "progressive metal",
-    "slug": "progressive-metal",
-    "count": 2
-  },
-  {
-    "id": 957,
+    "id": 20,
     "name": "Rob Halford",
     "slug": "rob-halford",
     "count": 2
   },
   {
-    "id": 875,
-    "name": "rock cruise",
-    "slug": "rock-cruise",
+    "id": 22,
+    "name": "Fearless Records",
+    "slug": "fearless-records",
     "count": 2
   },
   {
-    "id": 879,
-    "name": "rock festival at sea",
-    "slug": "rock-festival-at-sea",
+    "id": 36,
+    "name": "Vio-Lence",
+    "slug": "vio-lence",
     "count": 2
   },
   {
-    "id": 942,
+    "id": 38,
+    "name": "Ghost",
+    "slug": "ghost",
+    "count": 2
+  },
+  {
+    "id": 45,
     "name": "Rocklahoma",
     "slug": "rocklahoma",
     "count": 2
   },
   {
-    "id": 1142,
-    "name": "Santa Clara",
-    "slug": "santa-clara",
-    "count": 2
-  },
-  {
-    "id": 1368,
-    "name": "Sepultura",
-    "slug": "sepultura",
-    "count": 2
-  },
-  {
-    "id": 1172,
-    "name": "ShipRocked 2025",
-    "slug": "shiprocked-2025",
-    "count": 2
-  },
-  {
-    "id": 1169,
-    "name": "Silly Goose",
-    "slug": "silly-goose",
-    "count": 2
-  },
-  {
-    "id": 1178,
+    "id": 46,
     "name": "Slayer",
     "slug": "slayer",
     "count": 2
   },
   {
-    "id": 634,
-    "name": "Sonic Temple 2026",
-    "slug": "sonic-temple-2026",
+    "id": 47,
+    "name": "Faith No More",
+    "slug": "faith-no-more",
     "count": 2
   },
   {
-    "id": 984,
-    "name": "spiritbox",
-    "slug": "spiritbox",
+    "id": 49,
+    "name": "Beartooth",
+    "slug": "beartooth",
     "count": 2
   },
   {
-    "id": 631,
-    "name": "Spring Horizons tour",
-    "slug": "spring-horizons-tour",
+    "id": 52,
+    "name": "Danny Wimmer Presents",
+    "slug": "danny-wimmer-presents",
     "count": 2
   },
   {
-    "id": 1301,
-    "name": "spv records",
-    "slug": "spv-records",
+    "id": 59,
+    "name": "Converge",
+    "slug": "converge",
     "count": 2
   },
   {
-    "id": 1297,
-    "name": "steamhammer",
-    "slug": "steamhammer",
+    "id": 62,
+    "name": "Fear Factory",
+    "slug": "fear-factory",
     "count": 2
   },
   {
-    "id": 1066,
-    "name": "Testament",
-    "slug": "testament",
+    "id": 65,
+    "name": "Mushroomhead",
+    "slug": "mushroomhead",
     "count": 2
   },
   {
-    "id": 650,
+    "id": 67,
+    "name": "Poison the Well",
+    "slug": "poison-the-well",
+    "count": 2
+  },
+  {
+    "id": 70,
+    "name": "blackened death metal",
+    "slug": "blackened-death-metal",
+    "count": 2
+  },
+  {
+    "id": 71,
+    "name": "Castle Rat",
+    "slug": "castle-rat",
+    "count": 2
+  },
+  {
+    "id": 77,
+    "name": "poppy",
+    "slug": "poppy",
+    "count": 2
+  },
+  {
+    "id": 80,
+    "name": "Orbit Culture",
+    "slug": "orbit-culture",
+    "count": 2
+  },
+  {
+    "id": 81,
+    "name": "Ov Sulfur",
+    "slug": "ov-sulfur",
+    "count": 2
+  },
+  {
+    "id": 93,
+    "name": "Better Noise Music",
+    "slug": "better-noise-music",
+    "count": 2
+  },
+  {
+    "id": 97,
+    "name": "Amity Affliction",
+    "slug": "amity-affliction",
+    "count": 2
+  },
+  {
+    "id": 100,
     "name": "The Amity Affliction",
     "slug": "the-amity-affliction",
     "count": 2
   },
   {
-    "id": 1286,
+    "id": 102,
+    "name": "Eva Under Fire",
+    "slug": "eva-under-fire",
+    "count": 2
+  },
+  {
+    "id": 103,
+    "name": "Five Finger Death Punch",
+    "slug": "five-finger-death-punch",
+    "count": 2
+  },
+  {
+    "id": 108,
+    "name": "heavy music cruise",
+    "slug": "heavy-music-cruise",
+    "count": 2
+  },
+  {
+    "id": 114,
+    "name": "bruce dickinson",
+    "slug": "bruce-dickinson",
+    "count": 2
+  },
+  {
+    "id": 123,
+    "name": "Sepultura",
+    "slug": "sepultura",
+    "count": 2
+  },
+  {
+    "id": 134,
+    "name": "post-hardcore",
+    "slug": "post-hardcore",
+    "count": 2
+  },
+  {
+    "id": 139,
+    "name": "Carnival Horizon",
+    "slug": "carnival-horizon",
+    "count": 2
+  },
+  {
+    "id": 149,
+    "name": "Marilyn Manson",
+    "slug": "marilyn-manson",
+    "count": 2
+  },
+  {
+    "id": 150,
+    "name": "spiritbox",
+    "slug": "spiritbox",
+    "count": 2
+  },
+  {
+    "id": 168,
+    "name": "glam metal",
+    "slug": "glam-metal",
+    "count": 2
+  },
+  {
+    "id": 171,
+    "name": "Judas Priest",
+    "slug": "judas-priest",
+    "count": 2
+  },
+  {
+    "id": 189,
+    "name": "Behemoth",
+    "slug": "behemoth",
+    "count": 2
+  },
+  {
+    "id": 191,
+    "name": "Bush",
+    "slug": "bush",
+    "count": 2
+  },
+  {
+    "id": 197,
+    "name": "Foo Fighters",
+    "slug": "foo-fighters",
+    "count": 2
+  },
+  {
+    "id": 205,
     "name": "The Black Dahlia Murder",
     "slug": "the-black-dahlia-murder",
     "count": 2
   },
   {
-    "id": 1299,
+    "id": 209,
+    "name": "Aftershock Festival",
+    "slug": "aftershock-festival",
+    "count": 2
+  },
+  {
+    "id": 210,
+    "name": "disturbed",
+    "slug": "disturbed",
+    "count": 2
+  },
+  {
+    "id": 212,
+    "name": "Hatebreed",
+    "slug": "hatebreed",
+    "count": 2
+  },
+  {
+    "id": 224,
+    "name": "geoff thorpe",
+    "slug": "geoff-thorpe",
+    "count": 2
+  },
+  {
+    "id": 228,
+    "name": "spv records",
+    "slug": "spv-records",
+    "count": 2
+  },
+  {
+    "id": 229,
+    "name": "steamhammer",
+    "slug": "steamhammer",
+    "count": 2
+  },
+  {
+    "id": 230,
     "name": "the devil’s asylum",
     "slug": "the-devils-asylum",
     "count": 2
   },
   {
-    "id": 455,
+    "id": 231,
+    "name": "us power metal",
+    "slug": "us-power-metal",
+    "count": 2
+  },
+  {
+    "id": 232,
+    "name": "vicious rumors",
+    "slug": "vicious-rumors",
+    "count": 2
+  },
+  {
+    "id": 239,
+    "name": "metal concerts",
+    "slug": "metal-concerts",
+    "count": 2
+  },
+  {
+    "id": 240,
+    "name": "metal tour news",
+    "slug": "metal-tour-news",
+    "count": 2
+  },
+  {
+    "id": 244,
+    "name": "dayseeker",
+    "slug": "dayseeker",
+    "count": 2
+  },
+  {
+    "id": 246,
+    "name": "hardcore punk",
+    "slug": "hardcore-punk",
+    "count": 2
+  },
+  {
+    "id": 262,
+    "name": "black metal news",
+    "slug": "black-metal-news",
+    "count": 2
+  },
+  {
+    "id": 271,
+    "name": "Headbangers Boat",
+    "slug": "headbangers-boat",
+    "count": 2
+  },
+  {
+    "id": 276,
+    "name": "Metal Festivals 2026",
+    "slug": "metal-festivals-2026",
+    "count": 2
+  },
+  {
+    "id": 280,
+    "name": "Anthrax",
+    "slug": "anthrax",
+    "count": 2
+  },
+  {
+    "id": 295,
+    "name": "Alter Bridge",
+    "slug": "alter-bridge",
+    "count": 2
+  },
+  {
+    "id": 297,
+    "name": "Lionheart",
+    "slug": "lionheart",
+    "count": 2
+  },
+  {
+    "id": 338,
+    "name": "metal",
+    "slug": "metal",
+    "count": 2
+  },
+  {
+    "id": 342,
+    "name": "Upcoming Metal Albums",
+    "slug": "upcoming-metal-albums",
+    "count": 2
+  },
+  {
+    "id": 344,
+    "name": "progressive metal",
+    "slug": "progressive-metal",
+    "count": 2
+  },
+  {
+    "id": 349,
+    "name": "heavy music industry",
+    "slug": "heavy-music-industry",
+    "count": 2
+  },
+  {
+    "id": 351,
+    "name": "metal culture",
+    "slug": "metal-culture",
+    "count": 2
+  },
+  {
+    "id": 368,
+    "name": "underground metal",
+    "slug": "underground-metal",
+    "count": 2
+  },
+  {
+    "id": 381,
+    "name": "Para Bellum",
+    "slug": "para-bellum",
+    "count": 2
+  },
+  {
+    "id": 382,
+    "name": "Testament",
+    "slug": "testament",
+    "count": 2
+  },
+  {
+    "id": 387,
+    "name": "Gorillaz",
+    "slug": "gorillaz",
+    "count": 2
+  },
+  {
+    "id": 390,
+    "name": "Park 360",
+    "slug": "park-360",
+    "count": 2
+  },
+  {
+    "id": 397,
+    "name": "Babymetal",
+    "slug": "babymetal",
+    "count": 2
+  },
+  {
+    "id": 410,
+    "name": "Wayne Static",
+    "slug": "wayne-static",
+    "count": 2
+  },
+  {
+    "id": 437,
+    "name": "metal live performance",
+    "slug": "metal-live-performance",
+    "count": 2
+  },
+  {
+    "id": 444,
+    "name": "Viking metal",
+    "slug": "viking-metal",
+    "count": 2
+  },
+  {
+    "id": 452,
+    "name": "Maryland Deathfest",
+    "slug": "maryland-deathfest",
+    "count": 2
+  },
+  {
+    "id": 453,
+    "name": "Nuclear Blast Records",
+    "slug": "nuclear-blast-records",
+    "count": 2
+  },
+  {
+    "id": 456,
+    "name": "new metal singles",
+    "slug": "new-metal-singles",
+    "count": 2
+  },
+  {
+    "id": 503,
+    "name": "Metal Album Announcement",
+    "slug": "metal-album-announcement",
+    "count": 2
+  },
+  {
+    "id": 504,
+    "name": "Metal Video Premiere",
+    "slug": "metal-video-premiere",
+    "count": 2
+  },
+  {
+    "id": 541,
+    "name": "metal mantra news",
+    "slug": "metal-mantra-news",
+    "count": 2
+  },
+  {
+    "id": 594,
+    "name": "Spring Horizons tour",
+    "slug": "spring-horizons-tour",
+    "count": 2
+  },
+  {
+    "id": 618,
+    "name": "Sonic Temple 2026",
+    "slug": "sonic-temple-2026",
+    "count": 2
+  },
+  {
+    "id": 640,
+    "name": "heavy music updates",
+    "slug": "heavy-music-updates",
+    "count": 2
+  },
+  {
+    "id": 760,
+    "name": "Czech music festivals",
+    "slug": "czech-music-festivals",
+    "count": 2
+  },
+  {
+    "id": 762,
+    "name": "Electric Callboy",
+    "slug": "electric-callboy",
+    "count": 2
+  },
+  {
+    "id": 765,
     "name": "The Pretty Reckless",
     "slug": "the-pretty-reckless",
     "count": 2
   },
   {
-    "id": 1171,
+    "id": 769,
+    "name": "Korn",
+    "slug": "korn",
+    "count": 2
+  },
+  {
+    "id": 783,
+    "name": "metal album review",
+    "slug": "metal-album-review",
+    "count": 2
+  },
+  {
+    "id": 816,
+    "name": "72 Seasons",
+    "slug": "72-seasons",
+    "count": 2
+  },
+  {
+    "id": 817,
+    "name": "Bay Area Music",
+    "slug": "bay-area-music",
+    "count": 2
+  },
+  {
+    "id": 818,
+    "name": "In-The-Round Stage",
+    "slug": "in-the-round-stage",
+    "count": 2
+  },
+  {
+    "id": 819,
+    "name": "Levi’s Stadium",
+    "slug": "levis-stadium",
+    "count": 2
+  },
+  {
+    "id": 820,
+    "name": "Live Metallica 2025",
+    "slug": "live-metallica-2025",
+    "count": 2
+  },
+  {
+    "id": 821,
+    "name": "M72 World Tour",
+    "slug": "m72-world-tour",
+    "count": 2
+  },
+  {
+    "id": 822,
+    "name": "Metal Shows",
+    "slug": "metal-shows",
+    "count": 2
+  },
+  {
+    "id": 823,
+    "name": "Metallica Concert Review",
+    "slug": "metallica-concert-review",
+    "count": 2
+  },
+  {
+    "id": 824,
+    "name": "Metallica Hometown Show",
+    "slug": "metallica-hometown-show",
+    "count": 2
+  },
+  {
+    "id": 825,
+    "name": "Metallica Legacy",
+    "slug": "metallica-legacy",
+    "count": 2
+  },
+  {
+    "id": 826,
+    "name": "No Repeat Weekend",
+    "slug": "no-repeat-weekend",
+    "count": 2
+  },
+  {
+    "id": 827,
+    "name": "Santa Clara",
+    "slug": "santa-clara",
+    "count": 2
+  },
+  {
+    "id": 828,
+    "name": "Archetypes Collide",
+    "slug": "archetypes-collide",
+    "count": 2
+  },
+  {
+    "id": 829,
+    "name": "Carnival Horizon rock cruise",
+    "slug": "carnival-horizon-rock-cruise",
+    "count": 2
+  },
+  {
+    "id": 830,
+    "name": "cruise festival lineup",
+    "slug": "cruise-festival-lineup",
+    "count": 2
+  },
+  {
+    "id": 831,
+    "name": "DeathByRomy",
+    "slug": "deathbyromy",
+    "count": 2
+  },
+  {
+    "id": 832,
+    "name": "From Ashes To New",
+    "slug": "from-ashes-to-new",
+    "count": 2
+  },
+  {
+    "id": 833,
+    "name": "rock cruise",
+    "slug": "rock-cruise",
+    "count": 2
+  },
+  {
+    "id": 834,
+    "name": "rock festival at sea",
+    "slug": "rock-festival-at-sea",
+    "count": 2
+  },
+  {
+    "id": 835,
+    "name": "ShipRocked 2025",
+    "slug": "shiprocked-2025",
+    "count": 2
+  },
+  {
+    "id": 836,
+    "name": "Silly Goose",
+    "slug": "silly-goose",
+    "count": 2
+  },
+  {
+    "id": 837,
     "name": "The Stowaways",
     "slug": "the-stowaways",
     "count": 2
   },
   {
-    "id": 676,
-    "name": "10 Years band",
-    "slug": "10-years-band",
+    "id": 3,
+    "name": "Louder Than Life 2026",
+    "slug": "louder-than-life-2026",
     "count": 1
   },
   {
-    "id": 993,
-    "name": "2025 heavy music",
-    "slug": "2025-heavy-music",
-    "count": 1
-  },
-  {
-    "id": 994,
-    "name": "2025 metal",
-    "slug": "2025-metal",
-    "count": 1
-  },
-  {
-    "id": 734,
-    "name": "2025 rock single",
-    "slug": "2025-rock-single",
-    "count": 1
-  },
-  {
-    "id": 648,
-    "name": "2026 festivals",
-    "slug": "2026-festivals",
-    "count": 1
-  },
-  {
-    "id": 800,
-    "name": "2026 Metal Albums",
-    "slug": "2026-metal-albums",
-    "count": 1
-  },
-  {
-    "id": 476,
-    "name": "2026 Music Festivals",
-    "slug": "2026-music-festivals",
-    "count": 1
-  },
-  {
-    "id": 870,
-    "name": "2026 rock concerts",
-    "slug": "2026-rock-concerts",
-    "count": 1
-  },
-  {
-    "id": 874,
-    "name": "2026 tour schedule",
-    "slug": "2026-tour-schedule",
-    "count": 1
-  },
-  {
-    "id": 1369,
-    "name": "2026 tours",
-    "slug": "2026-tours",
-    "count": 1
-  },
-  {
-    "id": 903,
-    "name": "70000tons of metal",
-    "slug": "70000tons-of-metal",
-    "count": 1
-  },
-  {
-    "id": 804,
-    "name": "80s Horror Influences",
-    "slug": "80s-horror-influences",
-    "count": 1
-  },
-  {
-    "id": 1311,
-    "name": "A Day To Remember",
-    "slug": "a-day-to-remember",
-    "count": 1
-  },
-  {
-    "id": 768,
-    "name": "A7X",
-    "slug": "a7x",
-    "count": 1
-  },
-  {
-    "id": 863,
-    "name": "A7X 2026 tour dates",
-    "slug": "a7x-2026-tour-dates",
-    "count": 1
-  },
-  {
-    "id": 859,
-    "name": "A7X Good Charlotte co-headline",
-    "slug": "a7x-good-charlotte-co-headline",
-    "count": 1
-  },
-  {
-    "id": 860,
-    "name": "A7X live shows 2026",
-    "slug": "a7x-live-shows-2026",
-    "count": 1
-  },
-  {
-    "id": 691,
-    "name": "aftershock",
-    "slug": "aftershock",
-    "count": 1
-  },
-  {
-    "id": 688,
-    "name": "Aftershock 2025",
-    "slug": "aftershock-2025",
-    "count": 1
-  },
-  {
-    "id": 474,
-    "name": "Aftershock Camping",
-    "slug": "aftershock-camping",
-    "count": 1
-  },
-  {
-    "id": 473,
-    "name": "Aftershock Festival 2026",
-    "slug": "aftershock-festival-2026",
-    "count": 1
-  },
-  {
-    "id": 479,
-    "name": "Aftershock Pre-Party",
-    "slug": "aftershock-pre-party",
-    "count": 1
-  },
-  {
-    "id": 1156,
-    "name": "album release calendar",
-    "slug": "album-release-calendar",
-    "count": 1
-  },
-  {
-    "id": 564,
-    "name": "Album Rumors",
-    "slug": "album-rumors",
-    "count": 1
-  },
-  {
-    "id": 1376,
-    "name": "Alexisonfire",
-    "slug": "alexisonfire",
-    "count": 1
-  },
-  {
-    "id": 666,
-    "name": "Alice In Chains",
-    "slug": "alice-in-chains",
-    "count": 1
-  },
-  {
-    "id": 533,
-    "name": "Alissa White-Gluz",
-    "slug": "alissa-white-gluz",
-    "count": 1
-  },
-  {
-    "id": 537,
-    "name": "Alissa White-Gluz solo",
-    "slug": "alissa-white-gluz-solo",
-    "count": 1
-  },
-  {
-    "id": 1239,
-    "name": "All Shall Perish",
-    "slug": "all-shall-perish",
-    "count": 1
-  },
-  {
-    "id": 653,
-    "name": "Alpha Wolf",
-    "slug": "alpha-wolf",
-    "count": 1
-  },
-  {
-    "id": 704,
-    "name": "alternative metal concert",
-    "slug": "alternative-metal-concert",
-    "count": 1
-  },
-  {
-    "id": 506,
-    "name": "alternative metal news",
-    "slug": "alternative-metal-news",
-    "count": 1
-  },
-  {
-    "id": 737,
-    "name": "alternative rock",
-    "slug": "alternative-rock",
-    "count": 1
-  },
-  {
-    "id": 1086,
-    "name": "alternative rock news",
-    "slug": "alternative-rock-news",
-    "count": 1
-  },
-  {
-    "id": 866,
-    "name": "alternative rock tours 2026",
-    "slug": "alternative-rock-tours-2026",
-    "count": 1
-  },
-  {
-    "id": 534,
-    "name": "Amon Amarth tour",
-    "slug": "amon-amarth-tour",
-    "count": 1
-  },
-  {
-    "id": 491,
-    "name": "amy lee 2026",
-    "slug": "amy-lee-2026",
-    "count": 1
-  },
-  {
-    "id": 940,
-    "name": "analog recording",
-    "slug": "analog-recording",
-    "count": 1
-  },
-  {
-    "id": 1228,
-    "name": "Andy Biersack",
-    "slug": "andy-biersack",
-    "count": 1
-  },
-  {
-    "id": 946,
-    "name": "Animosity",
-    "slug": "animosity",
-    "count": 1
-  },
-  {
-    "id": 705,
-    "name": "anthrax new album 2026",
-    "slug": "anthrax-new-album-2026",
-    "count": 1
-  },
-  {
-    "id": 1404,
-    "name": "Apocalyptica",
-    "slug": "apocalyptica",
-    "count": 1
-  },
-  {
-    "id": 1411,
-    "name": "Apple TV",
-    "slug": "apple-tv",
-    "count": 1
-  },
-  {
-    "id": 541,
-    "name": "Arch Enemy news",
-    "slug": "arch-enemy-news",
-    "count": 1
-  },
-  {
-    "id": 536,
-    "name": "Arch Enemy vocalist change",
-    "slug": "arch-enemy-vocalist-change",
-    "count": 1
-  },
-  {
-    "id": 986,
-    "name": "architects",
-    "slug": "architects",
-    "count": 1
-  },
-  {
-    "id": 721,
-    "name": "arena rock legends",
-    "slug": "arena-rock-legends",
-    "count": 1
-  },
-  {
-    "id": 1108,
-    "name": "artist rights",
-    "slug": "artist-rights",
-    "count": 1
-  },
-  {
-    "id": 1202,
-    "name": "As I Lay Dying",
-    "slug": "as-i-lay-dying",
-    "count": 1
-  },
-  {
-    "id": 1456,
-    "name": "Atlantic Records",
-    "slug": "atlantic-records",
-    "count": 1
-  },
-  {
-    "id": 1413,
-    "name": "Atlas (band)",
-    "slug": "atlas-band",
-    "count": 1
-  },
-  {
-    "id": 1074,
-    "name": "atmospheric metal",
-    "slug": "atmospheric-metal",
-    "count": 1
-  },
-  {
-    "id": 1367,
-    "name": "Atreyu",
-    "slug": "atreyu",
-    "count": 1
-  },
-  {
-    "id": 1458,
-    "name": "Audible",
-    "slug": "audible",
-    "count": 1
-  },
-  {
-    "id": 637,
-    "name": "August Burns Red 2026 tour",
-    "slug": "august-burns-red-2026-tour",
-    "count": 1
-  },
-  {
-    "id": 649,
-    "name": "Australian metal scene",
-    "slug": "australian-metal-scene",
-    "count": 1
-  },
-  {
-    "id": 645,
-    "name": "Australian metalcore",
-    "slug": "australian-metalcore",
-    "count": 1
-  },
-  {
-    "id": 1292,
-    "name": "avatar 2026 tour",
-    "slug": "avatar-2026-tour",
-    "count": 1
-  },
-  {
-    "id": 1295,
-    "name": "avatar band",
-    "slug": "avatar-band",
-    "count": 1
-  },
-  {
-    "id": 762,
-    "name": "Avenged Sevenfold",
-    "slug": "avenged-sevenfold",
-    "count": 1
-  },
-  {
-    "id": 778,
-    "name": "Avenged Sevenfold Magic",
-    "slug": "avenged-sevenfold-magic",
-    "count": 1
-  },
-  {
-    "id": 770,
-    "name": "Avenged Sevenfold new song",
-    "slug": "avenged-sevenfold-new-song",
-    "count": 1
-  },
-  {
-    "id": 861,
-    "name": "Avenged Sevenfold tour 2026",
-    "slug": "avenged-sevenfold-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1358,
-    "name": "AWOLNATION",
-    "slug": "awolnation",
-    "count": 1
-  },
-  {
-    "id": 1187,
-    "name": "back to the beginning",
-    "slug": "back-to-the-beginning",
-    "count": 1
-  },
-  {
-    "id": 729,
-    "name": "Bad Omens Left For Good review",
-    "slug": "bad-omens-left-for-good-review",
-    "count": 1
-  },
-  {
-    "id": 742,
-    "name": "Bad Omens lyrics",
-    "slug": "bad-omens-lyrics",
-    "count": 1
-  },
-  {
-    "id": 563,
-    "name": "Band Announcements",
-    "slug": "band-announcements",
-    "count": 1
-  },
-  {
-    "id": 1083,
-    "name": "band breakups",
-    "slug": "band-breakups",
-    "count": 1
-  },
-  {
-    "id": 1282,
-    "name": "band lineup changes",
-    "slug": "band-lineup-changes",
-    "count": 1
-  },
-  {
-    "id": 1287,
-    "name": "band member exits",
-    "slug": "band-member-exits",
-    "count": 1
-  },
-  {
-    "id": 1110,
-    "name": "band merch",
-    "slug": "band-merch",
-    "count": 1
-  },
-  {
-    "id": 1094,
-    "name": "band naming dispute",
-    "slug": "band-naming-dispute",
-    "count": 1
-  },
-  {
-    "id": 1451,
-    "name": "Bay Area Thrash",
-    "slug": "bay-area-thrash",
-    "count": 1
-  },
-  {
-    "id": 714,
-    "name": "behemoth nergal interview",
-    "slug": "behemoth-nergal-interview",
-    "count": 1
-  },
-  {
-    "id": 853,
-    "name": "behind the mask cinema event",
-    "slug": "behind-the-mask-cinema-event",
-    "count": 1
-  },
-  {
-    "id": 999,
-    "name": "best songs of 2025",
-    "slug": "best-songs-of-2025",
-    "count": 1
-  },
-  {
-    "id": 1448,
-    "name": "Better Lovers",
-    "slug": "better-lovers",
-    "count": 1
-  },
-  {
-    "id": 1223,
-    "name": "Beyond The Black",
-    "slug": "beyond-the-black",
-    "count": 1
-  },
-  {
-    "id": 843,
-    "name": "big four thrash metal",
-    "slug": "big-four-thrash-metal",
-    "count": 1
-  },
-  {
-    "id": 1198,
-    "name": "bilmuri",
-    "slug": "bilmuri",
-    "count": 1
-  },
-  {
-    "id": 1365,
-    "name": "Biohazard",
-    "slug": "biohazard",
-    "count": 1
-  },
-  {
-    "id": 1258,
-    "name": "black metal",
-    "slug": "black-metal",
-    "count": 1
-  },
-  {
-    "id": 530,
-    "name": "black metal releases",
-    "slug": "black-metal-releases",
-    "count": 1
-  },
-  {
-    "id": 1181,
-    "name": "Black Sabbath",
-    "slug": "black-sabbath",
-    "count": 1
-  },
-  {
-    "id": 1226,
-    "name": "Black Veil Brides",
-    "slug": "black-veil-brides",
-    "count": 1
-  },
-  {
-    "id": 1389,
-    "name": "Blaze Bayley",
-    "slug": "blaze-bayley",
-    "count": 1
-  },
-  {
-    "id": 956,
-    "name": "Blindside",
-    "slug": "blindside",
-    "count": 1
-  },
-  {
-    "id": 685,
-    "name": "BLINK-182",
-    "slug": "blink-182",
-    "count": 1
-  },
-  {
-    "id": 457,
-    "name": "Blood Incantation",
-    "slug": "blood-incantation",
-    "count": 1
-  },
-  {
-    "id": 997,
-    "name": "bloodlust",
-    "slug": "bloodlust",
-    "count": 1
-  },
-  {
-    "id": 1012,
-    "name": "Bloodywood",
-    "slug": "bloodywood",
-    "count": 1
-  },
-  {
-    "id": 1009,
-    "name": "Bloodywood tour 2026",
-    "slug": "bloodywood-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1260,
-    "name": "Bob Weir",
-    "slug": "bob-weir",
-    "count": 1
-  },
-  {
-    "id": 1321,
-    "name": "BottleRock Napa Valley",
-    "slug": "bottlerock-napa-valley",
-    "count": 1
-  },
-  {
-    "id": 629,
-    "name": "Boundaries band",
-    "slug": "boundaries-band",
-    "count": 1
-  },
-  {
-    "id": 573,
-    "name": "Brian Burkheiser",
-    "slug": "brian-burkheiser",
-    "count": 1
-  },
-  {
-    "id": 575,
-    "name": "Brian Burkheiser 2025",
-    "slug": "brian-burkheiser-2025",
-    "count": 1
-  },
-  {
-    "id": 589,
-    "name": "Brian Burkheiser comeback",
-    "slug": "brian-burkheiser-comeback",
-    "count": 1
-  },
-  {
-    "id": 576,
-    "name": "Brian Burkheiser new project",
-    "slug": "brian-burkheiser-new-project",
-    "count": 1
-  },
-  {
-    "id": 588,
-    "name": "Brian Burkheiser news",
-    "slug": "brian-burkheiser-news",
-    "count": 1
-  },
-  {
-    "id": 571,
-    "name": "Brian Burkheiser Scatterbrain",
-    "slug": "brian-burkheiser-scatterbrain",
-    "count": 1
-  },
-  {
-    "id": 585,
-    "name": "Brian Burkheiser solo music",
-    "slug": "brian-burkheiser-solo-music",
-    "count": 1
-  },
-  {
-    "id": 574,
-    "name": "Brian Burkheiser Taylor Swift cover",
-    "slug": "brian-burkheiser-taylor-swift-cover",
-    "count": 1
-  },
-  {
-    "id": 1056,
-    "name": "Bring Me to Life",
-    "slug": "bring-me-to-life",
-    "count": 1
-  },
-  {
-    "id": 1167,
-    "name": "Bullet For My Valentine",
-    "slug": "bullet-for-my-valentine",
-    "count": 1
-  },
-  {
-    "id": 1400,
-    "name": "Butcher Babies",
-    "slug": "butcher-babies",
-    "count": 1
-  },
-  {
-    "id": 472,
-    "name": "Cal Expo",
-    "slug": "cal-expo",
-    "count": 1
-  },
-  {
-    "id": 1284,
-    "name": "Caleb Freihaut",
-    "slug": "caleb-freihaut",
-    "count": 1
-  },
-  {
-    "id": 1053,
-    "name": "Caliban",
-    "slug": "caliban",
-    "count": 1
-  },
-  {
-    "id": 488,
-    "name": "California Music Events",
-    "slug": "california-music-events",
-    "count": 1
-  },
-  {
-    "id": 487,
-    "name": "Car and Tent Camping",
-    "slug": "car-and-tent-camping",
-    "count": 1
-  },
-  {
-    "id": 1049,
-    "name": "Carcass",
-    "slug": "carcass",
-    "count": 1
-  },
-  {
-    "id": 1227,
-    "name": "Certainty",
-    "slug": "certainty",
-    "count": 1
-  },
-  {
-    "id": 930,
-    "name": "Chained Saint",
-    "slug": "chained-saint",
-    "count": 1
-  },
-  {
-    "id": 932,
-    "name": "Chained Saint 1000 Tons",
-    "slug": "chained-saint-1000-tons",
-    "count": 1
-  },
-  {
-    "id": 931,
-    "name": "Chained Saint Live EP",
-    "slug": "chained-saint-live-ep",
-    "count": 1
-  },
-  {
-    "id": 1207,
-    "name": "Chaos &amp; Carnage",
-    "slug": "chaos-carnage",
-    "count": 1
-  },
-  {
-    "id": 1455,
-    "name": "Chevelle",
-    "slug": "chevelle",
-    "count": 1
-  },
-  {
-    "id": 1233,
-    "name": "Christian Coma",
-    "slug": "christian-coma",
-    "count": 1
-  },
-  {
-    "id": 1440,
-    "name": "Circle Jerks",
-    "slug": "circle-jerks",
-    "count": 1
-  },
-  {
-    "id": 597,
-    "name": "classic metal",
-    "slug": "classic-metal",
-    "count": 1
-  },
-  {
-    "id": 1045,
-    "name": "classic metal albums",
-    "slug": "classic-metal-albums",
-    "count": 1
-  },
-  {
-    "id": 718,
-    "name": "classic metal bands 2025",
-    "slug": "classic-metal-bands-2025",
-    "count": 1
-  },
-  {
-    "id": 808,
-    "name": "Clive Barker",
-    "slug": "clive-barker",
-    "count": 1
-  },
-  {
-    "id": 671,
-    "name": "Clown Slipknot",
-    "slug": "clown-slipknot",
-    "count": 1
-  },
-  {
-    "id": 1116,
-    "name": "Coalesce",
-    "slug": "coalesce",
-    "count": 1
-  },
-  {
-    "id": 789,
-    "name": "COD soundtrack",
-    "slug": "cod-soundtrack",
-    "count": 1
-  },
-  {
-    "id": 1332,
-    "name": "Cody Jinks",
-    "slug": "cody-jinks",
-    "count": 1
-  },
-  {
-    "id": 1406,
-    "name": "concert film",
-    "slug": "concert-film",
-    "count": 1
-  },
-  {
-    "id": 1103,
-    "name": "concert tickets",
-    "slug": "concert-tickets",
-    "count": 1
-  },
-  {
-    "id": 1339,
-    "name": "concert tours",
-    "slug": "concert-tours",
-    "count": 1
-  },
-  {
-    "id": 1109,
-    "name": "copyright dispute",
-    "slug": "copyright-dispute",
-    "count": 1
-  },
-  {
-    "id": 1333,
-    "name": "country metal",
-    "slug": "country-metal",
-    "count": 1
-  },
-  {
-    "id": 990,
-    "name": "courtney laplante",
-    "slug": "courtney-laplante",
-    "count": 1
-  },
-  {
-    "id": 618,
-    "name": "cradle of filth controversy",
-    "slug": "cradle-of-filth-controversy",
-    "count": 1
-  },
-  {
-    "id": 608,
-    "name": "cradle of filth ex members",
-    "slug": "cradle-of-filth-ex-members",
-    "count": 1
-  },
-  {
-    "id": 609,
-    "name": "cradle of filth lawsuit",
-    "slug": "cradle-of-filth-lawsuit",
-    "count": 1
-  },
-  {
-    "id": 612,
-    "name": "cradle of filth legal battle",
-    "slug": "cradle-of-filth-legal-battle",
-    "count": 1
-  },
-  {
-    "id": 1393,
-    "name": "Cyclone",
-    "slug": "cyclone",
-    "count": 1
-  },
-  {
-    "id": 1120,
-    "name": "Czech Republic festivals",
-    "slug": "czech-republic-festivals",
-    "count": 1
-  },
-  {
-    "id": 1252,
-    "name": "d.r.i.",
-    "slug": "d-r-i",
-    "count": 1
-  },
-  {
-    "id": 468,
-    "name": "Damon Albarn",
-    "slug": "damon-albarn",
-    "count": 1
-  },
-  {
-    "id": 610,
-    "name": "dani filth sued",
-    "slug": "dani-filth-sued",
-    "count": 1
-  },
-  {
-    "id": 1370,
-    "name": "Dark Divine",
-    "slug": "dark-divine",
-    "count": 1
-  },
-  {
-    "id": 660,
-    "name": "Dave Grohl",
-    "slug": "dave-grohl",
-    "count": 1
-  },
-  {
-    "id": 836,
-    "name": "dave mustaine interview",
-    "slug": "dave-mustaine-interview",
-    "count": 1
-  },
-  {
-    "id": 1085,
-    "name": "Dave Navarro",
-    "slug": "dave-navarro",
-    "count": 1
-  },
-  {
-    "id": 842,
-    "name": "david ellefson scandal",
-    "slug": "david-ellefson-scandal",
-    "count": 1
-  },
-  {
-    "id": 1324,
-    "name": "death metal",
-    "slug": "death-metal",
-    "count": 1
-  },
-  {
-    "id": 1155,
-    "name": "deathcore albums 2026",
-    "slug": "deathcore-albums-2026",
-    "count": 1
-  },
-  {
-    "id": 902,
-    "name": "deathcore news",
-    "slug": "deathcore-news",
-    "count": 1
-  },
-  {
-    "id": 1091,
-    "name": "December Tenth",
-    "slug": "december-tenth",
-    "count": 1
-  },
-  {
-    "id": 1325,
-    "name": "Deicide",
-    "slug": "deicide",
-    "count": 1
-  },
-  {
-    "id": 1395,
-    "name": "Denzel Curry",
-    "slug": "denzel-curry",
-    "count": 1
-  },
-  {
-    "id": 1068,
-    "name": "Destruction",
-    "slug": "destruction",
-    "count": 1
-  },
-  {
-    "id": 845,
-    "name": "dirk verbeuren drummer",
-    "slug": "dirk-verbeuren-drummer",
-    "count": 1
-  },
-  {
-    "id": 700,
-    "name": "Discovery Park Sacramento",
-    "slug": "discovery-park-sacramento",
-    "count": 1
-  },
-  {
-    "id": 1193,
-    "name": "Dokken",
-    "slug": "dokken",
-    "count": 1
-  },
-  {
-    "id": 458,
-    "name": "Don Broco",
-    "slug": "don-broco",
-    "count": 1
-  },
-  {
-    "id": 1190,
-    "name": "Don Dokken",
-    "slug": "don-dokken",
-    "count": 1
-  },
-  {
-    "id": 1294,
-    "name": "dont go in the forest",
-    "slug": "dont-go-in-the-forest",
-    "count": 1
-  },
-  {
-    "id": 1063,
-    "name": "doom metal",
-    "slug": "doom-metal",
-    "count": 1
-  },
-  {
-    "id": 1220,
-    "name": "Download Festival 2026",
-    "slug": "download-festival-2026",
-    "count": 1
-  },
-  {
-    "id": 1396,
-    "name": "Dropkick Murphys",
-    "slug": "dropkick-murphys",
-    "count": 1
-  },
-  {
-    "id": 1309,
-    "name": "DWP",
-    "slug": "dwp",
-    "count": 1
-  },
-  {
-    "id": 1004,
-    "name": "dying to love",
-    "slug": "dying-to-love",
-    "count": 1
-  },
-  {
-    "id": 829,
-    "name": "East Coast metal",
-    "slug": "east-coast-metal",
-    "count": 1
-  },
-  {
-    "id": 1001,
-    "name": "emergence",
-    "slug": "emergence",
-    "count": 1
-  },
-  {
-    "id": 935,
-    "name": "emerging metal bands",
-    "slug": "emerging-metal-bands",
-    "count": 1
-  },
-  {
-    "id": 740,
-    "name": "emo rock",
-    "slug": "emo-rock",
-    "count": 1
-  },
-  {
-    "id": 988,
-    "name": "end of you",
-    "slug": "end-of-you",
-    "count": 1
-  },
-  {
-    "id": 1429,
-    "name": "enter shikari",
-    "slug": "enter-shikari",
-    "count": 1
-  },
-  {
-    "id": 1377,
-    "name": "Europe metal festival",
-    "slug": "europe-metal-festival",
-    "count": 1
-  },
-  {
-    "id": 1125,
-    "name": "European Festival Awards",
-    "slug": "european-festival-awards",
-    "count": 1
-  },
-  {
-    "id": 814,
-    "name": "European Metal Bands",
-    "slug": "european-metal-bands",
-    "count": 1
-  },
-  {
-    "id": 606,
-    "name": "european metal scene",
-    "slug": "european-metal-scene",
-    "count": 1
-  },
-  {
-    "id": 494,
-    "name": "evanescence 2026 tour",
-    "slug": "evanescence-2026-tour",
-    "count": 1
-  },
-  {
-    "id": 967,
-    "name": "Evanescence Afterlife",
-    "slug": "evanescence-afterlife",
-    "count": 1
-  },
-  {
-    "id": 505,
-    "name": "evanescence europe 2026",
-    "slug": "evanescence-europe-2026",
-    "count": 1
-  },
-  {
-    "id": 503,
-    "name": "evanescence european tour",
-    "slug": "evanescence-european-tour",
-    "count": 1
-  },
-  {
-    "id": 968,
-    "name": "Evanescence Game Awards performance",
-    "slug": "evanescence-game-awards-performance",
-    "count": 1
-  },
-  {
-    "id": 504,
-    "name": "evanescence north america 2026",
-    "slug": "evanescence-north-america-2026",
-    "count": 1
-  },
-  {
-    "id": 499,
-    "name": "evanescence tickets 2026",
-    "slug": "evanescence-tickets-2026",
-    "count": 1
-  },
-  {
-    "id": 489,
-    "name": "evanescence uk tour",
-    "slug": "evanescence-uk-tour",
-    "count": 1
-  },
-  {
-    "id": 501,
-    "name": "evanescence world tour",
-    "slug": "evanescence-world-tour",
-    "count": 1
-  },
-  {
-    "id": 1079,
-    "name": "even in arcadia",
-    "slug": "even-in-arcadia",
-    "count": 1
-  },
-  {
-    "id": 1032,
-    "name": "Evil Disco documentary",
-    "slug": "evil-disco-documentary",
-    "count": 1
-  },
-  {
-    "id": 572,
-    "name": "ex I Prevail singer",
-    "slug": "ex-i-prevail-singer",
-    "count": 1
-  },
-  {
-    "id": 765,
-    "name": "experimental metal",
-    "slug": "experimental-metal",
-    "count": 1
-  },
-  {
-    "id": 1366,
-    "name": "farewell tour",
-    "slug": "farewell-tour",
-    "count": 1
-  },
-  {
-    "id": 850,
-    "name": "farewell tour speculation",
-    "slug": "farewell-tour-speculation",
-    "count": 1
-  },
-  {
-    "id": 669,
-    "name": "Fender Signature Series",
-    "slug": "fender-signature-series",
-    "count": 1
-  },
-  {
-    "id": 1381,
-    "name": "festival announcement",
-    "slug": "festival-announcement",
-    "count": 1
-  },
-  {
-    "id": 1351,
-    "name": "festival at sea",
-    "slug": "festival-at-sea",
-    "count": 1
-  },
-  {
-    "id": 471,
-    "name": "Festival Camping",
-    "slug": "festival-camping",
-    "count": 1
-  },
-  {
-    "id": 1363,
-    "name": "festival coverage",
-    "slug": "festival-coverage",
-    "count": 1
-  },
-  {
-    "id": 696,
-    "name": "festival recap blog",
-    "slug": "festival-recap-blog",
-    "count": 1
-  },
-  {
-    "id": 655,
-    "name": "festival shutdowns",
-    "slug": "festival-shutdowns",
-    "count": 1
-  },
-  {
-    "id": 480,
-    "name": "Festival Travel Tips",
-    "slug": "festival-travel-tips",
-    "count": 1
-  },
-  {
-    "id": 1242,
-    "name": "Fire From The Gods",
-    "slug": "fire-from-the-gods",
-    "count": 1
-  },
-  {
-    "id": 1391,
-    "name": "Fit For A King",
-    "slug": "fit-for-a-king",
-    "count": 1
-  },
-  {
-    "id": 1290,
-    "name": "fleshgod apocalypse",
-    "slug": "fleshgod-apocalypse",
-    "count": 1
-  },
-  {
-    "id": 1343,
-    "name": "Flowers",
-    "slug": "flowers",
-    "count": 1
-  },
-  {
-    "id": 1336,
-    "name": "Flowers album",
-    "slug": "flowers-album",
-    "count": 1
-  },
-  {
-    "id": 1337,
-    "name": "Four Year Strong",
-    "slug": "four-year-strong",
-    "count": 1
-  },
-  {
-    "id": 466,
-    "name": "Fred Durst",
-    "slug": "fred-durst",
-    "count": 1
-  },
-  {
-    "id": 796,
-    "name": "Frederic Leclercq",
-    "slug": "frederic-leclercq",
-    "count": 1
-  },
-  {
-    "id": 844,
-    "name": "full lineup reunion",
-    "slug": "full-lineup-reunion",
-    "count": 1
-  },
-  {
-    "id": 974,
-    "name": "gaming and metal",
-    "slug": "gaming-and-metal",
-    "count": 1
-  },
-  {
-    "id": 810,
-    "name": "German Metal Bands",
-    "slug": "german-metal-bands",
-    "count": 1
-  },
-  {
-    "id": 794,
-    "name": "German Thrash Metal",
-    "slug": "german-thrash-metal",
-    "count": 1
-  },
-  {
-    "id": 1213,
-    "name": "Gil Moore",
-    "slug": "gil-moore",
-    "count": 1
-  },
-  {
-    "id": 1283,
-    "name": "Gino Sgambelluri",
-    "slug": "gino-sgambelluri",
-    "count": 1
-  },
-  {
-    "id": 872,
-    "name": "Good Charlotte concerts 2026",
-    "slug": "good-charlotte-concerts-2026",
-    "count": 1
-  },
-  {
-    "id": 857,
-    "name": "Good Charlotte live 2026",
-    "slug": "good-charlotte-live-2026",
-    "count": 1
-  },
-  {
-    "id": 865,
-    "name": "Good Charlotte tour 2026",
-    "slug": "good-charlotte-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1261,
-    "name": "Grateful Dead",
-    "slug": "grateful-dead",
-    "count": 1
-  },
-  {
-    "id": 1266,
-    "name": "Grateful Dead news",
-    "slug": "grateful-dead-news",
-    "count": 1
-  },
-  {
-    "id": 556,
-    "name": "Greg Kubacki",
-    "slug": "greg-kubacki",
-    "count": 1
-  },
-  {
-    "id": 1215,
-    "name": "Guns N’ Roses",
-    "slug": "guns-n-roses",
-    "count": 1
-  },
-  {
-    "id": 713,
-    "name": "guns n’ roses new singles",
-    "slug": "guns-n-roses-new-singles",
-    "count": 1
-  },
-  {
-    "id": 1250,
-    "name": "gwar",
-    "slug": "gwar",
-    "count": 1
-  },
-  {
-    "id": 1118,
-    "name": "Halsey",
-    "slug": "halsey",
-    "count": 1
-  },
-  {
-    "id": 1052,
-    "name": "HammerFall",
-    "slug": "hammerfall",
-    "count": 1
-  },
-  {
-    "id": 1024,
-    "name": "hard rock festivals",
-    "slug": "hard-rock-festivals",
-    "count": 1
-  },
-  {
-    "id": 1211,
-    "name": "hard rock reunion",
-    "slug": "hard-rock-reunion",
-    "count": 1
-  },
-  {
-    "id": 719,
-    "name": "hard rock tours 2026",
-    "slug": "hard-rock-tours-2026",
-    "count": 1
-  },
-  {
-    "id": 1166,
-    "name": "hardcore albums 2026",
-    "slug": "hardcore-albums-2026",
-    "count": 1
-  },
-  {
-    "id": 827,
-    "name": "hardcore breakdowns",
-    "slug": "hardcore-breakdowns",
-    "count": 1
-  },
-  {
-    "id": 834,
-    "name": "hardcore metal",
-    "slug": "hardcore-metal",
-    "count": 1
-  },
-  {
-    "id": 1254,
-    "name": "harms way",
-    "slug": "harms-way",
-    "count": 1
-  },
-  {
-    "id": 1463,
+    "id": 11,
     "name": "Haste the Day",
     "slug": "haste-the-day",
     "count": 1
   },
   {
-    "id": 1246,
-    "name": "headbangers boat 2026",
-    "slug": "headbangers-boat-2026",
+    "id": 14,
+    "name": "Audible",
+    "slug": "audible",
     "count": 1
   },
   {
-    "id": 529,
-    "name": "HEALTH new single",
-    "slug": "health-new-single",
-    "count": 1
-  },
-  {
-    "id": 535,
-    "name": "HEALTH SHRED ENVY",
-    "slug": "health-shred-envy",
-    "count": 1
-  },
-  {
-    "id": 636,
-    "name": "Heavensgate band",
-    "slug": "heavensgate-band",
-    "count": 1
-  },
-  {
-    "id": 1304,
-    "name": "heavy metal album",
-    "slug": "heavy-metal-album",
-    "count": 1
-  },
-  {
-    "id": 1247,
-    "name": "heavy metal cruise",
-    "slug": "heavy-metal-cruise",
-    "count": 1
-  },
-  {
-    "id": 841,
-    "name": "heavy metal farewell concerts",
-    "slug": "heavy-metal-farewell-concerts",
-    "count": 1
-  },
-  {
-    "id": 1047,
-    "name": "heavy metal legacy",
-    "slug": "heavy-metal-legacy",
-    "count": 1
-  },
-  {
-    "id": 694,
-    "name": "heavy metal lineup",
-    "slug": "heavy-metal-lineup",
-    "count": 1
-  },
-  {
-    "id": 706,
-    "name": "heavy metal news december 2025",
-    "slug": "heavy-metal-news-december-2025",
-    "count": 1
-  },
-  {
-    "id": 1175,
-    "name": "heavy metal tours",
-    "slug": "heavy-metal-tours",
-    "count": 1
-  },
-  {
-    "id": 568,
-    "name": "Heavy Metal Updates",
-    "slug": "heavy-metal-updates",
-    "count": 1
-  },
-  {
-    "id": 983,
-    "name": "heavy music",
-    "slug": "heavy-music",
-    "count": 1
-  },
-  {
-    "id": 738,
-    "name": "heavy music blog",
-    "slug": "heavy-music-blog",
-    "count": 1
-  },
-  {
-    "id": 847,
-    "name": "heavy music ethics",
-    "slug": "heavy-music-ethics",
-    "count": 1
-  },
-  {
-    "id": 722,
-    "name": "heavy music industry economics",
-    "slug": "heavy-music-industry-economics",
-    "count": 1
-  },
-  {
-    "id": 565,
-    "name": "Heavy Music Scene",
-    "slug": "heavy-music-scene",
-    "count": 1
-  },
-  {
-    "id": 868,
-    "name": "heavy music tours",
-    "slug": "heavy-music-tours",
-    "count": 1
-  },
-  {
-    "id": 581,
-    "name": "heavy rock Taylor Swift cover",
-    "slug": "heavy-rock-taylor-swift-cover",
-    "count": 1
-  },
-  {
-    "id": 811,
-    "name": "Hellraiser",
-    "slug": "hellraiser",
-    "count": 1
-  },
-  {
-    "id": 1123,
-    "name": "Hradec Králové",
-    "slug": "hradec-kralove",
-    "count": 1
-  },
-  {
-    "id": 998,
-    "name": "i prevail",
-    "slug": "i-prevail",
-    "count": 1
-  },
-  {
-    "id": 587,
-    "name": "I Prevail 2025",
-    "slug": "i-prevail-2025",
-    "count": 1
-  },
-  {
-    "id": 579,
-    "name": "I Prevail former vocalist",
-    "slug": "i-prevail-former-vocalist",
-    "count": 1
-  },
-  {
-    "id": 1335,
-    "name": "I Promised The World",
-    "slug": "i-promised-the-world",
-    "count": 1
-  },
-  {
-    "id": 1326,
-    "name": "Immolation",
-    "slug": "immolation",
-    "count": 1
-  },
-  {
-    "id": 1249,
-    "name": "in flames",
-    "slug": "in-flames",
-    "count": 1
-  },
-  {
-    "id": 1095,
-    "name": "independent metal",
-    "slug": "independent-metal",
-    "count": 1
-  },
-  {
-    "id": 1050,
-    "name": "Infected Rain",
-    "slug": "infected-rain",
-    "count": 1
-  },
-  {
-    "id": 592,
-    "name": "inferno 2026",
-    "slug": "inferno-2026",
-    "count": 1
-  },
-  {
-    "id": 1418,
-    "name": "Ingested",
-    "slug": "ingested",
-    "count": 1
-  },
-  {
-    "id": 1308,
-    "name": "Inkcarceration",
-    "slug": "inkcarceration",
-    "count": 1
-  },
-  {
-    "id": 1306,
-    "name": "Inkcarceration 2026",
-    "slug": "inkcarceration-2026",
-    "count": 1
-  },
-  {
-    "id": 1307,
-    "name": "Inkcarceration Festival",
-    "slug": "inkcarceration-festival",
-    "count": 1
-  },
-  {
-    "id": 1039,
-    "name": "iron maiden album ranking",
-    "slug": "iron-maiden-album-ranking",
-    "count": 1
-  },
-  {
-    "id": 1044,
-    "name": "iron maiden albums ranked",
-    "slug": "iron-maiden-albums-ranked",
-    "count": 1
-  },
-  {
-    "id": 1042,
-    "name": "iron maiden discography",
-    "slug": "iron-maiden-discography",
-    "count": 1
-  },
-  {
-    "id": 1040,
-    "name": "iron maiden legacy",
-    "slug": "iron-maiden-legacy",
-    "count": 1
-  },
-  {
-    "id": 707,
-    "name": "iron maiden retirement",
-    "slug": "iron-maiden-retirement",
-    "count": 1
-  },
-  {
-    "id": 1055,
-    "name": "Jacoby Shaddix",
-    "slug": "jacoby-shaddix",
-    "count": 1
-  },
-  {
-    "id": 1210,
-    "name": "Jake E. Lee",
-    "slug": "jake-e-lee",
-    "count": 1
-  },
-  {
-    "id": 1235,
-    "name": "Jake Pitts",
-    "slug": "jake-pitts",
-    "count": 1
-  },
-  {
-    "id": 1268,
-    "name": "jam band",
-    "slug": "jam-band",
-    "count": 1
-  },
-  {
-    "id": 673,
-    "name": "James and the Cold Gun",
-    "slug": "james-and-the-cold-gun",
-    "count": 1
-  },
-  {
-    "id": 848,
-    "name": "james lomenzo bass",
-    "slug": "james-lomenzo-bass",
-    "count": 1
-  },
-  {
-    "id": 1087,
-    "name": "Jane’s Addiction",
-    "slug": "janes-addiction",
-    "count": 1
-  },
-  {
-    "id": 1285,
-    "name": "Jay Weinberg",
-    "slug": "jay-weinberg",
-    "count": 1
-  },
-  {
-    "id": 1312,
-    "name": "Jinjer",
-    "slug": "jinjer",
-    "count": 1
-  },
-  {
-    "id": 1229,
-    "name": "Jinxx",
-    "slug": "jinxx",
-    "count": 1
-  },
-  {
-    "id": 1318,
-    "name": "Joan Jett",
-    "slug": "joan-jett",
-    "count": 1
-  },
-  {
-    "id": 554,
-    "name": "Joe Duplantier",
-    "slug": "joe-duplantier",
-    "count": 1
-  },
-  {
-    "id": 1291,
-    "name": "johannes eckerstrom",
-    "slug": "johannes-eckerstrom",
-    "count": 1
-  },
-  {
-    "id": 1244,
-    "name": "John Bush",
-    "slug": "john-bush",
-    "count": 1
-  },
-  {
-    "id": 496,
-    "name": "k.flay tour 2026",
-    "slug": "k-flay-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 507,
-    "name": "kflay news",
-    "slug": "kflay-news",
-    "count": 1
-  },
-  {
-    "id": 849,
-    "name": "kiko loureiro guitar",
-    "slug": "kiko-loureiro-guitar",
-    "count": 1
-  },
-  {
-    "id": 1361,
-    "name": "Kittie",
-    "slug": "kittie",
-    "count": 1
-  },
-  {
-    "id": 1415,
-    "name": "KK's Priest",
-    "slug": "kks-priest",
-    "count": 1
-  },
-  {
-    "id": 819,
-    "name": "Kreator 2026 Tour",
-    "slug": "kreator-2026-tour",
-    "count": 1
-  },
-  {
-    "id": 815,
-    "name": "Kreator Tour",
-    "slug": "kreator-tour",
-    "count": 1
-  },
-  {
-    "id": 1025,
-    "name": "Kreator tour 2026",
-    "slug": "kreator-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1026,
-    "name": "Kreator U.S. tour",
-    "slug": "kreator-u-s-tour",
-    "count": 1
-  },
-  {
-    "id": 803,
-    "name": "Krushers of the World",
-    "slug": "krushers-of-the-world",
-    "count": 1
-  },
-  {
-    "id": 1237,
-    "name": "Kylesa",
-    "slug": "kylesa",
-    "count": 1
-  },
-  {
-    "id": 1106,
-    "name": "Lamb of God news",
-    "slug": "lamb-of-god-news",
-    "count": 1
-  },
-  {
-    "id": 1426,
-    "name": "landmvrks",
-    "slug": "landmvrks",
-    "count": 1
-  },
-  {
-    "id": 600,
-    "name": "lars chriss",
-    "slug": "lars-chriss",
-    "count": 1
-  },
-  {
-    "id": 1453,
-    "name": "Las Vegas Sphere",
-    "slug": "las-vegas-sphere",
-    "count": 1
-  },
-  {
-    "id": 732,
-    "name": "Left for Good",
-    "slug": "left-for-good",
-    "count": 1
-  },
-  {
-    "id": 763,
-    "name": "Life Is But a Dream era",
-    "slug": "life-is-but-a-dream-era",
-    "count": 1
-  },
-  {
-    "id": 615,
-    "name": "lindsay schoolcraft",
-    "slug": "lindsay-schoolcraft",
-    "count": 1
-  },
-  {
-    "id": 1216,
-    "name": "Linkin Park",
-    "slug": "linkin-park",
-    "count": 1
-  },
-  {
-    "id": 590,
-    "name": "lion's share",
-    "slug": "lions-share",
-    "count": 1
-  },
-  {
-    "id": 591,
-    "name": "lions share comeback",
-    "slug": "lions-share-comeback",
-    "count": 1
-  },
-  {
-    "id": 944,
-    "name": "Liquid Metal",
-    "slug": "liquid-metal",
-    "count": 1
-  },
-  {
-    "id": 1259,
-    "name": "Liturgy of Death",
-    "slug": "liturgy-of-death",
-    "count": 1
-  },
-  {
-    "id": 936,
-    "name": "Live at the Whisky a Go Go",
-    "slug": "live-at-the-whisky-a-go-go",
-    "count": 1
-  },
-  {
-    "id": 1077,
-    "name": "live metal review",
-    "slug": "live-metal-review",
-    "count": 1
-  },
-  {
-    "id": 651,
-    "name": "live music cancellations",
-    "slug": "live-music-cancellations",
-    "count": 1
-  },
-  {
-    "id": 1263,
-    "name": "live music culture",
-    "slug": "live-music-culture",
-    "count": 1
-  },
-  {
-    "id": 701,
-    "name": "live music festival",
-    "slug": "live-music-festival",
-    "count": 1
-  },
-  {
-    "id": 869,
-    "name": "Live Nation tours 2026",
-    "slug": "live-nation-tours-2026",
-    "count": 1
-  },
-  {
-    "id": 1054,
-    "name": "live performance",
-    "slug": "live-performance",
-    "count": 1
-  },
-  {
-    "id": 1385,
-    "name": "Loathe",
-    "slug": "loathe",
-    "count": 1
-  },
-  {
-    "id": 1084,
-    "name": "Lollapalooza",
-    "slug": "lollapalooza",
-    "count": 1
-  },
-  {
-    "id": 1230,
-    "name": "Lonny Eagleton",
-    "slug": "lonny-eagleton",
-    "count": 1
-  },
-  {
-    "id": 582,
-    "name": "Look What You Made Me Do rock cover",
-    "slug": "look-what-you-made-me-do-rock-cover",
-    "count": 1
-  },
-  {
-    "id": 459,
-    "name": "Lottery Winners",
-    "slug": "lottery-winners",
-    "count": 1
-  },
-  {
-    "id": 1431,
-    "name": "Lovebites",
-    "slug": "lovebites",
-    "count": 1
-  },
-  {
-    "id": 767,
-    "name": "M. Shadows",
-    "slug": "m-shadows",
-    "count": 1
-  },
-  {
-    "id": 1454,
-    "name": "M72",
-    "slug": "m72",
-    "count": 1
-  },
-  {
-    "id": 1315,
-    "name": "Machine Head",
-    "slug": "machine-head",
-    "count": 1
-  },
-  {
-    "id": 779,
-    "name": "Magic",
-    "slug": "magic",
-    "count": 1
-  },
-  {
-    "id": 873,
-    "name": "major rock tour announcement",
-    "slug": "major-rock-tour-announcement",
-    "count": 1
-  },
-  {
-    "id": 445,
-    "name": "Malevolence",
-    "slug": "malevolence",
-    "count": 1
-  },
-  {
-    "id": 1243,
-    "name": "Mammoth",
-    "slug": "mammoth",
-    "count": 1
-  },
-  {
-    "id": 656,
-    "name": "Mammoth WVH",
-    "slug": "mammoth-wvh",
-    "count": 1
-  },
-  {
-    "id": 1380,
-    "name": "Man With A Mission",
-    "slug": "man-with-a-mission",
-    "count": 1
-  },
-  {
-    "id": 625,
-    "name": "marek ashok smerda",
-    "slug": "marek-ashok-smerda",
-    "count": 1
-  },
-  {
-    "id": 838,
-    "name": "marty friedman guest appearance",
-    "slug": "marty-friedman-guest-appearance",
-    "count": 1
-  },
-  {
-    "id": 1384,
-    "name": "Mastodon",
-    "slug": "mastodon",
-    "count": 1
-  },
-  {
-    "id": 1386,
-    "name": "Maul",
-    "slug": "maul",
-    "count": 1
-  },
-  {
-    "id": 667,
-    "name": "Max Sepulveda",
-    "slug": "max-sepulveda",
-    "count": 1
-  },
-  {
-    "id": 1257,
-    "name": "Mayhem",
-    "slug": "mayhem",
-    "count": 1
-  },
-  {
-    "id": 708,
-    "name": "megadeth behind the mask",
-    "slug": "megadeth-behind-the-mask",
-    "count": 1
-  },
-  {
-    "id": 835,
-    "name": "megadeth farewell tour",
-    "slug": "megadeth-farewell-tour",
-    "count": 1
-  },
-  {
-    "id": 837,
-    "name": "megadeth final album",
-    "slug": "megadeth-final-album",
-    "count": 1
-  },
-  {
-    "id": 851,
-    "name": "megadeth final tour dates",
-    "slug": "megadeth-final-tour-dates",
-    "count": 1
-  },
-  {
-    "id": 839,
-    "name": "megadeth reunion controversy",
-    "slug": "megadeth-reunion-controversy",
-    "count": 1
-  },
-  {
-    "id": 1289,
-    "name": "melodic death metal",
-    "slug": "melodic-death-metal",
-    "count": 1
-  },
-  {
-    "id": 723,
-    "name": "melodic hard rock releases",
-    "slug": "melodic-hard-rock-releases",
-    "count": 1
-  },
-  {
-    "id": 598,
-    "name": "melodic metal",
-    "slug": "melodic-metal",
-    "count": 1
-  },
-  {
-    "id": 1107,
-    "name": "merch controversy",
-    "slug": "merch-controversy",
-    "count": 1
-  },
-  {
-    "id": 1296,
-    "name": "metal album",
-    "slug": "metal-album",
-    "count": 1
-  },
-  {
-    "id": 603,
-    "name": "metal album announcements",
-    "slug": "metal-album-announcements",
-    "count": 1
-  },
-  {
-    "id": 1164,
-    "name": "metal albums 2026",
-    "slug": "metal-albums-2026",
-    "count": 1
-  },
-  {
-    "id": 724,
-    "name": "metal band controversies",
-    "slug": "metal-band-controversies",
-    "count": 1
-  },
-  {
-    "id": 852,
-    "name": "metal band legacy",
-    "slug": "metal-band-legacy",
-    "count": 1
-  },
-  {
-    "id": 620,
-    "name": "metal band merch dispute",
-    "slug": "metal-band-merch-dispute",
-    "count": 1
-  },
-  {
-    "id": 617,
-    "name": "metal band royalties",
-    "slug": "metal-band-royalties",
-    "count": 1
-  },
-  {
-    "id": 602,
-    "name": "metal bands 2026",
-    "slug": "metal-bands-2026",
-    "count": 1
-  },
-  {
-    "id": 1460,
+    "id": 16,
     "name": "Metal Biographies",
     "slug": "metal-biographies",
     "count": 1
   },
   {
-    "id": 1225,
-    "name": "Metal Blade",
-    "slug": "metal-blade",
-    "count": 1
-  },
-  {
-    "id": 1459,
+    "id": 17,
     "name": "Metal Books",
     "slug": "metal-books",
     "count": 1
   },
   {
-    "id": 1356,
-    "name": "metal community",
-    "slug": "metal-community",
-    "count": 1
-  },
-  {
-    "id": 562,
-    "name": "Metal Community Buzz",
-    "slug": "metal-community-buzz",
-    "count": 1
-  },
-  {
-    "id": 508,
-    "name": "metal concert announcements",
-    "slug": "metal-concert-announcements",
-    "count": 1
-  },
-  {
-    "id": 1174,
-    "name": "metal concerts 2026",
-    "slug": "metal-concerts-2026",
-    "count": 1
-  },
-  {
-    "id": 1033,
-    "name": "metal documentaries",
-    "slug": "metal-documentaries",
-    "count": 1
-  },
-  {
-    "id": 644,
-    "name": "metal festival news",
-    "slug": "metal-festival-news",
-    "count": 1
-  },
-  {
-    "id": 687,
-    "name": "metal festival Sacramento",
-    "slug": "metal-festival-sacramento",
-    "count": 1
-  },
-  {
-    "id": 1043,
-    "name": "metal history",
-    "slug": "metal-history",
-    "count": 1
-  },
-  {
-    "id": 1184,
-    "name": "Metal Icon",
-    "slug": "metal-icon",
-    "count": 1
-  },
-  {
-    "id": 1111,
-    "name": "metal industry",
-    "slug": "metal-industry",
-    "count": 1
-  },
-  {
-    "id": 621,
-    "name": "metal industry contracts",
-    "slug": "metal-industry-contracts",
-    "count": 1
-  },
-  {
-    "id": 1029,
-    "name": "metal legacy",
-    "slug": "metal-legacy",
-    "count": 1
-  },
-  {
-    "id": 626,
-    "name": "metal legal news",
-    "slug": "metal-legal-news",
-    "count": 1
-  },
-  {
-    "id": 871,
-    "name": "Metal Mantra tours",
-    "slug": "metal-mantra-tours",
-    "count": 1
-  },
-  {
-    "id": 1183,
-    "name": "Metal Music",
-    "slug": "metal-music",
-    "count": 1
-  },
-  {
-    "id": 972,
-    "name": "metal music updates",
-    "slug": "metal-music-updates",
-    "count": 1
-  },
-  {
-    "id": 854,
-    "name": "metal news 2025",
-    "slug": "metal-news-2025",
-    "count": 1
-  },
-  {
-    "id": 1373,
-    "name": "metal news January 2026",
-    "slug": "metal-news-january-2026",
-    "count": 1
-  },
-  {
-    "id": 864,
-    "name": "metal news updates",
-    "slug": "metal-news-updates",
-    "count": 1
-  },
-  {
-    "id": 1112,
-    "name": "metal photography",
-    "slug": "metal-photography",
-    "count": 1
-  },
-  {
-    "id": 604,
-    "name": "metal press release",
-    "slug": "metal-press-release",
-    "count": 1
-  },
-  {
-    "id": 1303,
-    "name": "metal release",
-    "slug": "metal-release",
-    "count": 1
-  },
-  {
-    "id": 560,
-    "name": "Metal Releases",
-    "slug": "metal-releases",
-    "count": 1
-  },
-  {
-    "id": 528,
-    "name": "metal releases 2025",
-    "slug": "metal-releases-2025",
-    "count": 1
-  },
-  {
-    "id": 607,
-    "name": "metal resurgence",
-    "slug": "metal-resurgence",
-    "count": 1
-  },
-  {
-    "id": 567,
-    "name": "Metal Speculation",
-    "slug": "metal-speculation",
-    "count": 1
-  },
-  {
-    "id": 820,
-    "name": "metalcore 2026",
-    "slug": "metalcore-2026",
-    "count": 1
-  },
-  {
-    "id": 1165,
-    "name": "metalcore albums 2026",
-    "slug": "metalcore-albums-2026",
-    "count": 1
-  },
-  {
-    "id": 692,
-    "name": "metalcore bands",
-    "slug": "metalcore-bands",
-    "count": 1
-  },
-  {
-    "id": 717,
-    "name": "metalcore co-headlining tours",
-    "slug": "metalcore-co-headlining-tours",
-    "count": 1
-  },
-  {
-    "id": 538,
-    "name": "metalcore releases",
-    "slug": "metalcore-releases",
-    "count": 1
-  },
-  {
-    "id": 635,
-    "name": "metalcore tour 2026",
-    "slug": "metalcore-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 654,
-    "name": "metalcore updates",
-    "slug": "metalcore-updates",
-    "count": 1
-  },
-  {
-    "id": 594,
-    "name": "metalville records",
-    "slug": "metalville-records",
-    "count": 1
-  },
-  {
-    "id": 1438,
-    "name": "Mike Patton",
-    "slug": "mike-patton",
-    "count": 1
-  },
-  {
-    "id": 792,
-    "name": "Mille Petrozza",
-    "slug": "mille-petrozza",
-    "count": 1
-  },
-  {
-    "id": 1238,
-    "name": "Milwaukee Metal Festival",
-    "slug": "milwaukee-metal-festival",
-    "count": 1
-  },
-  {
-    "id": 1048,
-    "name": "Milwaukee MetalFest",
-    "slug": "milwaukee-metalfest",
-    "count": 1
-  },
-  {
-    "id": 624,
-    "name": "misappropriation of likeness",
-    "slug": "misappropriation-of-likeness",
-    "count": 1
-  },
-  {
-    "id": 830,
-    "name": "modern metalcore",
-    "slug": "modern-metalcore",
-    "count": 1
-  },
-  {
-    "id": 746,
-    "name": "modern rock music",
-    "slug": "modern-rock-music",
-    "count": 1
-  },
-  {
-    "id": 933,
-    "name": "modern thrash",
-    "slug": "modern-thrash",
-    "count": 1
-  },
-  {
-    "id": 699,
-    "name": "mosh pit festival",
-    "slug": "mosh-pit-festival",
-    "count": 1
-  },
-  {
-    "id": 711,
-    "name": "mötley crüe return of carnival of sins",
-    "slug": "motley-crue-return-of-carnival-of-sins",
-    "count": 1
-  },
-  {
-    "id": 1031,
-    "name": "music documentaries",
-    "slug": "music-documentaries",
-    "count": 1
-  },
-  {
-    "id": 470,
-    "name": "Music Festival News",
-    "slug": "music-festival-news",
-    "count": 1
-  },
-  {
-    "id": 1093,
-    "name": "music industry legal issues",
-    "slug": "music-industry-legal-issues",
-    "count": 1
-  },
-  {
-    "id": 1090,
-    "name": "music industry news",
-    "slug": "music-industry-news",
-    "count": 1
-  },
-  {
-    "id": 1265,
-    "name": "music legacy",
-    "slug": "music-legacy",
-    "count": 1
-  },
-  {
-    "id": 1262,
-    "name": "music news",
-    "slug": "music-news",
-    "count": 1
-  },
-  {
-    "id": 733,
-    "name": "music review blog",
-    "slug": "music-review-blog",
-    "count": 1
-  },
-  {
-    "id": 741,
-    "name": "music SEO",
-    "slug": "music-seo",
-    "count": 1
-  },
-  {
-    "id": 1231,
-    "name": "music video",
-    "slug": "music-video",
-    "count": 1
-  },
-  {
-    "id": 824,
-    "name": "music video release",
-    "slug": "music-video-release",
-    "count": 1
-  },
-  {
-    "id": 1269,
-    "name": "musician death",
-    "slug": "musician-death",
-    "count": 1
-  },
-  {
-    "id": 623,
-    "name": "musician likeness rights",
-    "slug": "musician-likeness-rights",
-    "count": 1
-  },
-  {
-    "id": 1222,
-    "name": "Napalm Records",
-    "slug": "napalm-records",
-    "count": 1
-  },
-  {
-    "id": 1372,
-    "name": "new album",
-    "slug": "new-album",
-    "count": 1
-  },
-  {
-    "id": 812,
-    "name": "New Kreator Single",
-    "slug": "new-kreator-single",
-    "count": 1
-  },
-  {
-    "id": 784,
-    "name": "new metal music",
-    "slug": "new-metal-music",
-    "count": 1
-  },
-  {
-    "id": 952,
-    "name": "new music 2025",
-    "slug": "new-music-2025",
-    "count": 1
-  },
-  {
-    "id": 731,
-    "name": "new rock songs 2025",
-    "slug": "new-rock-songs-2025",
-    "count": 1
-  },
-  {
-    "id": 1398,
-    "name": "new single",
-    "slug": "new-single",
-    "count": 1
-  },
-  {
-    "id": 1203,
-    "name": "Nick Pierce",
-    "slug": "nick-pierce",
-    "count": 1
-  },
-  {
-    "id": 1462,
+    "id": 18,
     "name": "Nikki Sixx",
     "slug": "nikki-sixx",
     "count": 1
   },
   {
-    "id": 605,
-    "name": "nils patrik johansson",
-    "slug": "nils-patrik-johansson",
-    "count": 1
-  },
-  {
-    "id": 1006,
-    "name": "no loss no love",
-    "slug": "no-loss-no-love",
-    "count": 1
-  },
-  {
-    "id": 542,
-    "name": "noise rock",
-    "slug": "noise-rock",
-    "count": 1
-  },
-  {
-    "id": 630,
-    "name": "North America metal tour",
-    "slug": "north-america-metal-tour",
-    "count": 1
-  },
-  {
-    "id": 914,
-    "name": "North America Tour 2026",
-    "slug": "north-america-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1060,
-    "name": "North American metal tour",
-    "slug": "north-american-metal-tour",
-    "count": 1
-  },
-  {
-    "id": 1176,
-    "name": "north american metal tours",
-    "slug": "north-american-metal-tours",
-    "count": 1
-  },
-  {
-    "id": 855,
-    "name": "North American summer tours",
-    "slug": "north-american-summer-tours",
-    "count": 1
-  },
-  {
-    "id": 647,
-    "name": "Northlane",
-    "slug": "northlane",
-    "count": 1
-  },
-  {
-    "id": 1256,
-    "name": "Norwegian black metal",
-    "slug": "norwegian-black-metal",
-    "count": 1
-  },
-  {
-    "id": 462,
-    "name": "Nothing But Thieves",
-    "slug": "nothing-but-thieves",
-    "count": 1
-  },
-  {
-    "id": 492,
-    "name": "nova twins news",
-    "slug": "nova-twins-news",
-    "count": 1
-  },
-  {
-    "id": 493,
-    "name": "nova twins tour",
-    "slug": "nova-twins-tour",
-    "count": 1
-  },
-  {
-    "id": 527,
-    "name": "November 2025 metal",
-    "slug": "november-2025-metal",
-    "count": 1
-  },
-  {
-    "id": 697,
-    "name": "nu-metal revival",
-    "slug": "nu-metal-revival",
-    "count": 1
-  },
-  {
-    "id": 821,
-    "name": "nu-metalcore",
-    "slug": "nu-metalcore",
-    "count": 1
-  },
-  {
-    "id": 1224,
-    "name": "Nuclear Blast",
-    "slug": "nuclear-blast",
-    "count": 1
-  },
-  {
-    "id": 1080,
-    "name": "oakland arena",
-    "slug": "oakland-arena",
-    "count": 1
-  },
-  {
-    "id": 1255,
-    "name": "occult metal",
-    "slug": "occult-metal",
-    "count": 1
-  },
-  {
-    "id": 1313,
-    "name": "Ohio State Reformatory",
-    "slug": "ohio-state-reformatory",
-    "count": 1
-  },
-  {
-    "id": 710,
-    "name": "opeth audition video",
-    "slug": "opeth-audition-video",
-    "count": 1
-  },
-  {
-    "id": 1065,
-    "name": "Overkill",
-    "slug": "overkill",
-    "count": 1
-  },
-  {
-    "id": 1185,
-    "name": "Ozzfest",
-    "slug": "ozzfest",
-    "count": 1
-  },
-  {
-    "id": 709,
-    "name": "ozzy osbourne petition",
-    "slug": "ozzy-osbourne-petition",
-    "count": 1
-  },
-  {
-    "id": 1000,
-    "name": "pale moonlight",
-    "slug": "pale-moonlight",
-    "count": 1
-  },
-  {
-    "id": 262,
-    "name": "Park 360 Hradec Králové",
-    "slug": "park-360-hradec-kralove",
-    "count": 1
-  },
-  {
-    "id": 638,
-    "name": "Park Waves",
-    "slug": "park-waves",
-    "count": 1
-  },
-  {
-    "id": 640,
-    "name": "Park Waves 2026",
-    "slug": "park-waves-2026",
-    "count": 1
-  },
-  {
-    "id": 661,
-    "name": "Park Waves Festival",
-    "slug": "park-waves-festival",
-    "count": 1
-  },
-  {
-    "id": 642,
-    "name": "Parkway Drive festival",
-    "slug": "parkway-drive-festival",
-    "count": 1
-  },
-  {
-    "id": 639,
-    "name": "Parkway Drive news",
-    "slug": "parkway-drive-news",
-    "count": 1
-  },
-  {
-    "id": 937,
-    "name": "Patriark Records",
-    "slug": "patriark-records",
-    "count": 1
-  },
-  {
-    "id": 613,
-    "name": "paul allender",
-    "slug": "paul-allender",
-    "count": 1
-  },
-  {
-    "id": 1088,
-    "name": "Perry Farrell",
-    "slug": "perry-farrell",
-    "count": 1
-  },
-  {
-    "id": 663,
-    "name": "PETA campaign",
-    "slug": "peta-campaign",
-    "count": 1
-  },
-  {
-    "id": 712,
-    "name": "phil campbell and the bastard sons singer search",
-    "slug": "phil-campbell-and-the-bastard-sons-singer-search",
-    "count": 1
-  },
-  {
-    "id": 1189,
-    "name": "Phil Demmel",
-    "slug": "phil-demmel",
-    "count": 1
-  },
-  {
-    "id": 1214,
-    "name": "Phil Lynott tribute",
-    "slug": "phil-lynott-tribute",
-    "count": 1
-  },
-  {
-    "id": 833,
-    "name": "Philadelphia metal",
-    "slug": "philadelphia-metal",
-    "count": 1
-  },
-  {
-    "id": 1338,
-    "name": "Play The Old Shit",
-    "slug": "play-the-old-shit",
-    "count": 1
-  },
-  {
-    "id": 1007,
-    "name": "playlist",
-    "slug": "playlist",
-    "count": 1
-  },
-  {
-    "id": 1347,
-    "name": "Poison",
-    "slug": "poison",
-    "count": 1
-  },
-  {
-    "id": 858,
-    "name": "pop punk tour news",
-    "slug": "pop-punk-tour-news",
-    "count": 1
-  },
-  {
-    "id": 502,
-    "name": "poppy 2026 tour",
-    "slug": "poppy-2026-tour",
-    "count": 1
-  },
-  {
-    "id": 500,
-    "name": "poppy news",
-    "slug": "poppy-news",
-    "count": 1
-  },
-  {
-    "id": 1096,
-    "name": "Powerwolf",
-    "slug": "powerwolf",
-    "count": 1
-  },
-  {
-    "id": 1409,
-    "name": "Presale Codes",
-    "slug": "presale-codes",
-    "count": 1
-  },
-  {
-    "id": 1457,
-    "name": "PRESIDENT",
-    "slug": "president",
-    "count": 1
-  },
-  {
-    "id": 1410,
-    "name": "Prime Video",
-    "slug": "prime-video",
-    "count": 1
-  },
-  {
-    "id": 1182,
-    "name": "Prince of Darkness",
-    "slug": "prince-of-darkness",
-    "count": 1
-  },
-  {
-    "id": 720,
-    "name": "progressive metal updates",
-    "slug": "progressive-metal-updates",
-    "count": 1
-  },
-  {
-    "id": 1264,
-    "name": "psychedelic rock",
-    "slug": "psychedelic-rock",
-    "count": 1
-  },
-  {
-    "id": 1399,
-    "name": "punk rock",
-    "slug": "punk-rock",
-    "count": 1
-  },
-  {
-    "id": 1401,
-    "name": "Pure Noise Records",
-    "slug": "pure-noise-records",
-    "count": 1
-  },
-  {
-    "id": 1407,
-    "name": "Randy LeBoeuf",
-    "slug": "randy-leboeuf",
-    "count": 1
-  },
-  {
-    "id": 1323,
-    "name": "Raven",
-    "slug": "raven",
-    "count": 1
-  },
-  {
-    "id": 1113,
-    "name": "Refused",
-    "slug": "refused",
-    "count": 1
-  },
-  {
-    "id": 1452,
-    "name": "Reign In Blood",
-    "slug": "reign-in-blood",
-    "count": 1
-  },
-  {
-    "id": 1402,
-    "name": "Resistor",
-    "slug": "resistor",
-    "count": 1
-  },
-  {
-    "id": 616,
-    "name": "richard shaw",
-    "slug": "richard-shaw",
-    "count": 1
-  },
-  {
-    "id": 1208,
-    "name": "Rik Emmett",
-    "slug": "rik-emmett",
-    "count": 1
-  },
-  {
-    "id": 958,
-    "name": "rising metal bands",
-    "slug": "rising-metal-bands",
-    "count": 1
-  },
-  {
-    "id": 646,
-    "name": "rising touring costs",
-    "slug": "rising-touring-costs",
-    "count": 1
-  },
-  {
-    "id": 485,
-    "name": "Rock &amp; Brews",
-    "slug": "rock-brews",
-    "count": 1
-  },
-  {
-    "id": 481,
-    "name": "Rock &amp; Brews Sacramento",
-    "slug": "rock-brews-sacramento",
-    "count": 1
-  },
-  {
-    "id": 1450,
-    "name": "Rock and Roll Hall of Fame",
-    "slug": "rock-and-roll-hall-of-fame",
-    "count": 1
-  },
-  {
-    "id": 743,
-    "name": "rock band news",
-    "slug": "rock-band-news",
-    "count": 1
-  },
-  {
-    "id": 1350,
-    "name": "Rock Fest",
-    "slug": "rock-fest",
-    "count": 1
-  },
-  {
-    "id": 1314,
-    "name": "rock festival",
-    "slug": "rock-festival",
-    "count": 1
-  },
-  {
-    "id": 695,
-    "name": "rock festival 2025",
-    "slug": "rock-festival-2025",
-    "count": 1
-  },
-  {
-    "id": 484,
-    "name": "Rock Festivals",
-    "slug": "rock-festivals",
-    "count": 1
-  },
-  {
-    "id": 449,
-    "name": "Rock for People festival",
-    "slug": "rock-for-people-festival",
-    "count": 1
-  },
-  {
-    "id": 1082,
-    "name": "rock history",
-    "slug": "rock-history",
-    "count": 1
-  },
-  {
-    "id": 1089,
-    "name": "rock legacy",
-    "slug": "rock-legacy",
-    "count": 1
-  },
-  {
-    "id": 1186,
-    "name": "Rock Legend",
-    "slug": "rock-legend",
-    "count": 1
-  },
-  {
-    "id": 1267,
-    "name": "rock legends",
-    "slug": "rock-legends",
-    "count": 1
-  },
-  {
-    "id": 745,
-    "name": "rock lyrics analysis",
-    "slug": "rock-lyrics-analysis",
-    "count": 1
-  },
-  {
-    "id": 735,
-    "name": "rock music",
-    "slug": "rock-music",
-    "count": 1
-  },
-  {
-    "id": 260,
-    "name": "rock music news",
-    "slug": "rock-music-news",
-    "count": 1
-  },
-  {
-    "id": 862,
-    "name": "rock music news 2026",
-    "slug": "rock-music-news-2026",
-    "count": 1
-  },
-  {
-    "id": 698,
-    "name": "rock music review",
-    "slug": "rock-music-review",
-    "count": 1
-  },
-  {
-    "id": 900,
-    "name": "rock music updates",
-    "slug": "rock-music-updates",
-    "count": 1
-  },
-  {
-    "id": 744,
-    "name": "rock single review",
-    "slug": "rock-single-review",
-    "count": 1
-  },
-  {
-    "id": 728,
-    "name": "rock song review",
-    "slug": "rock-song-review",
-    "count": 1
-  },
-  {
-    "id": 1071,
-    "name": "rock tours",
-    "slug": "rock-tours",
-    "count": 1
-  },
-  {
-    "id": 498,
-    "name": "rock tours 2026",
-    "slug": "rock-tours-2026",
-    "count": 1
-  },
-  {
-    "id": 818,
-    "name": "Rockville Festival",
-    "slug": "rockville-festival",
-    "count": 1
-  },
-  {
-    "id": 1217,
-    "name": "Roddy Bottum",
-    "slug": "roddy-bottum",
-    "count": 1
-  },
-  {
-    "id": 1051,
-    "name": "Rotten Sound",
-    "slug": "rotten-sound",
-    "count": 1
-  },
-  {
-    "id": 1329,
-    "name": "Rotting Christ",
-    "slug": "rotting-christ",
-    "count": 1
-  },
-  {
-    "id": 559,
-    "name": "Rumor Watch",
-    "slug": "rumor-watch",
-    "count": 1
-  },
-  {
-    "id": 1037,
-    "name": "Run For Your Lives",
-    "slug": "run-for-your-lives",
-    "count": 1
-  },
-  {
-    "id": 486,
-    "name": "RV Camping",
-    "slug": "rv-camping",
-    "count": 1
-  },
-  {
-    "id": 1405,
-    "name": "Sabaton",
-    "slug": "sabaton",
-    "count": 1
-  },
-  {
-    "id": 693,
-    "name": "Sacramento rock festival",
-    "slug": "sacramento-rock-festival",
-    "count": 1
-  },
-  {
-    "id": 1005,
-    "name": "sacred",
-    "slug": "sacred",
-    "count": 1
-  },
-  {
-    "id": 797,
-    "name": "Sami Yli-Sirniö",
-    "slug": "sami-yli-sirnio",
-    "count": 1
-  },
-  {
-    "id": 614,
-    "name": "sasha massacre",
-    "slug": "sasha-massacre",
-    "count": 1
-  },
-  {
-    "id": 801,
-    "name": "Satanic Anarchy",
-    "slug": "satanic-anarchy",
-    "count": 1
-  },
-  {
-    "id": 1375,
-    "name": "Saxon",
-    "slug": "saxon",
-    "count": 1
-  },
-  {
-    "id": 601,
-    "name": "scandinavian metal",
-    "slug": "scandinavian-metal",
-    "count": 1
-  },
-  {
-    "id": 570,
-    "name": "Scatterbrain",
-    "slug": "scatterbrain",
-    "count": 1
-  },
-  {
-    "id": 586,
-    "name": "Scatterbrain debut release",
-    "slug": "scatterbrain-debut-release",
-    "count": 1
-  },
-  {
-    "id": 578,
-    "name": "Scatterbrain debut single",
-    "slug": "scatterbrain-debut-single",
-    "count": 1
-  },
-  {
-    "id": 577,
-    "name": "Scatterbrain Look What You Made Me Do",
-    "slug": "scatterbrain-look-what-you-made-me-do",
-    "count": 1
-  },
-  {
-    "id": 584,
-    "name": "Scatterbrain music project",
-    "slug": "scatterbrain-music-project",
-    "count": 1
-  },
-  {
-    "id": 583,
-    "name": "Scatterbrain official release",
-    "slug": "scatterbrain-official-release",
-    "count": 1
-  },
-  {
-    "id": 1092,
-    "name": "Scottish metal",
-    "slug": "scottish-metal",
-    "count": 1
-  },
-  {
-    "id": 1192,
-    "name": "Sean Killian",
-    "slug": "sean-killian",
-    "count": 1
-  },
-  {
-    "id": 912,
-    "name": "Sebastian Bach",
-    "slug": "sebastian-bach",
-    "count": 1
-  },
-  {
-    "id": 913,
-    "name": "Sebastian Bach 2026",
-    "slug": "sebastian-bach-2026",
-    "count": 1
-  },
-  {
-    "id": 911,
-    "name": "Sebastian Bach tour dates",
-    "slug": "sebastian-bach-tour-dates",
-    "count": 1
-  },
-  {
-    "id": 1461,
+    "id": 21,
     "name": "Serj Tankian",
     "slug": "serj-tankian",
     "count": 1
   },
   {
-    "id": 1371,
-    "name": "Sevendust",
-    "slug": "sevendust",
+    "id": 28,
+    "name": "Las Vegas Sphere",
+    "slug": "las-vegas-sphere",
     "count": 1
   },
   {
-    "id": 1430,
-    "name": "Shinedown",
-    "slug": "shinedown",
+    "id": 29,
+    "name": "M72",
+    "slug": "m72",
     "count": 1
   },
   {
-    "id": 1349,
-    "name": "shock rock",
-    "slug": "shock-rock",
+    "id": 33,
+    "name": "Bay Area Thrash",
+    "slug": "bay-area-thrash",
     "count": 1
   },
   {
-    "id": 1014,
-    "name": "Sick New World",
-    "slug": "sick-new-world",
+    "id": 37,
+    "name": "Better Lovers",
+    "slug": "better-lovers",
     "count": 1
   },
   {
-    "id": 1016,
-    "name": "Sick New World 2026",
-    "slug": "sick-new-world-2026",
+    "id": 40,
+    "name": "Rock and Roll Hall of Fame",
+    "slug": "rock-and-roll-hall-of-fame",
     "count": 1
   },
   {
-    "id": 1015,
-    "name": "Sick New World Festival",
-    "slug": "sick-new-world-festival",
-    "count": 1
-  },
-  {
-    "id": 959,
-    "name": "SiriusXM",
-    "slug": "siriusxm",
-    "count": 1
-  },
-  {
-    "id": 1394,
-    "name": "Sister Sin",
-    "slug": "sister-sin",
-    "count": 1
-  },
-  {
-    "id": 832,
-    "name": "Skyler Conder",
-    "slug": "skyler-conder",
-    "count": 1
-  },
-  {
-    "id": 1317,
-    "name": "Slackjaw",
-    "slug": "slackjaw",
-    "count": 1
-  },
-  {
-    "id": 954,
-    "name": "Slaughter to Prevail",
-    "slug": "slaughter-to-prevail",
-    "count": 1
-  },
-  {
-    "id": 1073,
-    "name": "sleep token concert review",
-    "slug": "sleep-token-concert-review",
-    "count": 1
-  },
-  {
-    "id": 1072,
-    "name": "sleep token live",
-    "slug": "sleep-token-live",
-    "count": 1
-  },
-  {
-    "id": 1078,
-    "name": "sleep token oakland",
-    "slug": "sleep-token-oakland",
-    "count": 1
-  },
-  {
-    "id": 715,
-    "name": "slipknot look outside your window",
-    "slug": "slipknot-look-outside-your-window",
-    "count": 1
-  },
-  {
-    "id": 1328,
-    "name": "sludge metal",
-    "slug": "sludge-metal",
-    "count": 1
-  },
-  {
-    "id": 1253,
-    "name": "soilent green",
-    "slug": "soilent-green",
-    "count": 1
-  },
-  {
-    "id": 1345,
-    "name": "Solid State Records",
-    "slug": "solid-state-records",
-    "count": 1
-  },
-  {
-    "id": 736,
-    "name": "song meaning",
-    "slug": "song-meaning",
-    "count": 1
-  },
-  {
-    "id": 1023,
-    "name": "Sonic Temple Festival",
-    "slug": "sonic-temple-festival",
-    "count": 1
-  },
-  {
-    "id": 943,
-    "name": "South Florida metal",
-    "slug": "south-florida-metal",
-    "count": 1
-  },
-  {
-    "id": 987,
-    "name": "specter",
-    "slug": "specter",
-    "count": 1
-  },
-  {
-    "id": 1232,
-    "name": "Spinefarm Records",
-    "slug": "spinefarm-records",
-    "count": 1
-  },
-  {
-    "id": 490,
-    "name": "spiritbox news",
-    "slug": "spiritbox-news",
-    "count": 1
-  },
-  {
-    "id": 495,
-    "name": "spiritbox tour 2026",
-    "slug": "spiritbox-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1340,
-    "name": "Split Chain",
-    "slug": "split-chain",
-    "count": 1
-  },
-  {
-    "id": 1342,
-    "name": "Spring 2026 tours",
-    "slug": "spring-2026-tours",
-    "count": 1
-  },
-  {
-    "id": 1388,
-    "name": "Static Dress",
-    "slug": "static-dress",
-    "count": 1
-  },
-  {
-    "id": 1028,
-    "name": "Static-X estate",
-    "slug": "static-x-estate",
-    "count": 1
-  },
-  {
-    "id": 910,
-    "name": "Stitched Up Heart",
-    "slug": "stitched-up-heart",
-    "count": 1
-  },
-  {
-    "id": 1104,
-    "name": "StubHub",
-    "slug": "stubhub",
-    "count": 1
-  },
-  {
-    "id": 747,
-    "name": "Sumerian Records review",
-    "slug": "sumerian-records-review",
-    "count": 1
-  },
-  {
-    "id": 867,
-    "name": "summer concert lineup 2026",
-    "slug": "summer-concert-lineup-2026",
-    "count": 1
-  },
-  {
-    "id": 1124,
-    "name": "summer festivals",
-    "slug": "summer-festivals",
-    "count": 1
-  },
-  {
-    "id": 1382,
-    "name": "summer festivals 2026",
-    "slug": "summer-festivals-2026",
-    "count": 1
-  },
-  {
-    "id": 593,
-    "name": "swedish heavy metal",
-    "slug": "swedish-heavy-metal",
-    "count": 1
-  },
-  {
-    "id": 1221,
-    "name": "symphonic metal",
-    "slug": "symphonic-metal",
-    "count": 1
-  },
-  {
-    "id": 1011,
-    "name": "System of a Brown Tour",
-    "slug": "system-of-a-brown-tour",
-    "count": 1
-  },
-  {
-    "id": 1019,
-    "name": "System of a Down",
-    "slug": "system-of-a-down",
-    "count": 1
-  },
-  {
-    "id": 1392,
-    "name": "Tailgunner",
-    "slug": "tailgunner",
-    "count": 1
-  },
-  {
-    "id": 1076,
-    "name": "take me back to eden",
-    "slug": "take-me-back-to-eden",
-    "count": 1
-  },
-  {
-    "id": 580,
-    "name": "Taylor Swift metal cover",
-    "slug": "taylor-swift-metal-cover",
-    "count": 1
-  },
-  {
-    "id": 938,
-    "name": "teen metal band",
-    "slug": "teen-metal-band",
-    "count": 1
-  },
-  {
-    "id": 802,
-    "name": "Teutonic Thrash",
-    "slug": "teutonic-thrash",
-    "count": 1
-  },
-  {
-    "id": 1327,
-    "name": "The Acacia Strain",
-    "slug": "the-acacia-strain",
-    "count": 1
-  },
-  {
-    "id": 632,
-    "name": "The Amity Affliction tour 2026",
-    "slug": "the-amity-affliction-tour-2026",
-    "count": 1
-  },
-  {
-    "id": 1059,
-    "name": "The Amonklok Conquest",
-    "slug": "the-amonklok-conquest",
-    "count": 1
-  },
-  {
-    "id": 1334,
-    "name": "The Devil Wears Prada",
-    "slug": "the-devil-wears-prada",
-    "count": 1
-  },
-  {
-    "id": 1344,
-    "name": "The Devil Wears Prada Spring 2026 Tour",
-    "slug": "the-devil-wears-prada-spring-2026-tour",
-    "count": 1
-  },
-  {
-    "id": 1251,
-    "name": "the dillinger escape plan",
-    "slug": "the-dillinger-escape-plan",
-    "count": 1
-  },
-  {
-    "id": 1205,
-    "name": "The Ex-Faces",
-    "slug": "the-ex-faces",
-    "count": 1
-  },
-  {
-    "id": 970,
-    "name": "The Game Awards",
-    "slug": "the-game-awards",
-    "count": 1
-  },
-  {
-    "id": 1403,
-    "name": "The Hu",
-    "slug": "the-hu",
-    "count": 1
-  },
-  {
-    "id": 1320,
-    "name": "The Warning",
-    "slug": "the-warning",
-    "count": 1
-  },
-  {
-    "id": 659,
-    "name": "The Zenith Passage",
-    "slug": "the-zenith-passage",
-    "count": 1
-  },
-  {
-    "id": 1218,
-    "name": "Thin Lizzy",
-    "slug": "thin-lizzy",
-    "count": 1
-  },
-  {
-    "id": 1427,
-    "name": "thousand below",
-    "slug": "thousand-below",
-    "count": 1
-  },
-  {
-    "id": 716,
-    "name": "thrash metal cinematic event",
-    "slug": "thrash-metal-cinematic-event",
-    "count": 1
-  },
-  {
-    "id": 846,
-    "name": "thrash metal history",
-    "slug": "thrash-metal-history",
-    "count": 1
-  },
-  {
-    "id": 840,
-    "name": "thrash metal legends",
-    "slug": "thrash-metal-legends",
-    "count": 1
-  },
-  {
-    "id": 1067,
-    "name": "Thrash of the Titans",
-    "slug": "thrash-of-the-titans",
-    "count": 1
-  },
-  {
-    "id": 464,
-    "name": "Three Days Grace",
-    "slug": "three-days-grace",
-    "count": 1
-  },
-  {
-    "id": 1206,
-    "name": "Thy Art Is Murder",
-    "slug": "thy-art-is-murder",
-    "count": 1
-  },
-  {
-    "id": 1105,
-    "name": "ticket resellers",
-    "slug": "ticket-resellers",
-    "count": 1
-  },
-  {
-    "id": 1201,
-    "name": "Tim Lambesis",
-    "slug": "tim-lambesis",
-    "count": 1
-  },
-  {
-    "id": 1449,
+    "id": 41,
     "name": "Tom Morello",
     "slug": "tom-morello",
     "count": 1
   },
   {
-    "id": 982,
-    "name": "top 10",
-    "slug": "top-10",
+    "id": 42,
+    "name": "Voivod",
+    "slug": "voivod",
     "count": 1
   },
   {
-    "id": 992,
-    "name": "top 10 metal tracks",
-    "slug": "top-10-metal-tracks",
+    "id": 44,
+    "name": "Reign In Blood",
+    "slug": "reign-in-blood",
     "count": 1
   },
   {
-    "id": 1341,
+    "id": 48,
+    "name": "Mike Patton",
+    "slug": "mike-patton",
+    "count": 1
+  },
+  {
+    "id": 50,
+    "name": "Circle Jerks",
+    "slug": "circle-jerks",
+    "count": 1
+  },
+  {
+    "id": 56,
+    "name": "Atlantic Records",
+    "slug": "atlantic-records",
+    "count": 1
+  },
+  {
+    "id": 58,
+    "name": "PRESIDENT",
+    "slug": "president",
+    "count": 1
+  },
+  {
+    "id": 60,
+    "name": "enter shikari",
+    "slug": "enter-shikari",
+    "count": 1
+  },
+  {
+    "id": 63,
+    "name": "Ingested",
+    "slug": "ingested",
+    "count": 1
+  },
+  {
+    "id": 64,
+    "name": "Lovebites",
+    "slug": "lovebites",
+    "count": 1
+  },
+  {
+    "id": 68,
+    "name": "Shinedown",
+    "slug": "shinedown",
+    "count": 1
+  },
+  {
+    "id": 74,
+    "name": "Chevelle",
+    "slug": "chevelle",
+    "count": 1
+  },
+  {
+    "id": 76,
+    "name": "landmvrks",
+    "slug": "landmvrks",
+    "count": 1
+  },
+  {
+    "id": 78,
+    "name": "thousand below",
+    "slug": "thousand-below",
+    "count": 1
+  },
+  {
+    "id": 79,
+    "name": "Atlas (band)",
+    "slug": "atlas-band",
+    "count": 1
+  },
+  {
+    "id": 83,
+    "name": "KK's Priest",
+    "slug": "kks-priest",
+    "count": 1
+  },
+  {
+    "id": 86,
+    "name": "Randy LeBoeuf",
+    "slug": "randy-leboeuf",
+    "count": 1
+  },
+  {
+    "id": 87,
+    "name": "Resistor",
+    "slug": "resistor",
+    "count": 1
+  },
+  {
+    "id": 88,
+    "name": "Apple TV",
+    "slug": "apple-tv",
+    "count": 1
+  },
+  {
+    "id": 89,
+    "name": "concert film",
+    "slug": "concert-film",
+    "count": 1
+  },
+  {
+    "id": 90,
+    "name": "Prime Video",
+    "slug": "prime-video",
+    "count": 1
+  },
+  {
+    "id": 91,
+    "name": "Sabaton",
+    "slug": "sabaton",
+    "count": 1
+  },
+  {
+    "id": 92,
+    "name": "Apocalyptica",
+    "slug": "apocalyptica",
+    "count": 1
+  },
+  {
+    "id": 94,
+    "name": "Presale Codes",
+    "slug": "presale-codes",
+    "count": 1
+  },
+  {
+    "id": 95,
+    "name": "The Hu",
+    "slug": "the-hu",
+    "count": 1
+  },
+  {
+    "id": 99,
+    "name": "Pure Noise Records",
+    "slug": "pure-noise-records",
+    "count": 1
+  },
+  {
+    "id": 101,
+    "name": "Butcher Babies",
+    "slug": "butcher-babies",
+    "count": 1
+  },
+  {
+    "id": 105,
+    "name": "new single",
+    "slug": "new-single",
+    "count": 1
+  },
+  {
+    "id": 106,
+    "name": "Dropkick Murphys",
+    "slug": "dropkick-murphys",
+    "count": 1
+  },
+  {
+    "id": 107,
+    "name": "punk rock",
+    "slug": "punk-rock",
+    "count": 1
+  },
+  {
+    "id": 110,
+    "name": "Denzel Curry",
+    "slug": "denzel-curry",
+    "count": 1
+  },
+  {
+    "id": 113,
+    "name": "Blaze Bayley",
+    "slug": "blaze-bayley",
+    "count": 1
+  },
+  {
+    "id": 115,
+    "name": "Cyclone",
+    "slug": "cyclone",
+    "count": 1
+  },
+  {
+    "id": 117,
+    "name": "Fit For A King",
+    "slug": "fit-for-a-king",
+    "count": 1
+  },
+  {
+    "id": 118,
+    "name": "Loathe",
+    "slug": "loathe",
+    "count": 1
+  },
+  {
+    "id": 120,
+    "name": "Mastodon",
+    "slug": "mastodon",
+    "count": 1
+  },
+  {
+    "id": 121,
+    "name": "Maul",
+    "slug": "maul",
+    "count": 1
+  },
+  {
+    "id": 124,
+    "name": "Sister Sin",
+    "slug": "sister-sin",
+    "count": 1
+  },
+  {
+    "id": 125,
+    "name": "Static Dress",
+    "slug": "static-dress",
+    "count": 1
+  },
+  {
+    "id": 126,
+    "name": "Tailgunner",
+    "slug": "tailgunner",
+    "count": 1
+  },
+  {
+    "id": 127,
+    "name": "Transilvania",
+    "slug": "transilvania",
+    "count": 1
+  },
+  {
+    "id": 128,
+    "name": "Alexisonfire",
+    "slug": "alexisonfire",
+    "count": 1
+  },
+  {
+    "id": 129,
+    "name": "Europe metal festival",
+    "slug": "europe-metal-festival",
+    "count": 1
+  },
+  {
+    "id": 130,
+    "name": "festival announcement",
+    "slug": "festival-announcement",
+    "count": 1
+  },
+  {
+    "id": 131,
+    "name": "Man With A Mission",
+    "slug": "man-with-a-mission",
+    "count": 1
+  },
+  {
+    "id": 137,
+    "name": "Saxon",
+    "slug": "saxon",
+    "count": 1
+  },
+  {
+    "id": 138,
+    "name": "summer festivals 2026",
+    "slug": "summer-festivals-2026",
+    "count": 1
+  },
+  {
+    "id": 151,
+    "name": "turnstile",
+    "slug": "turnstile",
+    "count": 1
+  },
+  {
+    "id": 152,
+    "name": "2026 tours",
+    "slug": "2026-tours",
+    "count": 1
+  },
+  {
+    "id": 153,
+    "name": "Atreyu",
+    "slug": "atreyu",
+    "count": 1
+  },
+  {
+    "id": 154,
+    "name": "Biohazard",
+    "slug": "biohazard",
+    "count": 1
+  },
+  {
+    "id": 155,
+    "name": "Dark Divine",
+    "slug": "dark-divine",
+    "count": 1
+  },
+  {
+    "id": 157,
+    "name": "farewell tour",
+    "slug": "farewell-tour",
+    "count": 1
+  },
+  {
+    "id": 159,
+    "name": "metal news January 2026",
+    "slug": "metal-news-january-2026",
+    "count": 1
+  },
+  {
+    "id": 160,
+    "name": "new album",
+    "slug": "new-album",
+    "count": 1
+  },
+  {
+    "id": 161,
+    "name": "Sevendust",
+    "slug": "sevendust",
+    "count": 1
+  },
+  {
+    "id": 162,
+    "name": "AWOLNATION",
+    "slug": "awolnation",
+    "count": 1
+  },
+  {
+    "id": 163,
+    "name": "festival at sea",
+    "slug": "festival-at-sea",
+    "count": 1
+  },
+  {
+    "id": 164,
+    "name": "festival coverage",
+    "slug": "festival-coverage",
+    "count": 1
+  },
+  {
+    "id": 165,
+    "name": "Kittie",
+    "slug": "kittie",
+    "count": 1
+  },
+  {
+    "id": 166,
+    "name": "metal community",
+    "slug": "metal-community",
+    "count": 1
+  },
+  {
+    "id": 172,
+    "name": "Poison",
+    "slug": "poison",
+    "count": 1
+  },
+  {
+    "id": 173,
+    "name": "Rock Fest",
+    "slug": "rock-fest",
+    "count": 1
+  },
+  {
+    "id": 174,
+    "name": "shock rock",
+    "slug": "shock-rock",
+    "count": 1
+  },
+  {
+    "id": 175,
+    "name": "concert tours",
+    "slug": "concert-tours",
+    "count": 1
+  },
+  {
+    "id": 176,
+    "name": "Flowers",
+    "slug": "flowers",
+    "count": 1
+  },
+  {
+    "id": 177,
+    "name": "Flowers album",
+    "slug": "flowers-album",
+    "count": 1
+  },
+  {
+    "id": 178,
+    "name": "Four Year Strong",
+    "slug": "four-year-strong",
+    "count": 1
+  },
+  {
+    "id": 179,
+    "name": "I Promised The World",
+    "slug": "i-promised-the-world",
+    "count": 1
+  },
+  {
+    "id": 181,
+    "name": "Play The Old Shit",
+    "slug": "play-the-old-shit",
+    "count": 1
+  },
+  {
+    "id": 182,
+    "name": "Solid State Records",
+    "slug": "solid-state-records",
+    "count": 1
+  },
+  {
+    "id": 183,
+    "name": "Split Chain",
+    "slug": "split-chain",
+    "count": 1
+  },
+  {
+    "id": 184,
+    "name": "Spring 2026 tours",
+    "slug": "spring-2026-tours",
+    "count": 1
+  },
+  {
+    "id": 185,
+    "name": "The Devil Wears Prada",
+    "slug": "the-devil-wears-prada",
+    "count": 1
+  },
+  {
+    "id": 186,
+    "name": "The Devil Wears Prada Spring 2026 Tour",
+    "slug": "the-devil-wears-prada-spring-2026-tour",
+    "count": 1
+  },
+  {
+    "id": 187,
     "name": "tour announcements",
     "slug": "tour-announcements",
     "count": 1
   },
   {
-    "id": 643,
+    "id": 190,
+    "name": "BottleRock Napa Valley",
+    "slug": "bottlerock-napa-valley",
+    "count": 1
+  },
+  {
+    "id": 192,
+    "name": "Cody Jinks",
+    "slug": "cody-jinks",
+    "count": 1
+  },
+  {
+    "id": 193,
+    "name": "country metal",
+    "slug": "country-metal",
+    "count": 1
+  },
+  {
+    "id": 194,
+    "name": "death metal",
+    "slug": "death-metal",
+    "count": 1
+  },
+  {
+    "id": 195,
+    "name": "Deicide",
+    "slug": "deicide",
+    "count": 1
+  },
+  {
+    "id": 198,
+    "name": "Immolation",
+    "slug": "immolation",
+    "count": 1
+  },
+  {
+    "id": 199,
+    "name": "Joan Jett",
+    "slug": "joan-jett",
+    "count": 1
+  },
+  {
+    "id": 200,
+    "name": "Raven",
+    "slug": "raven",
+    "count": 1
+  },
+  {
+    "id": 201,
+    "name": "Rotting Christ",
+    "slug": "rotting-christ",
+    "count": 1
+  },
+  {
+    "id": 202,
+    "name": "Slackjaw",
+    "slug": "slackjaw",
+    "count": 1
+  },
+  {
+    "id": 203,
+    "name": "sludge metal",
+    "slug": "sludge-metal",
+    "count": 1
+  },
+  {
+    "id": 204,
+    "name": "The Acacia Strain",
+    "slug": "the-acacia-strain",
+    "count": 1
+  },
+  {
+    "id": 206,
+    "name": "The Warning",
+    "slug": "the-warning",
+    "count": 1
+  },
+  {
+    "id": 207,
+    "name": "Zakk Wylde",
+    "slug": "zakk-wylde",
+    "count": 1
+  },
+  {
+    "id": 208,
+    "name": "A Day To Remember",
+    "slug": "a-day-to-remember",
+    "count": 1
+  },
+  {
+    "id": 211,
+    "name": "DWP",
+    "slug": "dwp",
+    "count": 1
+  },
+  {
+    "id": 214,
+    "name": "Inkcarceration",
+    "slug": "inkcarceration",
+    "count": 1
+  },
+  {
+    "id": 215,
+    "name": "Inkcarceration 2026",
+    "slug": "inkcarceration-2026",
+    "count": 1
+  },
+  {
+    "id": 216,
+    "name": "Inkcarceration Festival",
+    "slug": "inkcarceration-festival",
+    "count": 1
+  },
+  {
+    "id": 217,
+    "name": "Jinjer",
+    "slug": "jinjer",
+    "count": 1
+  },
+  {
+    "id": 219,
+    "name": "Machine Head",
+    "slug": "machine-head",
+    "count": 1
+  },
+  {
+    "id": 220,
+    "name": "Ohio State Reformatory",
+    "slug": "ohio-state-reformatory",
+    "count": 1
+  },
+  {
+    "id": 221,
+    "name": "rock festival",
+    "slug": "rock-festival",
+    "count": 1
+  },
+  {
+    "id": 225,
+    "name": "metal album",
+    "slug": "metal-album",
+    "count": 1
+  },
+  {
+    "id": 226,
+    "name": "metal release",
+    "slug": "metal-release",
+    "count": 1
+  },
+  {
+    "id": 233,
+    "name": "avatar 2026 tour",
+    "slug": "avatar-2026-tour",
+    "count": 1
+  },
+  {
+    "id": 234,
+    "name": "avatar band",
+    "slug": "avatar-band",
+    "count": 1
+  },
+  {
+    "id": 235,
+    "name": "dont go in the forest",
+    "slug": "dont-go-in-the-forest",
+    "count": 1
+  },
+  {
+    "id": 236,
+    "name": "fleshgod apocalypse",
+    "slug": "fleshgod-apocalypse",
+    "count": 1
+  },
+  {
+    "id": 237,
+    "name": "johannes eckerstrom",
+    "slug": "johannes-eckerstrom",
+    "count": 1
+  },
+  {
+    "id": 238,
+    "name": "melodic death metal",
+    "slug": "melodic-death-metal",
+    "count": 1
+  },
+  {
+    "id": 241,
+    "name": "band lineup changes",
+    "slug": "band-lineup-changes",
+    "count": 1
+  },
+  {
+    "id": 242,
+    "name": "band member exits",
+    "slug": "band-member-exits",
+    "count": 1
+  },
+  {
+    "id": 243,
+    "name": "Caleb Freihaut",
+    "slug": "caleb-freihaut",
+    "count": 1
+  },
+  {
+    "id": 245,
+    "name": "Gino Sgambelluri",
+    "slug": "gino-sgambelluri",
+    "count": 1
+  },
+  {
+    "id": 248,
+    "name": "Jay Weinberg",
+    "slug": "jay-weinberg",
+    "count": 1
+  },
+  {
+    "id": 250,
+    "name": "Bob Weir",
+    "slug": "bob-weir",
+    "count": 1
+  },
+  {
+    "id": 251,
+    "name": "Grateful Dead",
+    "slug": "grateful-dead",
+    "count": 1
+  },
+  {
+    "id": 252,
+    "name": "Grateful Dead news",
+    "slug": "grateful-dead-news",
+    "count": 1
+  },
+  {
+    "id": 253,
+    "name": "jam band",
+    "slug": "jam-band",
+    "count": 1
+  },
+  {
+    "id": 254,
+    "name": "live music culture",
+    "slug": "live-music-culture",
+    "count": 1
+  },
+  {
+    "id": 255,
+    "name": "music legacy",
+    "slug": "music-legacy",
+    "count": 1
+  },
+  {
+    "id": 256,
+    "name": "music news",
+    "slug": "music-news",
+    "count": 1
+  },
+  {
+    "id": 257,
+    "name": "musician death",
+    "slug": "musician-death",
+    "count": 1
+  },
+  {
+    "id": 258,
+    "name": "psychedelic rock",
+    "slug": "psychedelic-rock",
+    "count": 1
+  },
+  {
+    "id": 259,
+    "name": "rock legends",
+    "slug": "rock-legends",
+    "count": 1
+  },
+  {
+    "id": 261,
+    "name": "black metal",
+    "slug": "black-metal",
+    "count": 1
+  },
+  {
+    "id": 263,
+    "name": "Liturgy of Death",
+    "slug": "liturgy-of-death",
+    "count": 1
+  },
+  {
+    "id": 264,
+    "name": "Mayhem",
+    "slug": "mayhem",
+    "count": 1
+  },
+  {
+    "id": 265,
+    "name": "Norwegian black metal",
+    "slug": "norwegian-black-metal",
+    "count": 1
+  },
+  {
+    "id": 266,
+    "name": "occult metal",
+    "slug": "occult-metal",
+    "count": 1
+  },
+  {
+    "id": 267,
+    "name": "All Shall Perish",
+    "slug": "all-shall-perish",
+    "count": 1
+  },
+  {
+    "id": 268,
+    "name": "d.r.i.",
+    "slug": "dri",
+    "count": 1
+  },
+  {
+    "id": 269,
+    "name": "gwar",
+    "slug": "gwar",
+    "count": 1
+  },
+  {
+    "id": 270,
+    "name": "harms way",
+    "slug": "harms-way",
+    "count": 1
+  },
+  {
+    "id": 272,
+    "name": "headbangers boat 2026",
+    "slug": "headbangers-boat-2026",
+    "count": 1
+  },
+  {
+    "id": 273,
+    "name": "heavy metal cruise",
+    "slug": "heavy-metal-cruise",
+    "count": 1
+  },
+  {
+    "id": 274,
+    "name": "in flames",
+    "slug": "in-flames",
+    "count": 1
+  },
+  {
+    "id": 275,
+    "name": "Kylesa",
+    "slug": "kylesa",
+    "count": 1
+  },
+  {
+    "id": 277,
+    "name": "soilent green",
+    "slug": "soilent-green",
+    "count": 1
+  },
+  {
+    "id": 278,
+    "name": "the dillinger escape plan",
+    "slug": "the-dillinger-escape-plan",
+    "count": 1
+  },
+  {
+    "id": 279,
+    "name": "zakk sabbath",
+    "slug": "zakk-sabbath",
+    "count": 1
+  },
+  {
+    "id": 281,
+    "name": "Fire From The Gods",
+    "slug": "fire-from-the-gods",
+    "count": 1
+  },
+  {
+    "id": 282,
+    "name": "John Bush",
+    "slug": "john-bush",
+    "count": 1
+  },
+  {
+    "id": 283,
+    "name": "Mammoth",
+    "slug": "mammoth",
+    "count": 1
+  },
+  {
+    "id": 284,
+    "name": "Milwaukee Metal Festival",
+    "slug": "milwaukee-metal-festival",
+    "count": 1
+  },
+  {
+    "id": 285,
+    "name": "Andy Biersack",
+    "slug": "andy-biersack",
+    "count": 1
+  },
+  {
+    "id": 286,
+    "name": "Black Veil Brides",
+    "slug": "black-veil-brides",
+    "count": 1
+  },
+  {
+    "id": 287,
+    "name": "Certainty",
+    "slug": "certainty",
+    "count": 1
+  },
+  {
+    "id": 288,
+    "name": "Christian Coma",
+    "slug": "christian-coma",
+    "count": 1
+  },
+  {
+    "id": 289,
+    "name": "Jake Pitts",
+    "slug": "jake-pitts",
+    "count": 1
+  },
+  {
+    "id": 290,
+    "name": "Jinxx",
+    "slug": "jinxx",
+    "count": 1
+  },
+  {
+    "id": 291,
+    "name": "Lonny Eagleton",
+    "slug": "lonny-eagleton",
+    "count": 1
+  },
+  {
+    "id": 293,
+    "name": "music video",
+    "slug": "music-video",
+    "count": 1
+  },
+  {
+    "id": 294,
+    "name": "Spinefarm Records",
+    "slug": "spinefarm-records",
+    "count": 1
+  },
+  {
+    "id": 296,
+    "name": "Beyond The Black",
+    "slug": "beyond-the-black",
+    "count": 1
+  },
+  {
+    "id": 298,
+    "name": "Metal Blade",
+    "slug": "metal-blade",
+    "count": 1
+  },
+  {
+    "id": 299,
+    "name": "Napalm Records",
+    "slug": "napalm-records",
+    "count": 1
+  },
+  {
+    "id": 300,
+    "name": "Nuclear Blast",
+    "slug": "nuclear-blast",
+    "count": 1
+  },
+  {
+    "id": 301,
+    "name": "symphonic metal",
+    "slug": "symphonic-metal",
+    "count": 1
+  },
+  {
+    "id": 302,
+    "name": "Download Festival 2026",
+    "slug": "download-festival-2026",
+    "count": 1
+  },
+  {
+    "id": 303,
+    "name": "Gil Moore",
+    "slug": "gil-moore",
+    "count": 1
+  },
+  {
+    "id": 304,
+    "name": "Guns N’ Roses",
+    "slug": "guns-n-roses",
+    "count": 1
+  },
+  {
+    "id": 305,
+    "name": "hard rock reunion",
+    "slug": "hard-rock-reunion",
+    "count": 1
+  },
+  {
+    "id": 306,
+    "name": "Jake E. Lee",
+    "slug": "jake-e-lee",
+    "count": 1
+  },
+  {
+    "id": 307,
+    "name": "Linkin Park",
+    "slug": "linkin-park",
+    "count": 1
+  },
+  {
+    "id": 308,
+    "name": "Phil Lynott tribute",
+    "slug": "phil-lynott-tribute",
+    "count": 1
+  },
+  {
+    "id": 309,
+    "name": "Rik Emmett",
+    "slug": "rik-emmett",
+    "count": 1
+  },
+  {
+    "id": 310,
+    "name": "Roddy Bottum",
+    "slug": "roddy-bottum",
+    "count": 1
+  },
+  {
+    "id": 311,
+    "name": "Thin Lizzy",
+    "slug": "thin-lizzy",
+    "count": 1
+  },
+  {
+    "id": 312,
+    "name": "Triumph",
+    "slug": "triumph",
+    "count": 1
+  },
+  {
+    "id": 313,
+    "name": "As I Lay Dying",
+    "slug": "as-i-lay-dying",
+    "count": 1
+  },
+  {
+    "id": 314,
+    "name": "Chaos &amp; Carnage",
+    "slug": "chaos-amp-carnage",
+    "count": 1
+  },
+  {
+    "id": 315,
+    "name": "Nick Pierce",
+    "slug": "nick-pierce",
+    "count": 1
+  },
+  {
+    "id": 316,
+    "name": "The Ex-Faces",
+    "slug": "the-ex-faces",
+    "count": 1
+  },
+  {
+    "id": 317,
+    "name": "Thy Art Is Murder",
+    "slug": "thy-art-is-murder",
+    "count": 1
+  },
+  {
+    "id": 318,
+    "name": "Tim Lambesis",
+    "slug": "tim-lambesis",
+    "count": 1
+  },
+  {
+    "id": 319,
+    "name": "bilmuri",
+    "slug": "bilmuri",
+    "count": 1
+  },
+  {
+    "id": 320,
+    "name": "experimental metal",
+    "slug": "experimental-metal",
+    "count": 1
+  },
+  {
+    "id": 321,
+    "name": "ulver",
+    "slug": "ulver",
+    "count": 1
+  },
+  {
+    "id": 322,
+    "name": "veil of maya",
+    "slug": "veil-of-maya",
+    "count": 1
+  },
+  {
+    "id": 323,
+    "name": "Dokken",
+    "slug": "dokken",
+    "count": 1
+  },
+  {
+    "id": 324,
+    "name": "Don Dokken",
+    "slug": "don-dokken",
+    "count": 1
+  },
+  {
+    "id": 325,
+    "name": "Phil Demmel",
+    "slug": "phil-demmel",
+    "count": 1
+  },
+  {
+    "id": 326,
+    "name": "Sean Killian",
+    "slug": "sean-killian",
+    "count": 1
+  },
+  {
+    "id": 327,
+    "name": "Vinnie Vincent",
+    "slug": "vinnie-vincent",
+    "count": 1
+  },
+  {
+    "id": 328,
+    "name": "heavy metal tours",
+    "slug": "heavy-metal-tours",
+    "count": 1
+  },
+  {
+    "id": 330,
+    "name": "metal concerts 2026",
+    "slug": "metal-concerts-2026",
+    "count": 1
+  },
+  {
+    "id": 332,
+    "name": "north american metal tours",
+    "slug": "north-american-metal-tours",
+    "count": 1
+  },
+  {
+    "id": 333,
+    "name": "album release calendar",
+    "slug": "album-release-calendar",
+    "count": 1
+  },
+  {
+    "id": 334,
+    "name": "Bullet For My Valentine",
+    "slug": "bullet-for-my-valentine",
+    "count": 1
+  },
+  {
+    "id": 335,
+    "name": "deathcore albums 2026",
+    "slug": "deathcore-albums-2026",
+    "count": 1
+  },
+  {
+    "id": 336,
+    "name": "hardcore albums 2026",
+    "slug": "hardcore-albums-2026",
+    "count": 1
+  },
+  {
+    "id": 339,
+    "name": "metal albums 2026",
+    "slug": "metal-albums-2026",
+    "count": 1
+  },
+  {
+    "id": 340,
+    "name": "metalcore albums 2026",
+    "slug": "metalcore-albums-2026",
+    "count": 1
+  },
+  {
+    "id": 341,
+    "name": "Trivium",
+    "slug": "trivium",
+    "count": 1
+  },
+  {
+    "id": 343,
+    "name": "Coalesce",
+    "slug": "coalesce",
+    "count": 1
+  },
+  {
+    "id": 345,
+    "name": "Refused",
+    "slug": "refused",
+    "count": 1
+  },
+  {
+    "id": 347,
+    "name": "VOLA",
+    "slug": "vola",
+    "count": 1
+  },
+  {
+    "id": 348,
+    "name": "concert tickets",
+    "slug": "concert-tickets",
+    "count": 1
+  },
+  {
+    "id": 350,
+    "name": "Lamb of God news",
+    "slug": "lamb-of-god-news",
+    "count": 1
+  },
+  {
+    "id": 352,
+    "name": "StubHub",
+    "slug": "stubhub",
+    "count": 1
+  },
+  {
+    "id": 353,
+    "name": "ticket resellers",
+    "slug": "ticket-resellers",
+    "count": 1
+  },
+  {
+    "id": 354,
+    "name": "artist rights",
+    "slug": "artist-rights",
+    "count": 1
+  },
+  {
+    "id": 355,
+    "name": "band merch",
+    "slug": "band-merch",
+    "count": 1
+  },
+  {
+    "id": 356,
+    "name": "copyright dispute",
+    "slug": "copyright-dispute",
+    "count": 1
+  },
+  {
+    "id": 357,
+    "name": "merch controversy",
+    "slug": "merch-controversy",
+    "count": 1
+  },
+  {
+    "id": 358,
+    "name": "metal industry",
+    "slug": "metal-industry",
+    "count": 1
+  },
+  {
+    "id": 359,
+    "name": "metal photography",
+    "slug": "metal-photography",
+    "count": 1
+  },
+  {
+    "id": 361,
+    "name": "Powerwolf",
+    "slug": "powerwolf",
+    "count": 1
+  },
+  {
+    "id": 362,
+    "name": "War On Women",
+    "slug": "war-on-women",
+    "count": 1
+  },
+  {
+    "id": 363,
+    "name": "band naming dispute",
+    "slug": "band-naming-dispute",
+    "count": 1
+  },
+  {
+    "id": 364,
+    "name": "December Tenth",
+    "slug": "december-tenth",
+    "count": 1
+  },
+  {
+    "id": 365,
+    "name": "independent metal",
+    "slug": "independent-metal",
+    "count": 1
+  },
+  {
+    "id": 366,
+    "name": "music industry legal issues",
+    "slug": "music-industry-legal-issues",
+    "count": 1
+  },
+  {
+    "id": 367,
+    "name": "Scottish metal",
+    "slug": "scottish-metal",
+    "count": 1
+  },
+  {
+    "id": 369,
+    "name": "alternative rock news",
+    "slug": "alternative-rock-news",
+    "count": 1
+  },
+  {
+    "id": 370,
+    "name": "band breakups",
+    "slug": "band-breakups",
+    "count": 1
+  },
+  {
+    "id": 371,
+    "name": "Dave Navarro",
+    "slug": "dave-navarro",
+    "count": 1
+  },
+  {
+    "id": 372,
+    "name": "Jane’s Addiction",
+    "slug": "janes-addiction",
+    "count": 1
+  },
+  {
+    "id": 373,
+    "name": "Lollapalooza",
+    "slug": "lollapalooza",
+    "count": 1
+  },
+  {
+    "id": 374,
+    "name": "music industry news",
+    "slug": "music-industry-news",
+    "count": 1
+  },
+  {
+    "id": 375,
+    "name": "Perry Farrell",
+    "slug": "perry-farrell",
+    "count": 1
+  },
+  {
+    "id": 376,
+    "name": "rock history",
+    "slug": "rock-history",
+    "count": 1
+  },
+  {
+    "id": 377,
+    "name": "rock legacy",
+    "slug": "rock-legacy",
+    "count": 1
+  },
+  {
+    "id": 378,
+    "name": "rock tours",
+    "slug": "rock-tours",
+    "count": 1
+  },
+  {
+    "id": 379,
+    "name": "Destruction",
+    "slug": "destruction",
+    "count": 1
+  },
+  {
+    "id": 380,
+    "name": "Overkill",
+    "slug": "overkill",
+    "count": 1
+  },
+  {
+    "id": 383,
+    "name": "Thrash of the Titans",
+    "slug": "thrash-of-the-titans",
+    "count": 1
+  },
+  {
+    "id": 385,
+    "name": "Czech Republic festivals",
+    "slug": "czech-republic-festivals",
+    "count": 1
+  },
+  {
+    "id": 386,
+    "name": "European Festival Awards",
+    "slug": "european-festival-awards",
+    "count": 1
+  },
+  {
+    "id": 388,
+    "name": "Halsey",
+    "slug": "halsey",
+    "count": 1
+  },
+  {
+    "id": 389,
+    "name": "Hradec Králové",
+    "slug": "hradec-krlov",
+    "count": 1
+  },
+  {
+    "id": 391,
+    "name": "summer festivals",
+    "slug": "summer-festivals",
+    "count": 1
+  },
+  {
+    "id": 393,
+    "name": "Bring Me to Life",
+    "slug": "bring-me-to-life",
+    "count": 1
+  },
+  {
+    "id": 395,
+    "name": "Jacoby Shaddix",
+    "slug": "jacoby-shaddix",
+    "count": 1
+  },
+  {
+    "id": 396,
+    "name": "live performance",
+    "slug": "live-performance",
+    "count": 1
+  },
+  {
+    "id": 398,
+    "name": "Caliban",
+    "slug": "caliban",
+    "count": 1
+  },
+  {
+    "id": 399,
+    "name": "Carcass",
+    "slug": "carcass",
+    "count": 1
+  },
+  {
+    "id": 400,
+    "name": "HammerFall",
+    "slug": "hammerfall",
+    "count": 1
+  },
+  {
+    "id": 401,
+    "name": "Infected Rain",
+    "slug": "infected-rain",
+    "count": 1
+  },
+  {
+    "id": 402,
+    "name": "Milwaukee MetalFest",
+    "slug": "milwaukee-metalfest",
+    "count": 1
+  },
+  {
+    "id": 403,
+    "name": "Rotten Sound",
+    "slug": "rotten-sound",
+    "count": 1
+  },
+  {
+    "id": 404,
+    "name": "Run For Your Lives",
+    "slug": "run-for-your-lives",
+    "count": 1
+  },
+  {
+    "id": 405,
+    "name": "World Tour",
+    "slug": "world-tour",
+    "count": 1
+  },
+  {
+    "id": 406,
+    "name": "metal legacy",
+    "slug": "metal-legacy",
+    "count": 1
+  },
+  {
+    "id": 407,
+    "name": "music documentaries",
+    "slug": "music-documentaries",
+    "count": 1
+  },
+  {
+    "id": 409,
+    "name": "Static-X estate",
+    "slug": "static-x-estate",
+    "count": 1
+  },
+  {
+    "id": 411,
+    "name": "Wayne Static documentary",
+    "slug": "wayne-static-documentary",
+    "count": 1
+  },
+  {
+    "id": 412,
+    "name": "2025 heavy music",
+    "slug": "2025-heavy-music",
+    "count": 1
+  },
+  {
+    "id": 413,
+    "name": "2025 metal",
+    "slug": "2025-metal",
+    "count": 1
+  },
+  {
+    "id": 414,
+    "name": "architects",
+    "slug": "architects",
+    "count": 1
+  },
+  {
+    "id": 415,
+    "name": "best songs of 2025",
+    "slug": "best-songs-of-2025",
+    "count": 1
+  },
+  {
+    "id": 416,
+    "name": "bloodlust",
+    "slug": "bloodlust",
+    "count": 1
+  },
+  {
+    "id": 417,
+    "name": "courtney laplante",
+    "slug": "courtney-laplante",
+    "count": 1
+  },
+  {
+    "id": 418,
+    "name": "dying to love",
+    "slug": "dying-to-love",
+    "count": 1
+  },
+  {
+    "id": 419,
+    "name": "emergence",
+    "slug": "emergence",
+    "count": 1
+  },
+  {
+    "id": 420,
+    "name": "end of you",
+    "slug": "end-of-you",
+    "count": 1
+  },
+  {
+    "id": 421,
+    "name": "heavy music",
+    "slug": "heavy-music",
+    "count": 1
+  },
+  {
+    "id": 422,
+    "name": "i prevail",
+    "slug": "i-prevail",
+    "count": 1
+  },
+  {
+    "id": 423,
+    "name": "no loss no love",
+    "slug": "no-loss-no-love",
+    "count": 1
+  },
+  {
+    "id": 424,
+    "name": "pale moonlight",
+    "slug": "pale-moonlight",
+    "count": 1
+  },
+  {
+    "id": 426,
+    "name": "playlist",
+    "slug": "playlist",
+    "count": 1
+  },
+  {
+    "id": 427,
+    "name": "sacred",
+    "slug": "sacred",
+    "count": 1
+  },
+  {
+    "id": 428,
+    "name": "specter",
+    "slug": "specter",
+    "count": 1
+  },
+  {
+    "id": 429,
+    "name": "top 10",
+    "slug": "top-10",
+    "count": 1
+  },
+  {
+    "id": 430,
+    "name": "top 10 metal tracks",
+    "slug": "top-10-metal-tracks",
+    "count": 1
+  },
+  {
+    "id": 431,
+    "name": "violent nature",
+    "slug": "violent-nature",
+    "count": 1
+  },
+  {
+    "id": 432,
+    "name": "whiplash",
+    "slug": "whiplash",
+    "count": 1
+  },
+  {
+    "id": 433,
+    "name": "year-end list",
+    "slug": "year-end-list",
+    "count": 1
+  },
+  {
+    "id": 434,
+    "name": "Evanescence Afterlife",
+    "slug": "evanescence-afterlife",
+    "count": 1
+  },
+  {
+    "id": 435,
+    "name": "Evanescence Game Awards performance",
+    "slug": "evanescence-game-awards-performance",
+    "count": 1
+  },
+  {
+    "id": 436,
+    "name": "gaming and metal",
+    "slug": "gaming-and-metal",
+    "count": 1
+  },
+  {
+    "id": 438,
+    "name": "metal music updates",
+    "slug": "metal-music-updates",
+    "count": 1
+  },
+  {
+    "id": 439,
+    "name": "rock music news",
+    "slug": "rock-music-news",
+    "count": 1
+  },
+  {
+    "id": 440,
+    "name": "The Game Awards",
+    "slug": "the-game-awards",
+    "count": 1
+  },
+  {
+    "id": 441,
+    "name": "doom metal",
+    "slug": "doom-metal",
+    "count": 1
+  },
+  {
+    "id": 442,
+    "name": "North American metal tour",
+    "slug": "north-american-metal-tour",
+    "count": 1
+  },
+  {
+    "id": 443,
+    "name": "The Amonklok Conquest",
+    "slug": "the-amonklok-conquest",
+    "count": 1
+  },
+  {
+    "id": 445,
+    "name": "North America Tour 2026",
+    "slug": "north-america-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 446,
+    "name": "Sebastian Bach",
+    "slug": "sebastian-bach",
+    "count": 1
+  },
+  {
+    "id": 447,
+    "name": "Sebastian Bach 2026",
+    "slug": "sebastian-bach-2026",
+    "count": 1
+  },
+  {
+    "id": 448,
+    "name": "Sebastian Bach tour dates",
+    "slug": "sebastian-bach-tour-dates",
+    "count": 1
+  },
+  {
+    "id": 449,
+    "name": "Stitched Up Heart",
+    "slug": "stitched-up-heart",
+    "count": 1
+  },
+  {
+    "id": 450,
+    "name": "Kreator tour 2026",
+    "slug": "kreator-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 451,
+    "name": "Kreator U.S. tour",
+    "slug": "kreator-us-tour",
+    "count": 1
+  },
+  {
+    "id": 454,
+    "name": "70000tons of metal",
+    "slug": "70000tons-of-metal",
+    "count": 1
+  },
+  {
+    "id": 455,
+    "name": "deathcore news",
+    "slug": "deathcore-news",
+    "count": 1
+  },
+  {
+    "id": 457,
+    "name": "rock music updates",
+    "slug": "rock-music-updates",
+    "count": 1
+  },
+  {
+    "id": 458,
+    "name": "Bloodywood",
+    "slug": "bloodywood",
+    "count": 1
+  },
+  {
+    "id": 459,
+    "name": "Bloodywood tour 2026",
+    "slug": "bloodywood-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 460,
+    "name": "System of a Brown Tour",
+    "slug": "system-of-a-brown-tour",
+    "count": 1
+  },
+  {
+    "id": 461,
+    "name": "2026 rock concerts",
+    "slug": "2026-rock-concerts",
+    "count": 1
+  },
+  {
+    "id": 462,
+    "name": "2026 tour schedule",
+    "slug": "2026-tour-schedule",
+    "count": 1
+  },
+  {
+    "id": 463,
+    "name": "A7X 2026 tour dates",
+    "slug": "a7x-2026-tour-dates",
+    "count": 1
+  },
+  {
+    "id": 464,
+    "name": "A7X Good Charlotte co-headline",
+    "slug": "a7x-good-charlotte-co-headline",
+    "count": 1
+  },
+  {
+    "id": 465,
+    "name": "A7X live shows 2026",
+    "slug": "a7x-live-shows-2026",
+    "count": 1
+  },
+  {
+    "id": 466,
+    "name": "alternative rock tours 2026",
+    "slug": "alternative-rock-tours-2026",
+    "count": 1
+  },
+  {
+    "id": 467,
+    "name": "Avenged Sevenfold tour 2026",
+    "slug": "avenged-sevenfold-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 468,
+    "name": "Good Charlotte concerts 2026",
+    "slug": "good-charlotte-concerts-2026",
+    "count": 1
+  },
+  {
+    "id": 469,
+    "name": "Good Charlotte live 2026",
+    "slug": "good-charlotte-live-2026",
+    "count": 1
+  },
+  {
+    "id": 470,
+    "name": "Good Charlotte tour 2026",
+    "slug": "good-charlotte-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 471,
+    "name": "heavy music tours",
+    "slug": "heavy-music-tours",
+    "count": 1
+  },
+  {
+    "id": 472,
+    "name": "Live Nation tours 2026",
+    "slug": "live-nation-tours-2026",
+    "count": 1
+  },
+  {
+    "id": 473,
+    "name": "major rock tour announcement",
+    "slug": "major-rock-tour-announcement",
+    "count": 1
+  },
+  {
+    "id": 474,
+    "name": "Metal Mantra tours",
+    "slug": "metal-mantra-tours",
+    "count": 1
+  },
+  {
+    "id": 475,
+    "name": "metal news updates",
+    "slug": "metal-news-updates",
+    "count": 1
+  },
+  {
+    "id": 476,
+    "name": "North American summer tours",
+    "slug": "north-american-summer-tours",
+    "count": 1
+  },
+  {
+    "id": 477,
+    "name": "pop punk tour news",
+    "slug": "pop-punk-tour-news",
+    "count": 1
+  },
+  {
+    "id": 478,
+    "name": "rock music news 2026",
+    "slug": "rock-music-news-2026",
+    "count": 1
+  },
+  {
+    "id": 479,
+    "name": "summer concert lineup 2026",
+    "slug": "summer-concert-lineup-2026",
+    "count": 1
+  },
+  {
+    "id": 480,
+    "name": "behind the mask cinema event",
+    "slug": "behind-the-mask-cinema-event",
+    "count": 1
+  },
+  {
+    "id": 481,
+    "name": "big four thrash metal",
+    "slug": "big-four-thrash-metal",
+    "count": 1
+  },
+  {
+    "id": 482,
+    "name": "dave mustaine interview",
+    "slug": "dave-mustaine-interview",
+    "count": 1
+  },
+  {
+    "id": 483,
+    "name": "david ellefson scandal",
+    "slug": "david-ellefson-scandal",
+    "count": 1
+  },
+  {
+    "id": 484,
+    "name": "dirk verbeuren drummer",
+    "slug": "dirk-verbeuren-drummer",
+    "count": 1
+  },
+  {
+    "id": 485,
+    "name": "farewell tour speculation",
+    "slug": "farewell-tour-speculation",
+    "count": 1
+  },
+  {
+    "id": 486,
+    "name": "full lineup reunion",
+    "slug": "full-lineup-reunion",
+    "count": 1
+  },
+  {
+    "id": 487,
+    "name": "heavy metal farewell concerts",
+    "slug": "heavy-metal-farewell-concerts",
+    "count": 1
+  },
+  {
+    "id": 488,
+    "name": "heavy music ethics",
+    "slug": "heavy-music-ethics",
+    "count": 1
+  },
+  {
+    "id": 489,
+    "name": "james lomenzo bass",
+    "slug": "james-lomenzo-bass",
+    "count": 1
+  },
+  {
+    "id": 490,
+    "name": "kiko loureiro guitar",
+    "slug": "kiko-loureiro-guitar",
+    "count": 1
+  },
+  {
+    "id": 491,
+    "name": "marty friedman guest appearance",
+    "slug": "marty-friedman-guest-appearance",
+    "count": 1
+  },
+  {
+    "id": 492,
+    "name": "megadeth farewell tour",
+    "slug": "megadeth-farewell-tour",
+    "count": 1
+  },
+  {
+    "id": 493,
+    "name": "megadeth final album",
+    "slug": "megadeth-final-album",
+    "count": 1
+  },
+  {
+    "id": 494,
+    "name": "megadeth final tour dates",
+    "slug": "megadeth-final-tour-dates",
+    "count": 1
+  },
+  {
+    "id": 495,
+    "name": "megadeth reunion controversy",
+    "slug": "megadeth-reunion-controversy",
+    "count": 1
+  },
+  {
+    "id": 496,
+    "name": "metal band legacy",
+    "slug": "metal-band-legacy",
+    "count": 1
+  },
+  {
+    "id": 497,
+    "name": "metal news 2025",
+    "slug": "metal-news-2025",
+    "count": 1
+  },
+  {
+    "id": 498,
+    "name": "thrash metal history",
+    "slug": "thrash-metal-history",
+    "count": 1
+  },
+  {
+    "id": 499,
+    "name": "thrash metal legends",
+    "slug": "thrash-metal-legends",
+    "count": 1
+  },
+  {
+    "id": 500,
+    "name": "East Coast metal",
+    "slug": "east-coast-metal",
+    "count": 1
+  },
+  {
+    "id": 501,
+    "name": "hardcore breakdowns",
+    "slug": "hardcore-breakdowns",
+    "count": 1
+  },
+  {
+    "id": 502,
+    "name": "hardcore metal",
+    "slug": "hardcore-metal",
+    "count": 1
+  },
+  {
+    "id": 505,
+    "name": "metalcore 2026",
+    "slug": "metalcore-2026",
+    "count": 1
+  },
+  {
+    "id": 506,
+    "name": "modern metalcore",
+    "slug": "modern-metalcore",
+    "count": 1
+  },
+  {
+    "id": 507,
+    "name": "music video release",
+    "slug": "music-video-release",
+    "count": 1
+  },
+  {
+    "id": 508,
+    "name": "nu-metalcore",
+    "slug": "nu-metalcore",
+    "count": 1
+  },
+  {
+    "id": 509,
+    "name": "Philadelphia metal",
+    "slug": "philadelphia-metal",
+    "count": 1
+  },
+  {
+    "id": 510,
+    "name": "Skyler Conder",
+    "slug": "skyler-conder",
+    "count": 1
+  },
+  {
+    "id": 511,
+    "name": "Varials",
+    "slug": "varials",
+    "count": 1
+  },
+  {
+    "id": 512,
+    "name": "Varials fans",
+    "slug": "varials-fans",
+    "count": 1
+  },
+  {
+    "id": 513,
+    "name": "Varials new album",
+    "slug": "varials-new-album",
+    "count": 1
+  },
+  {
+    "id": 514,
+    "name": "Where the Light Leaves",
+    "slug": "where-the-light-leaves",
+    "count": 1
+  },
+  {
+    "id": 515,
+    "name": "2026 Metal Albums",
+    "slug": "2026-metal-albums",
+    "count": 1
+  },
+  {
+    "id": 516,
+    "name": "80s Horror Influences",
+    "slug": "80s-horror-influences",
+    "count": 1
+  },
+  {
+    "id": 517,
+    "name": "Clive Barker",
+    "slug": "clive-barker",
+    "count": 1
+  },
+  {
+    "id": 518,
+    "name": "European Metal Bands",
+    "slug": "european-metal-bands",
+    "count": 1
+  },
+  {
+    "id": 519,
+    "name": "Frederic Leclercq",
+    "slug": "frederic-leclercq",
+    "count": 1
+  },
+  {
+    "id": 520,
+    "name": "German Metal Bands",
+    "slug": "german-metal-bands",
+    "count": 1
+  },
+  {
+    "id": 521,
+    "name": "German Thrash Metal",
+    "slug": "german-thrash-metal",
+    "count": 1
+  },
+  {
+    "id": 522,
+    "name": "Hellraiser",
+    "slug": "hellraiser",
+    "count": 1
+  },
+  {
+    "id": 523,
+    "name": "Kreator 2026 Tour",
+    "slug": "kreator-2026-tour",
+    "count": 1
+  },
+  {
+    "id": 524,
+    "name": "Kreator Tour",
+    "slug": "kreator-tour",
+    "count": 1
+  },
+  {
+    "id": 525,
+    "name": "Krushers of the World",
+    "slug": "krushers-of-the-world",
+    "count": 1
+  },
+  {
+    "id": 526,
+    "name": "Mille Petrozza",
+    "slug": "mille-petrozza",
+    "count": 1
+  },
+  {
+    "id": 527,
+    "name": "New Kreator Single",
+    "slug": "new-kreator-single",
+    "count": 1
+  },
+  {
+    "id": 528,
+    "name": "Rockville Festival",
+    "slug": "rockville-festival",
+    "count": 1
+  },
+  {
+    "id": 529,
+    "name": "Sami Yli-Sirniö",
+    "slug": "sami-yli-sirni",
+    "count": 1
+  },
+  {
+    "id": 530,
+    "name": "Satanic Anarchy",
+    "slug": "satanic-anarchy",
+    "count": 1
+  },
+  {
+    "id": 531,
+    "name": "Teutonic Thrash",
+    "slug": "teutonic-thrash",
+    "count": 1
+  },
+  {
+    "id": 532,
+    "name": "Ventor Reil",
+    "slug": "ventor-reil",
+    "count": 1
+  },
+  {
+    "id": 533,
+    "name": "A7X",
+    "slug": "a7x",
+    "count": 1
+  },
+  {
+    "id": 534,
+    "name": "Avenged Sevenfold",
+    "slug": "avenged-sevenfold",
+    "count": 1
+  },
+  {
+    "id": 535,
+    "name": "Avenged Sevenfold Magic",
+    "slug": "avenged-sevenfold-magic",
+    "count": 1
+  },
+  {
+    "id": 536,
+    "name": "Avenged Sevenfold new song",
+    "slug": "avenged-sevenfold-new-song",
+    "count": 1
+  },
+  {
+    "id": 537,
+    "name": "COD soundtrack",
+    "slug": "cod-soundtrack",
+    "count": 1
+  },
+  {
+    "id": 538,
+    "name": "Life Is But a Dream era",
+    "slug": "life-is-but-a-dream-era",
+    "count": 1
+  },
+  {
+    "id": 539,
+    "name": "M. Shadows",
+    "slug": "m-shadows",
+    "count": 1
+  },
+  {
+    "id": 540,
+    "name": "Magic",
+    "slug": "magic",
+    "count": 1
+  },
+  {
+    "id": 542,
+    "name": "new metal music",
+    "slug": "new-metal-music",
+    "count": 1
+  },
+  {
+    "id": 543,
+    "name": "analog recording",
+    "slug": "analog-recording",
+    "count": 1
+  },
+  {
+    "id": 544,
+    "name": "Animosity",
+    "slug": "animosity",
+    "count": 1
+  },
+  {
+    "id": 545,
+    "name": "Blindside",
+    "slug": "blindside",
+    "count": 1
+  },
+  {
+    "id": 546,
+    "name": "Chained Saint",
+    "slug": "chained-saint",
+    "count": 1
+  },
+  {
+    "id": 547,
+    "name": "Chained Saint 1000 Tons",
+    "slug": "chained-saint-1000-tons",
+    "count": 1
+  },
+  {
+    "id": 548,
+    "name": "Chained Saint Live EP",
+    "slug": "chained-saint-live-ep",
+    "count": 1
+  },
+  {
+    "id": 549,
+    "name": "emerging metal bands",
+    "slug": "emerging-metal-bands",
+    "count": 1
+  },
+  {
+    "id": 550,
+    "name": "Liquid Metal",
+    "slug": "liquid-metal",
+    "count": 1
+  },
+  {
+    "id": 551,
+    "name": "Live at the Whisky a Go Go",
+    "slug": "live-at-the-whisky-a-go-go",
+    "count": 1
+  },
+  {
+    "id": 552,
+    "name": "modern thrash",
+    "slug": "modern-thrash",
+    "count": 1
+  },
+  {
+    "id": 553,
+    "name": "new music 2025",
+    "slug": "new-music-2025",
+    "count": 1
+  },
+  {
+    "id": 554,
+    "name": "Patriark Records",
+    "slug": "patriark-records",
+    "count": 1
+  },
+  {
+    "id": 555,
+    "name": "rising metal bands",
+    "slug": "rising-metal-bands",
+    "count": 1
+  },
+  {
+    "id": 556,
+    "name": "SiriusXM",
+    "slug": "siriusxm",
+    "count": 1
+  },
+  {
+    "id": 557,
+    "name": "Slaughter to Prevail",
+    "slug": "slaughter-to-prevail",
+    "count": 1
+  },
+  {
+    "id": 558,
+    "name": "South Florida metal",
+    "slug": "south-florida-metal",
+    "count": 1
+  },
+  {
+    "id": 559,
+    "name": "teen metal band",
+    "slug": "teen-metal-band",
+    "count": 1
+  },
+  {
+    "id": 560,
+    "name": "Vans Warped Tour",
+    "slug": "vans-warped-tour",
+    "count": 1
+  },
+  {
+    "id": 561,
+    "name": "Whisky a Go Go",
+    "slug": "whisky-a-go-go",
+    "count": 1
+  },
+  {
+    "id": 562,
+    "name": "William DuVall",
+    "slug": "william-duvall",
+    "count": 1
+  },
+  {
+    "id": 563,
+    "name": "WWE 2K24 soundtrack",
+    "slug": "wwe-2k24-soundtrack",
+    "count": 1
+  },
+  {
+    "id": 564,
+    "name": "anthrax new album 2026",
+    "slug": "anthrax-new-album-2026",
+    "count": 1
+  },
+  {
+    "id": 565,
+    "name": "arena rock legends",
+    "slug": "arena-rock-legends",
+    "count": 1
+  },
+  {
+    "id": 566,
+    "name": "behemoth nergal interview",
+    "slug": "behemoth-nergal-interview",
+    "count": 1
+  },
+  {
+    "id": 567,
+    "name": "classic metal bands 2025",
+    "slug": "classic-metal-bands-2025",
+    "count": 1
+  },
+  {
+    "id": 568,
+    "name": "guns n’ roses new singles",
+    "slug": "guns-n-roses-new-singles",
+    "count": 1
+  },
+  {
+    "id": 569,
+    "name": "hard rock tours 2026",
+    "slug": "hard-rock-tours-2026",
+    "count": 1
+  },
+  {
+    "id": 570,
+    "name": "heavy metal news december 2025",
+    "slug": "heavy-metal-news-december-2025",
+    "count": 1
+  },
+  {
+    "id": 571,
+    "name": "heavy music industry economics",
+    "slug": "heavy-music-industry-economics",
+    "count": 1
+  },
+  {
+    "id": 572,
+    "name": "iron maiden retirement",
+    "slug": "iron-maiden-retirement",
+    "count": 1
+  },
+  {
+    "id": 573,
+    "name": "megadeth behind the mask",
+    "slug": "megadeth-behind-the-mask",
+    "count": 1
+  },
+  {
+    "id": 574,
+    "name": "melodic hard rock releases",
+    "slug": "melodic-hard-rock-releases",
+    "count": 1
+  },
+  {
+    "id": 575,
+    "name": "metal band controversies",
+    "slug": "metal-band-controversies",
+    "count": 1
+  },
+  {
+    "id": 576,
+    "name": "metalcore co-headlining tours",
+    "slug": "metalcore-co-headlining-tours",
+    "count": 1
+  },
+  {
+    "id": 577,
+    "name": "mötley crüe return of carnival of sins",
+    "slug": "mtley-cre-return-of-carnival-of-sins",
+    "count": 1
+  },
+  {
+    "id": 578,
+    "name": "opeth audition video",
+    "slug": "opeth-audition-video",
+    "count": 1
+  },
+  {
+    "id": 579,
+    "name": "ozzy osbourne petition",
+    "slug": "ozzy-osbourne-petition",
+    "count": 1
+  },
+  {
+    "id": 580,
+    "name": "phil campbell and the bastard sons singer search",
+    "slug": "phil-campbell-and-the-bastard-sons-singer-search",
+    "count": 1
+  },
+  {
+    "id": 581,
+    "name": "progressive metal updates",
+    "slug": "progressive-metal-updates",
+    "count": 1
+  },
+  {
+    "id": 582,
+    "name": "slipknot look outside your window",
+    "slug": "slipknot-look-outside-your-window",
+    "count": 1
+  },
+  {
+    "id": 583,
+    "name": "thrash metal cinematic event",
+    "slug": "thrash-metal-cinematic-event",
+    "count": 1
+  },
+  {
+    "id": 584,
+    "name": "10 Years band",
+    "slug": "10-years-band",
+    "count": 1
+  },
+  {
+    "id": 585,
+    "name": "Alice In Chains",
+    "slug": "alice-in-chains",
+    "count": 1
+  },
+  {
+    "id": 586,
+    "name": "Clown Slipknot",
+    "slug": "clown-slipknot",
+    "count": 1
+  },
+  {
+    "id": 587,
+    "name": "Dave Grohl",
+    "slug": "dave-grohl",
+    "count": 1
+  },
+  {
+    "id": 588,
+    "name": "Fender Signature Series",
+    "slug": "fender-signature-series",
+    "count": 1
+  },
+  {
+    "id": 589,
+    "name": "James and the Cold Gun",
+    "slug": "james-and-the-cold-gun",
+    "count": 1
+  },
+  {
+    "id": 590,
+    "name": "Mammoth WVH",
+    "slug": "mammoth-wvh",
+    "count": 1
+  },
+  {
+    "id": 591,
+    "name": "Max Sepulveda",
+    "slug": "max-sepulveda",
+    "count": 1
+  },
+  {
+    "id": 592,
+    "name": "Park Waves Festival",
+    "slug": "park-waves-festival",
+    "count": 1
+  },
+  {
+    "id": 593,
+    "name": "PETA campaign",
+    "slug": "peta-campaign",
+    "count": 1
+  },
+  {
+    "id": 595,
+    "name": "The Zenith Passage",
+    "slug": "the-zenith-passage",
+    "count": 1
+  },
+  {
+    "id": 596,
+    "name": "Vernearth Minecraft",
+    "slug": "vernearth-minecraft",
+    "count": 1
+  },
+  {
+    "id": 597,
+    "name": "2026 festivals",
+    "slug": "2026-festivals",
+    "count": 1
+  },
+  {
+    "id": 598,
+    "name": "Alpha Wolf",
+    "slug": "alpha-wolf",
+    "count": 1
+  },
+  {
+    "id": 599,
+    "name": "Australian metal scene",
+    "slug": "australian-metal-scene",
+    "count": 1
+  },
+  {
+    "id": 600,
+    "name": "Australian metalcore",
+    "slug": "australian-metalcore",
+    "count": 1
+  },
+  {
+    "id": 601,
+    "name": "festival shutdowns",
+    "slug": "festival-shutdowns",
+    "count": 1
+  },
+  {
+    "id": 602,
+    "name": "live music cancellations",
+    "slug": "live-music-cancellations",
+    "count": 1
+  },
+  {
+    "id": 603,
+    "name": "metal festival news",
+    "slug": "metal-festival-news",
+    "count": 1
+  },
+  {
+    "id": 604,
+    "name": "metalcore updates",
+    "slug": "metalcore-updates",
+    "count": 1
+  },
+  {
+    "id": 605,
+    "name": "Northlane",
+    "slug": "northlane",
+    "count": 1
+  },
+  {
+    "id": 606,
+    "name": "Park Waves",
+    "slug": "park-waves",
+    "count": 1
+  },
+  {
+    "id": 607,
+    "name": "Park Waves 2026",
+    "slug": "park-waves-2026",
+    "count": 1
+  },
+  {
+    "id": 608,
+    "name": "Parkway Drive festival",
+    "slug": "parkway-drive-festival",
+    "count": 1
+  },
+  {
+    "id": 609,
+    "name": "Parkway Drive news",
+    "slug": "parkway-drive-news",
+    "count": 1
+  },
+  {
+    "id": 610,
+    "name": "rising touring costs",
+    "slug": "rising-touring-costs",
+    "count": 1
+  },
+  {
+    "id": 611,
     "name": "tour cancellations",
     "slug": "tour-cancellations",
+    "count": 1
+  },
+  {
+    "id": 613,
+    "name": "August Burns Red 2026 tour",
+    "slug": "august-burns-red-2026-tour",
+    "count": 1
+  },
+  {
+    "id": 614,
+    "name": "Boundaries band",
+    "slug": "boundaries-band",
+    "count": 1
+  },
+  {
+    "id": 615,
+    "name": "Heavensgate band",
+    "slug": "heavensgate-band",
+    "count": 1
+  },
+  {
+    "id": 616,
+    "name": "metalcore tour 2026",
+    "slug": "metalcore-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 617,
+    "name": "North America metal tour",
+    "slug": "north-america-metal-tour",
+    "count": 1
+  },
+  {
+    "id": 619,
+    "name": "The Amity Affliction tour 2026",
+    "slug": "the-amity-affliction-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 620,
+    "name": "cradle of filth controversy",
+    "slug": "cradle-of-filth-controversy",
+    "count": 1
+  },
+  {
+    "id": 621,
+    "name": "cradle of filth ex members",
+    "slug": "cradle-of-filth-ex-members",
+    "count": 1
+  },
+  {
+    "id": 622,
+    "name": "cradle of filth lawsuit",
+    "slug": "cradle-of-filth-lawsuit",
+    "count": 1
+  },
+  {
+    "id": 623,
+    "name": "cradle of filth legal battle",
+    "slug": "cradle-of-filth-legal-battle",
+    "count": 1
+  },
+  {
+    "id": 624,
+    "name": "dani filth sued",
+    "slug": "dani-filth-sued",
+    "count": 1
+  },
+  {
+    "id": 625,
+    "name": "lindsay schoolcraft",
+    "slug": "lindsay-schoolcraft",
+    "count": 1
+  },
+  {
+    "id": 626,
+    "name": "marek ashok smerda",
+    "slug": "marek-ashok-smerda",
+    "count": 1
+  },
+  {
+    "id": 627,
+    "name": "metal band merch dispute",
+    "slug": "metal-band-merch-dispute",
+    "count": 1
+  },
+  {
+    "id": 628,
+    "name": "metal band royalties",
+    "slug": "metal-band-royalties",
+    "count": 1
+  },
+  {
+    "id": 629,
+    "name": "metal industry contracts",
+    "slug": "metal-industry-contracts",
+    "count": 1
+  },
+  {
+    "id": 630,
+    "name": "metal legal news",
+    "slug": "metal-legal-news",
+    "count": 1
+  },
+  {
+    "id": 631,
+    "name": "misappropriation of likeness",
+    "slug": "misappropriation-of-likeness",
+    "count": 1
+  },
+  {
+    "id": 632,
+    "name": "musician likeness rights",
+    "slug": "musician-likeness-rights",
+    "count": 1
+  },
+  {
+    "id": 633,
+    "name": "paul allender",
+    "slug": "paul-allender",
+    "count": 1
+  },
+  {
+    "id": 634,
+    "name": "richard shaw",
+    "slug": "richard-shaw",
+    "count": 1
+  },
+  {
+    "id": 635,
+    "name": "sasha massacre",
+    "slug": "sasha-massacre",
+    "count": 1
+  },
+  {
+    "id": 636,
+    "name": "unpaid royalties lawsuit",
+    "slug": "unpaid-royalties-lawsuit",
+    "count": 1
+  },
+  {
+    "id": 637,
+    "name": "zoe marie federoff",
+    "slug": "zoe-marie-federoff",
+    "count": 1
+  },
+  {
+    "id": 638,
+    "name": "classic metal",
+    "slug": "classic-metal",
+    "count": 1
+  },
+  {
+    "id": 639,
+    "name": "european metal scene",
+    "slug": "european-metal-scene",
+    "count": 1
+  },
+  {
+    "id": 641,
+    "name": "inferno 2026",
+    "slug": "inferno-2026",
+    "count": 1
+  },
+  {
+    "id": 642,
+    "name": "lars chriss",
+    "slug": "lars-chriss",
+    "count": 1
+  },
+  {
+    "id": 643,
+    "name": "lion's share",
+    "slug": "lions-share",
+    "count": 1
+  },
+  {
+    "id": 644,
+    "name": "lions share comeback",
+    "slug": "lions-share-comeback",
+    "count": 1
+  },
+  {
+    "id": 645,
+    "name": "melodic metal",
+    "slug": "melodic-metal",
+    "count": 1
+  },
+  {
+    "id": 646,
+    "name": "metal album announcements",
+    "slug": "metal-album-announcements",
+    "count": 1
+  },
+  {
+    "id": 647,
+    "name": "metal bands 2026",
+    "slug": "metal-bands-2026",
+    "count": 1
+  },
+  {
+    "id": 648,
+    "name": "metal press release",
+    "slug": "metal-press-release",
+    "count": 1
+  },
+  {
+    "id": 649,
+    "name": "metal resurgence",
+    "slug": "metal-resurgence",
+    "count": 1
+  },
+  {
+    "id": 650,
+    "name": "metalville records",
+    "slug": "metalville-records",
+    "count": 1
+  },
+  {
+    "id": 651,
+    "name": "nils patrik johansson",
+    "slug": "nils-patrik-johansson",
+    "count": 1
+  },
+  {
+    "id": 652,
+    "name": "scandinavian metal",
+    "slug": "scandinavian-metal",
+    "count": 1
+  },
+  {
+    "id": 653,
+    "name": "swedish heavy metal",
+    "slug": "swedish-heavy-metal",
+    "count": 1
+  },
+  {
+    "id": 654,
+    "name": "Brian Burkheiser",
+    "slug": "brian-burkheiser",
+    "count": 1
+  },
+  {
+    "id": 655,
+    "name": "Brian Burkheiser 2025",
+    "slug": "brian-burkheiser-2025",
+    "count": 1
+  },
+  {
+    "id": 656,
+    "name": "Brian Burkheiser comeback",
+    "slug": "brian-burkheiser-comeback",
+    "count": 1
+  },
+  {
+    "id": 657,
+    "name": "Brian Burkheiser new project",
+    "slug": "brian-burkheiser-new-project",
+    "count": 1
+  },
+  {
+    "id": 658,
+    "name": "Brian Burkheiser news",
+    "slug": "brian-burkheiser-news",
+    "count": 1
+  },
+  {
+    "id": 659,
+    "name": "Brian Burkheiser Scatterbrain",
+    "slug": "brian-burkheiser-scatterbrain",
+    "count": 1
+  },
+  {
+    "id": 660,
+    "name": "Brian Burkheiser solo music",
+    "slug": "brian-burkheiser-solo-music",
+    "count": 1
+  },
+  {
+    "id": 661,
+    "name": "Brian Burkheiser Taylor Swift cover",
+    "slug": "brian-burkheiser-taylor-swift-cover",
+    "count": 1
+  },
+  {
+    "id": 662,
+    "name": "ex I Prevail singer",
+    "slug": "ex-i-prevail-singer",
+    "count": 1
+  },
+  {
+    "id": 663,
+    "name": "heavy rock Taylor Swift cover",
+    "slug": "heavy-rock-taylor-swift-cover",
+    "count": 1
+  },
+  {
+    "id": 664,
+    "name": "I Prevail 2025",
+    "slug": "i-prevail-2025",
+    "count": 1
+  },
+  {
+    "id": 665,
+    "name": "I Prevail former vocalist",
+    "slug": "i-prevail-former-vocalist",
+    "count": 1
+  },
+  {
+    "id": 666,
+    "name": "Look What You Made Me Do rock cover",
+    "slug": "look-what-you-made-me-do-rock-cover",
+    "count": 1
+  },
+  {
+    "id": 667,
+    "name": "Scatterbrain",
+    "slug": "scatterbrain",
+    "count": 1
+  },
+  {
+    "id": 668,
+    "name": "Scatterbrain debut release",
+    "slug": "scatterbrain-debut-release",
+    "count": 1
+  },
+  {
+    "id": 669,
+    "name": "Scatterbrain debut single",
+    "slug": "scatterbrain-debut-single",
+    "count": 1
+  },
+  {
+    "id": 670,
+    "name": "Scatterbrain Look What You Made Me Do",
+    "slug": "scatterbrain-look-what-you-made-me-do",
+    "count": 1
+  },
+  {
+    "id": 671,
+    "name": "Scatterbrain music project",
+    "slug": "scatterbrain-music-project",
+    "count": 1
+  },
+  {
+    "id": 672,
+    "name": "Scatterbrain official release",
+    "slug": "scatterbrain-official-release",
+    "count": 1
+  },
+  {
+    "id": 673,
+    "name": "Taylor Swift metal cover",
+    "slug": "taylor-swift-metal-cover",
+    "count": 1
+  },
+  {
+    "id": 674,
+    "name": "alternative metal news",
+    "slug": "alternative-metal-news",
+    "count": 1
+  },
+  {
+    "id": 675,
+    "name": "amy lee 2026",
+    "slug": "amy-lee-2026",
+    "count": 1
+  },
+  {
+    "id": 676,
+    "name": "evanescence 2026 tour",
+    "slug": "evanescence-2026-tour",
+    "count": 1
+  },
+  {
+    "id": 677,
+    "name": "evanescence europe 2026",
+    "slug": "evanescence-europe-2026",
+    "count": 1
+  },
+  {
+    "id": 678,
+    "name": "evanescence european tour",
+    "slug": "evanescence-european-tour",
+    "count": 1
+  },
+  {
+    "id": 679,
+    "name": "evanescence north america 2026",
+    "slug": "evanescence-north-america-2026",
+    "count": 1
+  },
+  {
+    "id": 680,
+    "name": "evanescence tickets 2026",
+    "slug": "evanescence-tickets-2026",
+    "count": 1
+  },
+  {
+    "id": 681,
+    "name": "evanescence uk tour",
+    "slug": "evanescence-uk-tour",
+    "count": 1
+  },
+  {
+    "id": 682,
+    "name": "evanescence world tour",
+    "slug": "evanescence-world-tour",
+    "count": 1
+  },
+  {
+    "id": 683,
+    "name": "k.flay tour 2026",
+    "slug": "kflay-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 684,
+    "name": "kflay news",
+    "slug": "kflay-news",
+    "count": 1
+  },
+  {
+    "id": 685,
+    "name": "metal concert announcements",
+    "slug": "metal-concert-announcements",
+    "count": 1
+  },
+  {
+    "id": 686,
+    "name": "nova twins news",
+    "slug": "nova-twins-news",
+    "count": 1
+  },
+  {
+    "id": 687,
+    "name": "nova twins tour",
+    "slug": "nova-twins-tour",
+    "count": 1
+  },
+  {
+    "id": 688,
+    "name": "poppy 2026 tour",
+    "slug": "poppy-2026-tour",
+    "count": 1
+  },
+  {
+    "id": 689,
+    "name": "poppy news",
+    "slug": "poppy-news",
+    "count": 1
+  },
+  {
+    "id": 690,
+    "name": "rock tours 2026",
+    "slug": "rock-tours-2026",
+    "count": 1
+  },
+  {
+    "id": 691,
+    "name": "spiritbox news",
+    "slug": "spiritbox-news",
+    "count": 1
+  },
+  {
+    "id": 692,
+    "name": "spiritbox tour 2026",
+    "slug": "spiritbox-tour-2026",
+    "count": 1
+  },
+  {
+    "id": 693,
+    "name": "Album Rumors",
+    "slug": "album-rumors",
+    "count": 1
+  },
+  {
+    "id": 694,
+    "name": "Band Announcements",
+    "slug": "band-announcements",
+    "count": 1
+  },
+  {
+    "id": 695,
+    "name": "Greg Kubacki",
+    "slug": "greg-kubacki",
+    "count": 1
+  },
+  {
+    "id": 696,
+    "name": "Heavy Metal Updates",
+    "slug": "heavy-metal-updates",
+    "count": 1
+  },
+  {
+    "id": 697,
+    "name": "Heavy Music Scene",
+    "slug": "heavy-music-scene",
+    "count": 1
+  },
+  {
+    "id": 698,
+    "name": "Joe Duplantier",
+    "slug": "joe-duplantier",
+    "count": 1
+  },
+  {
+    "id": 699,
+    "name": "Metal Community Buzz",
+    "slug": "metal-community-buzz",
+    "count": 1
+  },
+  {
+    "id": 700,
+    "name": "Metal Releases",
+    "slug": "metal-releases",
+    "count": 1
+  },
+  {
+    "id": 701,
+    "name": "Metal Speculation",
+    "slug": "metal-speculation",
+    "count": 1
+  },
+  {
+    "id": 702,
+    "name": "Rumor Watch",
+    "slug": "rumor-watch",
+    "count": 1
+  },
+  {
+    "id": 703,
+    "name": "Tour Rumors",
+    "slug": "tour-rumors",
+    "count": 1
+  },
+  {
+    "id": 704,
+    "name": "2026 Music Festivals",
+    "slug": "2026-music-festivals",
+    "count": 1
+  },
+  {
+    "id": 705,
+    "name": "Aftershock Camping",
+    "slug": "aftershock-camping",
+    "count": 1
+  },
+  {
+    "id": 706,
+    "name": "Aftershock Festival 2026",
+    "slug": "aftershock-festival-2026",
+    "count": 1
+  },
+  {
+    "id": 707,
+    "name": "Aftershock Pre-Party",
+    "slug": "aftershock-pre-party",
+    "count": 1
+  },
+  {
+    "id": 708,
+    "name": "Cal Expo",
+    "slug": "cal-expo",
+    "count": 1
+  },
+  {
+    "id": 709,
+    "name": "California Music Events",
+    "slug": "california-music-events",
+    "count": 1
+  },
+  {
+    "id": 710,
+    "name": "Car and Tent Camping",
+    "slug": "car-and-tent-camping",
+    "count": 1
+  },
+  {
+    "id": 711,
+    "name": "Festival Camping",
+    "slug": "festival-camping",
+    "count": 1
+  },
+  {
+    "id": 712,
+    "name": "Festival Travel Tips",
+    "slug": "festival-travel-tips",
+    "count": 1
+  },
+  {
+    "id": 713,
+    "name": "Music Festival News",
+    "slug": "music-festival-news",
+    "count": 1
+  },
+  {
+    "id": 714,
+    "name": "Rock &amp; Brews",
+    "slug": "rock-amp-brews",
+    "count": 1
+  },
+  {
+    "id": 715,
+    "name": "Rock &amp; Brews Sacramento",
+    "slug": "rock-amp-brews-sacramento",
+    "count": 1
+  },
+  {
+    "id": 716,
+    "name": "Rock Festivals",
+    "slug": "rock-festivals",
+    "count": 1
+  },
+  {
+    "id": 717,
+    "name": "RV Camping",
+    "slug": "rv-camping",
+    "count": 1
+  },
+  {
+    "id": 718,
+    "name": "Alissa White-Gluz",
+    "slug": "alissa-white-gluz",
+    "count": 1
+  },
+  {
+    "id": 719,
+    "name": "Alissa White-Gluz solo",
+    "slug": "alissa-white-gluz-solo",
+    "count": 1
+  },
+  {
+    "id": 720,
+    "name": "Amon Amarth tour",
+    "slug": "amon-amarth-tour",
+    "count": 1
+  },
+  {
+    "id": 721,
+    "name": "Arch Enemy news",
+    "slug": "arch-enemy-news",
+    "count": 1
+  },
+  {
+    "id": 722,
+    "name": "Arch Enemy vocalist change",
+    "slug": "arch-enemy-vocalist-change",
+    "count": 1
+  },
+  {
+    "id": 723,
+    "name": "black metal releases",
+    "slug": "black-metal-releases",
+    "count": 1
+  },
+  {
+    "id": 724,
+    "name": "HEALTH new single",
+    "slug": "health-new-single",
+    "count": 1
+  },
+  {
+    "id": 725,
+    "name": "HEALTH SHRED ENVY",
+    "slug": "health-shred-envy",
+    "count": 1
+  },
+  {
+    "id": 726,
+    "name": "metal releases 2025",
+    "slug": "metal-releases-2025",
+    "count": 1
+  },
+  {
+    "id": 727,
+    "name": "metalcore releases",
+    "slug": "metalcore-releases",
+    "count": 1
+  },
+  {
+    "id": 728,
+    "name": "noise rock",
+    "slug": "noise-rock",
+    "count": 1
+  },
+  {
+    "id": 729,
+    "name": "November 2025 metal",
+    "slug": "november-2025-metal",
+    "count": 1
+  },
+  {
+    "id": 730,
+    "name": "classic metal albums",
+    "slug": "classic-metal-albums",
+    "count": 1
+  },
+  {
+    "id": 731,
+    "name": "heavy metal legacy",
+    "slug": "heavy-metal-legacy",
+    "count": 1
+  },
+  {
+    "id": 732,
+    "name": "iron maiden album ranking",
+    "slug": "iron-maiden-album-ranking",
+    "count": 1
+  },
+  {
+    "id": 733,
+    "name": "iron maiden albums ranked",
+    "slug": "iron-maiden-albums-ranked",
+    "count": 1
+  },
+  {
+    "id": 734,
+    "name": "iron maiden discography",
+    "slug": "iron-maiden-discography",
+    "count": 1
+  },
+  {
+    "id": 735,
+    "name": "iron maiden legacy",
+    "slug": "iron-maiden-legacy",
+    "count": 1
+  },
+  {
+    "id": 736,
+    "name": "metal history",
+    "slug": "metal-history",
+    "count": 1
+  },
+  {
+    "id": 737,
+    "name": "U.S. metal festivals",
+    "slug": "us-metal-festivals",
+    "count": 1
+  },
+  {
+    "id": 738,
+    "name": "Welcome to Rockville 2026",
+    "slug": "welcome-to-rockville-2026",
+    "count": 1
+  },
+  {
+    "id": 739,
+    "name": "Welcome to Rockville Festival",
+    "slug": "welcome-to-rockville-festival",
+    "count": 1
+  },
+  {
+    "id": 740,
+    "name": "2025 rock single",
+    "slug": "2025-rock-single",
+    "count": 1
+  },
+  {
+    "id": 741,
+    "name": "alternative rock",
+    "slug": "alternative-rock",
+    "count": 1
+  },
+  {
+    "id": 742,
+    "name": "Bad Omens Left For Good review",
+    "slug": "bad-omens-left-for-good-review",
+    "count": 1
+  },
+  {
+    "id": 743,
+    "name": "Bad Omens lyrics",
+    "slug": "bad-omens-lyrics",
+    "count": 1
+  },
+  {
+    "id": 744,
+    "name": "emo rock",
+    "slug": "emo-rock",
+    "count": 1
+  },
+  {
+    "id": 745,
+    "name": "heavy music blog",
+    "slug": "heavy-music-blog",
+    "count": 1
+  },
+  {
+    "id": 746,
+    "name": "Left for Good",
+    "slug": "left-for-good",
+    "count": 1
+  },
+  {
+    "id": 747,
+    "name": "modern rock music",
+    "slug": "modern-rock-music",
+    "count": 1
+  },
+  {
+    "id": 748,
+    "name": "music review blog",
+    "slug": "music-review-blog",
+    "count": 1
+  },
+  {
+    "id": 749,
+    "name": "music SEO",
+    "slug": "music-seo",
+    "count": 1
+  },
+  {
+    "id": 750,
+    "name": "new rock songs 2025",
+    "slug": "new-rock-songs-2025",
+    "count": 1
+  },
+  {
+    "id": 751,
+    "name": "rock band news",
+    "slug": "rock-band-news",
+    "count": 1
+  },
+  {
+    "id": 752,
+    "name": "rock lyrics analysis",
+    "slug": "rock-lyrics-analysis",
+    "count": 1
+  },
+  {
+    "id": 753,
+    "name": "rock music",
+    "slug": "rock-music",
+    "count": 1
+  },
+  {
+    "id": 754,
+    "name": "rock single review",
+    "slug": "rock-single-review",
+    "count": 1
+  },
+  {
+    "id": 755,
+    "name": "rock song review",
+    "slug": "rock-song-review",
+    "count": 1
+  },
+  {
+    "id": 756,
+    "name": "song meaning",
+    "slug": "song-meaning",
+    "count": 1
+  },
+  {
+    "id": 757,
+    "name": "Sumerian Records review",
+    "slug": "sumerian-records-review",
+    "count": 1
+  },
+  {
+    "id": 758,
+    "name": "Evil Disco documentary",
+    "slug": "evil-disco-documentary",
+    "count": 1
+  },
+  {
+    "id": 759,
+    "name": "metal documentaries",
+    "slug": "metal-documentaries",
+    "count": 1
+  },
+  {
+    "id": 761,
+    "name": "Damon Albarn",
+    "slug": "damon-albarn",
+    "count": 1
+  },
+  {
+    "id": 763,
+    "name": "Fred Durst",
+    "slug": "fred-durst",
+    "count": 1
+  },
+  {
+    "id": 764,
+    "name": "Nothing But Thieves",
+    "slug": "nothing-but-thieves",
+    "count": 1
+  },
+  {
+    "id": 766,
+    "name": "Three Days Grace",
+    "slug": "three-days-grace",
+    "count": 1
+  },
+  {
+    "id": 767,
+    "name": "hard rock festivals",
+    "slug": "hard-rock-festivals",
+    "count": 1
+  },
+  {
+    "id": 768,
+    "name": "Sonic Temple Festival",
+    "slug": "sonic-temple-festival",
+    "count": 1
+  },
+  {
+    "id": 770,
+    "name": "Sick New World",
+    "slug": "sick-new-world",
+    "count": 1
+  },
+  {
+    "id": 771,
+    "name": "Sick New World 2026",
+    "slug": "sick-new-world-2026",
+    "count": 1
+  },
+  {
+    "id": 772,
+    "name": "Sick New World Festival",
+    "slug": "sick-new-world-festival",
+    "count": 1
+  },
+  {
+    "id": 773,
+    "name": "System of a Down",
+    "slug": "system-of-a-down",
+    "count": 1
+  },
+  {
+    "id": 774,
+    "name": "atmospheric metal",
+    "slug": "atmospheric-metal",
+    "count": 1
+  },
+  {
+    "id": 775,
+    "name": "even in arcadia",
+    "slug": "even-in-arcadia",
+    "count": 1
+  },
+  {
+    "id": 776,
+    "name": "live metal review",
+    "slug": "live-metal-review",
+    "count": 1
+  },
+  {
+    "id": 777,
+    "name": "oakland arena",
+    "slug": "oakland-arena",
+    "count": 1
+  },
+  {
+    "id": 778,
+    "name": "sleep token concert review",
+    "slug": "sleep-token-concert-review",
+    "count": 1
+  },
+  {
+    "id": 779,
+    "name": "sleep token live",
+    "slug": "sleep-token-live",
+    "count": 1
+  },
+  {
+    "id": 780,
+    "name": "sleep token oakland",
+    "slug": "sleep-token-oakland",
+    "count": 1
+  },
+  {
+    "id": 781,
+    "name": "take me back to eden",
+    "slug": "take-me-back-to-eden",
+    "count": 1
+  },
+  {
+    "id": 782,
+    "name": "uk metal",
+    "slug": "uk-metal",
+    "count": 1
+  },
+  {
+    "id": 784,
+    "name": "aftershock",
+    "slug": "aftershock",
+    "count": 1
+  },
+  {
+    "id": 785,
+    "name": "Aftershock 2025",
+    "slug": "aftershock-2025",
+    "count": 1
+  },
+  {
+    "id": 786,
+    "name": "alternative metal concert",
+    "slug": "alternative-metal-concert",
+    "count": 1
+  },
+  {
+    "id": 787,
+    "name": "BLINK-182",
+    "slug": "blink-182",
+    "count": 1
+  },
+  {
+    "id": 788,
+    "name": "Discovery Park Sacramento",
+    "slug": "discovery-park-sacramento",
+    "count": 1
+  },
+  {
+    "id": 789,
+    "name": "festival recap blog",
+    "slug": "festival-recap-blog",
+    "count": 1
+  },
+  {
+    "id": 790,
+    "name": "heavy metal lineup",
+    "slug": "heavy-metal-lineup",
+    "count": 1
+  },
+  {
+    "id": 791,
+    "name": "live music festival",
+    "slug": "live-music-festival",
+    "count": 1
+  },
+  {
+    "id": 792,
+    "name": "metal festival Sacramento",
+    "slug": "metal-festival-sacramento",
+    "count": 1
+  },
+  {
+    "id": 793,
+    "name": "metalcore bands",
+    "slug": "metalcore-bands",
+    "count": 1
+  },
+  {
+    "id": 794,
+    "name": "mosh pit festival",
+    "slug": "mosh-pit-festival",
+    "count": 1
+  },
+  {
+    "id": 795,
+    "name": "nu-metal revival",
+    "slug": "nu-metal-revival",
+    "count": 1
+  },
+  {
+    "id": 796,
+    "name": "rock festival 2025",
+    "slug": "rock-festival-2025",
+    "count": 1
+  },
+  {
+    "id": 797,
+    "name": "rock music review",
+    "slug": "rock-music-review",
+    "count": 1
+  },
+  {
+    "id": 798,
+    "name": "Sacramento rock festival",
+    "slug": "sacramento-rock-festival",
+    "count": 1
+  },
+  {
+    "id": 799,
+    "name": "West Coast rock festival",
+    "slug": "west-coast-rock-festival",
+    "count": 1
+  },
+  {
+    "id": 800,
+    "name": "Blood Incantation",
+    "slug": "blood-incantation",
+    "count": 1
+  },
+  {
+    "id": 801,
+    "name": "Don Broco",
+    "slug": "don-broco",
+    "count": 1
+  },
+  {
+    "id": 802,
+    "name": "Lottery Winners",
+    "slug": "lottery-winners",
+    "count": 1
+  },
+  {
+    "id": 803,
+    "name": "Malevolence",
+    "slug": "malevolence",
+    "count": 1
+  },
+  {
+    "id": 804,
+    "name": "Park 360 Hradec Králové",
+    "slug": "park-360-hradec-krlov",
+    "count": 1
+  },
+  {
+    "id": 805,
+    "name": "Rock for People festival",
+    "slug": "rock-for-people-festival",
+    "count": 1
+  },
+  {
+    "id": 807,
+    "name": "heavy metal album",
+    "slug": "heavy-metal-album",
+    "count": 1
+  },
+  {
+    "id": 808,
+    "name": "us heavy metal",
+    "slug": "us-heavy-metal",
+    "count": 1
+  },
+  {
+    "id": 809,
+    "name": "back to the beginning",
+    "slug": "back-to-the-beginning",
+    "count": 1
+  },
+  {
+    "id": 810,
+    "name": "Black Sabbath",
+    "slug": "black-sabbath",
+    "count": 1
+  },
+  {
+    "id": 811,
+    "name": "Metal Icon",
+    "slug": "metal-icon",
+    "count": 1
+  },
+  {
+    "id": 812,
+    "name": "Metal Music",
+    "slug": "metal-music",
+    "count": 1
+  },
+  {
+    "id": 813,
+    "name": "Ozzfest",
+    "slug": "ozzfest",
+    "count": 1
+  },
+  {
+    "id": 814,
+    "name": "Prince of Darkness",
+    "slug": "prince-of-darkness",
+    "count": 1
+  },
+  {
+    "id": 815,
+    "name": "Rock Legend",
+    "slug": "rock-legend",
     "count": 1
   }
 ]

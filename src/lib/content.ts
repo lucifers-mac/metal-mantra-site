@@ -58,7 +58,13 @@ export function getPostsByType(type: string): Post[] {
 }
 
 export function getPostsByCategory(categorySlug: string): Post[] {
-  return posts.filter((p) => p.categories.includes(categorySlug));
+  return posts.filter((p) =>
+    p.categories.some(
+      (c) =>
+        c.toLowerCase() === categorySlug ||
+        c.toLowerCase().replace(/\s+/g, "-") === categorySlug
+    )
+  );
 }
 
 export function getPostsByTag(tagSlug: string): Post[] {
