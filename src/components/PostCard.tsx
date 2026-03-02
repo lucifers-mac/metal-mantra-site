@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Post, formatDateShort } from "@/lib/content";
+import { optimizeImage } from "@/lib/cloudinary";
 
 interface PostCardProps {
   post: Post;
@@ -34,7 +35,7 @@ export default function PostCard({ post, variant = "default", number }: PostCard
       <Link href={href} className="group block relative overflow-hidden rounded-lg">
         <div className="aspect-[2/1] md:aspect-[21/9] relative">
           {post.featuredImage ? (
-            <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-700" />
+            <img src={optimizeImage(post.featuredImage, 1200)} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-700" />
           ) : (
             <div className="w-full h-full bg-gradient-to-br from-mantra-card to-mantra-black" />
           )}
@@ -67,7 +68,7 @@ export default function PostCard({ post, variant = "default", number }: PostCard
       <Link href={href} className="group flex flex-col sm:flex-row gap-4 card-glow bg-mantra-card rounded-lg overflow-hidden">
         {post.featuredImage && (
           <div className="sm:w-2/5 aspect-video sm:aspect-auto overflow-hidden">
-            <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
+            <img src={optimizeImage(post.featuredImage, 800)} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
           </div>
         )}
         <div className="flex-1 p-4 sm:py-5 sm:pr-5 flex flex-col justify-center">
@@ -95,7 +96,7 @@ export default function PostCard({ post, variant = "default", number }: PostCard
       <Link href={href} className="group flex gap-4 items-start py-3 border-b border-mantra-border/50 last:border-0">
         {post.featuredImage && (
           <div className="w-20 h-20 flex-shrink-0 rounded overflow-hidden">
-            <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+            <img src={optimizeImage(post.featuredImage, 400)} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
           </div>
         )}
         <div className="flex-1 min-w-0">
@@ -151,7 +152,7 @@ export default function PostCard({ post, variant = "default", number }: PostCard
     <Link href={href} className="group block card-glow bg-mantra-card rounded-lg overflow-hidden">
       {post.featuredImage && (
         <div className="aspect-video overflow-hidden">
-          <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
+          <img src={optimizeImage(post.featuredImage, 800)} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
         </div>
       )}
       <div className="p-4">

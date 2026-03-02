@@ -1,4 +1,5 @@
 import { Post, getRelatedPosts, formatDate } from "@/lib/content";
+import { optimizeImage } from "@/lib/cloudinary";
 import PostCard from "@/components/PostCard";
 import Sidebar from "@/components/Sidebar";
 import AffiliateWidget from "@/components/AffiliateWidget";
@@ -77,7 +78,7 @@ export default function ArticlePage({ post }: { post: Post }) {
         {/* Featured Image */}
         {post.featuredImage && (
           <figure className="mb-8 rounded-lg overflow-hidden">
-            <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full" />
+            <img src={optimizeImage(post.featuredImage, 1200)} alt={post.featuredImageAlt || post.title} className="w-full" />
           </figure>
         )}
 

@@ -4,6 +4,7 @@ import BreakingTicker from "@/components/BreakingTicker";
 import NewsletterSignup from "@/components/NewsletterSignup";
 import Link from "next/link";
 import { getLatestPosts, getPostsByType } from "@/lib/content";
+import { optimizeImage } from "@/lib/cloudinary";
 
 export default function HomePage() {
   // Get latest posts — exclude rundowns from main feed
@@ -49,7 +50,7 @@ export default function HomePage() {
                 <Link key={post.id} href={post.path} className="group relative flex-1 overflow-hidden rounded-lg">
                   <div className="relative h-full min-h-[180px]">
                     {post.featuredImage ? (
-                      <img src={post.featuredImage} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover absolute inset-0 group-hover:scale-[1.03] transition-transform duration-500" />
+                      <img src={optimizeImage(post.featuredImage, 800)} alt={post.featuredImageAlt || post.title} className="w-full h-full object-cover absolute inset-0 group-hover:scale-[1.03] transition-transform duration-500" />
                     ) : (
                       <div className="w-full h-full absolute inset-0 bg-gradient-to-br from-mantra-card to-mantra-black" />
                     )}
