@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Reviews",
-    "slug": "reviews",
-    "count": 14,
+    "name": "Metal News",
+    "slug": "metal-news",
+    "count": 95,
     "description": ""
   },
   {
     "id": 2,
-    "name": "Metal News",
-    "slug": "metal-news",
-    "count": 96,
-    "description": ""
-  },
-  {
-    "id": 3,
     "name": "Festivals",
     "slug": "festivals",
     "count": 19,
     "description": ""
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Rundowns",
     "slug": "rundowns",
     "count": 24,
     "description": ""
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Features",
     "slug": "features",
     "count": 9,
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "Reviews",
+    "slug": "reviews",
+    "count": 13,
     "description": ""
   },
   {
