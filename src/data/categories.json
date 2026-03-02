@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Reviews",
-    "slug": "reviews",
-    "count": 14,
+    "name": "Metal News",
+    "slug": "metal-news",
+    "count": 97,
     "description": ""
   },
   {
     "id": 2,
-    "name": "Metal News",
-    "slug": "metal-news",
-    "count": 96,
+    "name": "Reviews",
+    "slug": "reviews",
+    "count": 14,
     "description": ""
   },
   {
