@@ -78,7 +78,7 @@ const posts = files
       categories,
       tags,
       featuredImage,
-      featuredImageAlt: "",
+      featuredImageAlt: data.featuredImageAlt || "",
       contentType: deriveContentType(categories),
       wordCount: wc,
       readingTime: Math.max(1, Math.ceil(wc / 200)),
