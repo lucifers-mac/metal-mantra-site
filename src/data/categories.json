@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "name": "News",
-    "slug": "news",
-    "count": 52,
+    "name": "Reviews",
+    "slug": "reviews",
+    "count": 14,
     "description": ""
   },
   {
     "id": 2,
+    "name": "Metal News",
+    "slug": "metal-news",
+    "count": 96,
+    "description": ""
+  },
+  {
+    "id": 3,
     "name": "Festivals",
     "slug": "festivals",
     "count": 19,
     "description": ""
   },
   {
-    "id": 3,
-    "name": "Metal News",
-    "slug": "metal-news",
-    "count": 44,
-    "description": ""
-  },
-  {
     "id": 4,
-    "name": "Rundown",
-    "slug": "rundown",
+    "name": "Rundowns",
+    "slug": "rundowns",
     "count": 24,
     "description": ""
   },
@@ -31,105 +31,14 @@
     "id": 5,
     "name": "Features",
     "slug": "features",
-    "count": 2,
+    "count": 9,
     "description": ""
   },
   {
     "id": 6,
-    "name": "Reviews",
-    "slug": "reviews",
-    "count": 2,
-    "description": ""
-  },
-  {
-    "id": 7,
     "name": "Tours",
     "slug": "tours",
     "count": 26,
-    "description": ""
-  },
-  {
-    "id": 8,
-    "name": "Metalcore News",
-    "slug": "metalcore-news",
-    "count": 4,
-    "description": ""
-  },
-  {
-    "id": 9,
-    "name": "Thrash News",
-    "slug": "thrash-news",
-    "count": 8,
-    "description": ""
-  },
-  {
-    "id": 10,
-    "name": "Editorials",
-    "slug": "editorials",
-    "count": 8,
-    "description": ""
-  },
-  {
-    "id": 11,
-    "name": "Band Updates",
-    "slug": "band-updates",
-    "count": 13,
-    "description": ""
-  },
-  {
-    "id": 12,
-    "name": "New Releases",
-    "slug": "new-releases",
-    "count": 15,
-    "description": ""
-  },
-  {
-    "id": 13,
-    "name": "Hardcore News",
-    "slug": "hardcore-news",
-    "count": 2,
-    "description": ""
-  },
-  {
-    "id": 14,
-    "name": "Singles Review",
-    "slug": "singles-review",
-    "count": 5,
-    "description": ""
-  },
-  {
-    "id": 15,
-    "name": "Festival Reviews",
-    "slug": "festival-reviews",
-    "count": 3,
-    "description": ""
-  },
-  {
-    "id": 16,
-    "name": "Deathcore News",
-    "slug": "deathcore-news",
-    "count": 1,
-    "description": ""
-  },
-  {
-    "id": 17,
-    "name": "Concert Reviews",
-    "slug": "concert-reviews",
-    "count": 2,
-    "description": ""
-  },
-  {
-    "id": 18,
-    "name": "Live",
-    "slug": "live",
-    "count": 2,
-    "description": ""
-  },
-  {
-    "id": 19,
-    "name": "Album Reviews",
-    "slug": "album-reviews",
-    "count": 2,
     "description": ""
   }
 ]
