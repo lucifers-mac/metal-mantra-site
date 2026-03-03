@@ -44,11 +44,17 @@ if (!fs.existsSync(POSTS_DIR)) {
 const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith(".mdx"));
 console.log(`Found ${files.length} MDX files in content/posts/`);
 
+const now = new Date();
+
 const posts = files
   .map((file, index) => {
     const filePath = path.join(POSTS_DIR, file);
     const raw = fs.readFileSync(filePath, "utf-8");
     const { data, content } = matter(raw);
+
+    // Skip drafts and future-dated posts
+    if (data.status && data.status !== "publish") return null;
+    if (data.date && new Date(data.date) > now) return null;
 
     const slug = data.slug || file.replace(/\.mdx$/, "");
     const title = data.title || "";
@@ -91,6 +97,7 @@ const posts = files
       },
     };
   })
+  .filter(Boolean)
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
 // Derive categories

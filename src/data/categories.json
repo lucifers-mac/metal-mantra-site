@@ -3,42 +3,42 @@
     "id": 1,
     "name": "Metal News",
     "slug": "metal-news",
-    "count": 104,
+    "count": 96,
     "description": ""
   },
   {
     "id": 2,
-    "name": "Tours",
-    "slug": "tours",
-    "count": 28,
+    "name": "Rundowns",
+    "slug": "rundowns",
+    "count": 24,
     "description": ""
   },
   {
     "id": 3,
-    "name": "Rundowns",
-    "slug": "rundowns",
-    "count": 25,
+    "name": "Features",
+    "slug": "features",
+    "count": 9,
     "description": ""
   },
   {
     "id": 4,
-    "name": "Features",
-    "slug": "features",
-    "count": 11,
+    "name": "Reviews",
+    "slug": "reviews",
+    "count": 13,
     "description": ""
   },
   {
     "id": 5,
-    "name": "Reviews",
-    "slug": "reviews",
-    "count": 14,
+    "name": "Tours",
+    "slug": "tours",
+    "count": 27,
     "description": ""
   },
   {
     "id": 6,
     "name": "Festivals",
     "slug": "festivals",
-    "count": 20,
+    "count": 19,
     "description": ""
   }
 ]
