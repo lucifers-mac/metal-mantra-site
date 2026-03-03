@@ -5,9 +5,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://metal-mantra.com";
   const posts = getAllPosts();
 
+  const normalizeDate = (dateStr: string): string => {
+    if (!dateStr) return new Date().toISOString();
+    // Already has timezone
+    if (dateStr.endsWith("Z") || dateStr.includes("+")) return dateStr;
+    // Date only (YYYY-MM-DD) — valid as-is
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr;
+    // Datetime without timezone — append Z
+    return dateStr + "Z";
+  };
+
   const postEntries: MetadataRoute.Sitemap = posts.map((post) => ({
     url: `${baseUrl}/${post.slug}/`,
-    lastModified: post.modified || post.date,
+    lastModified: normalizeDate(post.modified || post.date),
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }));
