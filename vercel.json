@@ -1,5 +1,20 @@
 {
   "redirects": [
+    { "source": "/contact-us/", "destination": "/contact/", "statusCode": 301 },
+    { "source": "/about-us/", "destination": "/about/", "statusCode": 301 },
+    { "source": "/privacy-policy/", "destination": "/privacy/", "statusCode": 301 },
+    { "source": "/category/new-releases/", "destination": "/news/", "statusCode": 301 },
+    { "source": "/category/rundown/", "destination": "/rundowns/", "statusCode": 301 },
+    { "source": "/category/festivals/", "destination": "/festivals/", "statusCode": 301 },
+    { "source": "/category/metal-news/", "destination": "/news/", "statusCode": 301 },
+    { "source": "/category/tours/", "destination": "/tours/", "statusCode": 301 },
+    { "source": "/category/reviews/", "destination": "/reviews/", "statusCode": 301 },
+    { "source": "/category/features/", "destination": "/features/", "statusCode": 301 },
+    { "source": "/submit-your-release-editorial/", "destination": "/advertise/", "statusCode": 301 },
+    { "source": "/submit/", "destination": "/advertise/", "statusCode": 301 },
+    { "source": "/cart/", "destination": "/", "statusCode": 301 },
+    { "source": "/2025/11/", "destination": "/news/", "statusCode": 301 },
+    { "source": "/tag/:tag/", "destination": "/news/", "statusCode": 301 },
     {
       "source": "/metal-hard-rock-news-february-27-2026-rob-zombie-drops-at-the-gates-says-goodbye/",
       "destination": "/rundowns/metal-hard-rock-news-february-27-2026-rob-zombie-drops-at-the-gates-says-goodbye/",
