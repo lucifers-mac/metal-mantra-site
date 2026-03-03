@@ -360,6 +360,12 @@
     "count": 3
   },
   {
+    "id": 70,
+    "name": "Danny Wimmer Presents",
+    "slug": "danny-wimmer-presents",
+    "count": 3
+  },
+  {
     "id": 87,
     "name": "Dethklok",
     "slug": "dethklok",
@@ -423,6 +429,12 @@
     "id": 226,
     "name": "Ice Nine Kills",
     "slug": "ice-nine-kills",
+    "count": 3
+  },
+  {
+    "id": 289,
+    "name": "Metal Festivals 2026",
+    "slug": "metal-festivals-2026",
     "count": 3
   },
   {
@@ -585,12 +597,6 @@
     "id": 67,
     "name": "Beartooth",
     "slug": "beartooth",
-    "count": 2
-  },
-  {
-    "id": 70,
-    "name": "Danny Wimmer Presents",
-    "slug": "danny-wimmer-presents",
     "count": 2
   },
   {
@@ -876,12 +882,6 @@
     "count": 2
   },
   {
-    "id": 289,
-    "name": "Metal Festivals 2026",
-    "slug": "metal-festivals-2026",
-    "count": 2
-  },
-  {
     "id": 293,
     "name": "Anthrax",
     "slug": "anthrax",
@@ -1038,6 +1038,12 @@
     "count": 2
   },
   {
+    "id": 717,
+    "name": "Aftershock Festival 2026",
+    "slug": "aftershock-festival-2026",
+    "count": 2
+  },
+  {
     "id": 780,
     "name": "Korn",
     "slug": "korn",
@@ -1050,7 +1056,13 @@
     "count": 2
   },
   {
-    "id": 811,
+    "id": 799,
+    "name": "Discovery Park Sacramento",
+    "slug": "discovery-park-sacramento",
+    "count": 2
+  },
+  {
+    "id": 812,
     "name": "Bay Area Metal",
     "slug": "bay-area-metal",
     "count": 2
@@ -4314,12 +4326,6 @@
     "count": 1
   },
   {
-    "id": 717,
-    "name": "Aftershock Festival 2026",
-    "slug": "aftershock-festival-2026",
-    "count": 1
-  },
-  {
     "id": 718,
     "name": "Aftershock Pre-Party",
     "slug": "aftershock-pre-party",
@@ -4794,12 +4800,6 @@
     "count": 1
   },
   {
-    "id": 799,
-    "name": "Discovery Park Sacramento",
-    "slug": "discovery-park-sacramento",
-    "count": 1
-  },
-  {
     "id": 800,
     "name": "festival recap blog",
     "slug": "festival-recap-blog",
@@ -4866,181 +4866,187 @@
     "count": 1
   },
   {
-    "id": 812,
+    "id": 811,
+    "name": "Sacramento Metal Festival",
+    "slug": "sacramento-metal-festival",
+    "count": 1
+  },
+  {
+    "id": 813,
     "name": "heavy metal album",
     "slug": "heavy-metal-album",
     "count": 1
   },
   {
-    "id": 813,
+    "id": 814,
     "name": "us heavy metal",
     "slug": "us-heavy-metal",
     "count": 1
   },
   {
-    "id": 814,
+    "id": 815,
     "name": "back to the beginning",
     "slug": "back-to-the-beginning",
     "count": 1
   },
   {
-    "id": 815,
+    "id": 816,
     "name": "Black Sabbath",
     "slug": "black-sabbath",
     "count": 1
   },
   {
-    "id": 816,
+    "id": 817,
     "name": "Metal Icon",
     "slug": "metal-icon",
     "count": 1
   },
   {
-    "id": 817,
+    "id": 818,
     "name": "Metal Music",
     "slug": "metal-music",
     "count": 1
   },
   {
-    "id": 818,
+    "id": 819,
     "name": "Ozzfest",
     "slug": "ozzfest",
     "count": 1
   },
   {
-    "id": 819,
+    "id": 820,
     "name": "Prince of Darkness",
     "slug": "prince-of-darkness",
     "count": 1
   },
   {
-    "id": 820,
+    "id": 821,
     "name": "Rock Legend",
     "slug": "rock-legend",
     "count": 1
   },
   {
-    "id": 821,
+    "id": 822,
     "name": "72 Seasons",
     "slug": "72-seasons",
     "count": 1
   },
   {
-    "id": 822,
+    "id": 823,
     "name": "Bay Area Music",
     "slug": "bay-area-music",
     "count": 1
   },
   {
-    "id": 823,
+    "id": 824,
     "name": "In-The-Round Stage",
     "slug": "in-the-round-stage",
     "count": 1
   },
   {
-    "id": 824,
+    "id": 825,
     "name": "Levi’s Stadium",
     "slug": "levis-stadium",
     "count": 1
   },
   {
-    "id": 825,
+    "id": 826,
     "name": "M72 World Tour",
     "slug": "m72-world-tour",
     "count": 1
   },
   {
-    "id": 826,
+    "id": 827,
     "name": "Metal Shows",
     "slug": "metal-shows",
     "count": 1
   },
   {
-    "id": 827,
+    "id": 828,
     "name": "Metallica Concert Review",
     "slug": "metallica-concert-review",
     "count": 1
   },
   {
-    "id": 828,
+    "id": 829,
     "name": "Metallica Hometown Show",
     "slug": "metallica-hometown-show",
     "count": 1
   },
   {
-    "id": 829,
+    "id": 830,
     "name": "Metallica Legacy",
     "slug": "metallica-legacy",
     "count": 1
   },
   {
-    "id": 830,
+    "id": 831,
     "name": "No Repeat Weekend",
     "slug": "no-repeat-weekend",
     "count": 1
   },
   {
-    "id": 831,
+    "id": 832,
     "name": "Santa Clara",
     "slug": "santa-clara",
     "count": 1
   },
   {
-    "id": 832,
+    "id": 833,
     "name": "Archetypes Collide",
     "slug": "archetypes-collide",
     "count": 1
   },
   {
-    "id": 833,
+    "id": 834,
     "name": "Carnival Horizon rock cruise",
     "slug": "carnival-horizon-rock-cruise",
     "count": 1
   },
   {
-    "id": 834,
+    "id": 835,
     "name": "cruise festival lineup",
     "slug": "cruise-festival-lineup",
     "count": 1
   },
   {
-    "id": 835,
+    "id": 836,
     "name": "DeathByRomy",
     "slug": "deathbyromy",
     "count": 1
   },
   {
-    "id": 836,
+    "id": 837,
     "name": "From Ashes To New",
     "slug": "from-ashes-to-new",
     "count": 1
   },
   {
-    "id": 837,
+    "id": 838,
     "name": "rock cruise",
     "slug": "rock-cruise",
     "count": 1
   },
   {
-    "id": 838,
+    "id": 839,
     "name": "rock festival at sea",
     "slug": "rock-festival-at-sea",
     "count": 1
   },
   {
-    "id": 839,
+    "id": 840,
     "name": "ShipRocked 2025",
     "slug": "shiprocked-2025",
     "count": 1
   },
   {
-    "id": 840,
+    "id": 841,
     "name": "Silly Goose",
     "slug": "silly-goose",
     "count": 1
   },
   {
-    "id": 841,
+    "id": 842,
     "name": "The Stowaways",
     "slug": "the-stowaways",
     "count": 1
