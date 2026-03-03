@@ -29,16 +29,16 @@
   },
   {
     "id": 5,
-    "name": "Tours",
-    "slug": "tours",
-    "count": 27,
+    "name": "Festivals",
+    "slug": "festivals",
+    "count": 19,
     "description": ""
   },
   {
     "id": 6,
-    "name": "Festivals",
-    "slug": "festivals",
-    "count": 19,
+    "name": "Tours",
+    "slug": "tours",
+    "count": 27,
     "description": ""
   }
 ]

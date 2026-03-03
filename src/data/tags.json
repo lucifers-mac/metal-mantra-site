@@ -1,84 +1,84 @@
 [
   {
-    "id": 18,
+    "id": 23,
     "name": "metal mantra",
     "slug": "metal-mantra",
     "count": 73
   },
   {
-    "id": 28,
+    "id": 33,
     "name": "Metal News",
     "slug": "metal-news",
     "count": 45
   },
   {
-    "id": 26,
+    "id": 31,
     "name": "heavy metal",
     "slug": "heavy-metal",
     "count": 18
   },
   {
-    "id": 100,
+    "id": 101,
     "name": "metalcore",
     "slug": "metalcore",
     "count": 16
   },
   {
-    "id": 33,
+    "id": 38,
     "name": "Thrash Metal",
     "slug": "thrash-metal",
     "count": 15
   },
   {
-    "id": 37,
+    "id": 42,
     "name": "Hard Rock News",
     "slug": "hard-rock-news",
     "count": 14
   },
   {
-    "id": 51,
+    "id": 54,
     "name": "heavy metal news",
     "slug": "heavy-metal-news",
     "count": 13
   },
   {
-    "id": 29,
+    "id": 34,
     "name": "metal tours",
     "slug": "metal-tours",
     "count": 12
   },
   {
-    "id": 43,
+    "id": 46,
     "name": "Festivals",
     "slug": "festivals",
     "count": 12
   },
   {
-    "id": 38,
+    "id": 17,
     "name": "Iron Maiden",
     "slug": "iron-maiden",
     "count": 11
   },
   {
-    "id": 55,
+    "id": 20,
     "name": "Megadeth",
     "slug": "megadeth",
     "count": 10
   },
   {
-    "id": 68,
+    "id": 69,
     "name": "new metal releases",
     "slug": "new-metal-releases",
     "count": 9
   },
   {
-    "id": 106,
+    "id": 107,
     "name": "hard rock",
     "slug": "hard-rock",
     "count": 8
   },
   {
-    "id": 86,
+    "id": 87,
     "name": "hardcore",
     "slug": "hardcore",
     "count": 7
@@ -90,19 +90,19 @@
     "count": 6
   },
   {
-    "id": 19,
+    "id": 24,
     "name": "metal tour announcements",
     "slug": "metal-tour-announcements",
     "count": 6
   },
   {
-    "id": 124,
+    "id": 125,
     "name": "Motionless In White",
     "slug": "motionless-in-white",
     "count": 6
   },
   {
-    "id": 134,
+    "id": 135,
     "name": "metal festival",
     "slug": "metal-festival",
     "count": 6
@@ -126,55 +126,55 @@
     "count": 6
   },
   {
-    "id": 30,
-    "name": "Metallica",
-    "slug": "metallica",
-    "count": 5
-  },
-  {
-    "id": 39,
+    "id": 21,
     "name": "Pantera",
     "slug": "pantera",
     "count": 5
   },
   {
-    "id": 53,
+    "id": 35,
+    "name": "Metallica",
+    "slug": "metallica",
+    "count": 5
+  },
+  {
+    "id": 56,
     "name": "festival lineup",
     "slug": "festival-lineup",
     "count": 5
   },
   {
-    "id": 56,
+    "id": 57,
     "name": "Metal Festivals",
     "slug": "metal-festivals",
     "count": 5
   },
   {
-    "id": 57,
+    "id": 58,
     "name": "Papa Roach",
     "slug": "papa-roach",
     "count": 5
   },
   {
-    "id": 84,
+    "id": 85,
     "name": "Avatar",
     "slug": "avatar",
     "count": 5
   },
   {
-    "id": 98,
+    "id": 99,
     "name": "Tour Dates",
     "slug": "tour-dates",
     "count": 5
   },
   {
-    "id": 111,
+    "id": 112,
     "name": "ShipRocked",
     "slug": "shiprocked",
     "count": 5
   },
   {
-    "id": 113,
+    "id": 114,
     "name": "Knocked Loose",
     "slug": "knocked-loose",
     "count": 5
@@ -210,43 +210,43 @@
     "count": 5
   },
   {
-    "id": 20,
+    "id": 25,
     "name": "new music",
     "slug": "new-music",
     "count": 4
   },
   {
-    "id": 21,
+    "id": 26,
     "name": "Wage War",
     "slug": "wage-war",
     "count": 4
   },
   {
-    "id": 59,
+    "id": 60,
     "name": "Bad Omens",
     "slug": "bad-omens",
     "count": 4
   },
   {
-    "id": 63,
+    "id": 64,
     "name": "Exodus",
     "slug": "exodus",
     "count": 4
   },
   {
-    "id": 71,
+    "id": 72,
     "name": "Amon Amarth",
     "slug": "amon-amarth",
     "count": 4
   },
   {
-    "id": 118,
+    "id": 119,
     "name": "festival news",
     "slug": "festival-news",
     "count": 4
   },
   {
-    "id": 121,
+    "id": 122,
     "name": "Lorna Shore",
     "slug": "lorna-shore",
     "count": 4
@@ -336,55 +336,55 @@
     "count": 3
   },
   {
-    "id": 32,
-    "name": "Death Angel",
-    "slug": "death-angel",
-    "count": 3
-  },
-  {
-    "id": 54,
+    "id": 18,
     "name": "Louder Than Life",
     "slug": "louder-than-life",
     "count": 3
   },
   {
-    "id": 74,
+    "id": 37,
+    "name": "Death Angel",
+    "slug": "death-angel",
+    "count": 3
+  },
+  {
+    "id": 75,
     "name": "Dethklok",
     "slug": "dethklok",
     "count": 3
   },
   {
-    "id": 77,
+    "id": 78,
     "name": "Starset",
     "slug": "starset",
     "count": 3
   },
   {
-    "id": 87,
+    "id": 88,
     "name": "Nu Metal",
     "slug": "nu-metal",
     "count": 3
   },
   {
-    "id": 114,
+    "id": 115,
     "name": "Metal Music Videos",
     "slug": "metal-music-videos",
     "count": 3
   },
   {
-    "id": 135,
+    "id": 136,
     "name": "nwobhm",
     "slug": "nwobhm",
     "count": 3
   },
   {
-    "id": 137,
+    "id": 138,
     "name": "Rock for People",
     "slug": "rock-for-people",
     "count": 3
   },
   {
-    "id": 138,
+    "id": 139,
     "name": "Rock for People 2026",
     "slug": "rock-for-people-2026",
     "count": 3
@@ -498,175 +498,175 @@
     "count": 2
   },
   {
-    "id": 17,
+    "id": 22,
     "name": "Fearless Records",
     "slug": "fearless-records",
     "count": 2
   },
   {
-    "id": 22,
+    "id": 27,
     "name": "Las Vegas Sphere",
     "slug": "las-vegas-sphere",
     "count": 2
   },
   {
-    "id": 24,
+    "id": 29,
     "name": "Live Metallica 2025",
     "slug": "live-metallica-2025",
     "count": 2
   },
   {
-    "id": 34,
+    "id": 39,
     "name": "Vio-Lence",
     "slug": "vio-lence",
     "count": 2
   },
   {
-    "id": 36,
+    "id": 41,
     "name": "Ghost",
     "slug": "ghost",
     "count": 2
   },
   {
-    "id": 45,
+    "id": 48,
     "name": "Rocklahoma",
     "slug": "rocklahoma",
     "count": 2
   },
   {
-    "id": 46,
+    "id": 49,
     "name": "Slayer",
     "slug": "slayer",
     "count": 2
   },
   {
-    "id": 47,
+    "id": 50,
     "name": "Faith No More",
     "slug": "faith-no-more",
     "count": 2
   },
   {
-    "id": 49,
+    "id": 52,
     "name": "Beartooth",
     "slug": "beartooth",
     "count": 2
   },
   {
-    "id": 52,
+    "id": 55,
     "name": "Danny Wimmer Presents",
     "slug": "danny-wimmer-presents",
     "count": 2
   },
   {
-    "id": 61,
+    "id": 62,
     "name": "Converge",
     "slug": "converge",
     "count": 2
   },
   {
-    "id": 64,
+    "id": 65,
     "name": "Fear Factory",
     "slug": "fear-factory",
     "count": 2
   },
   {
-    "id": 67,
+    "id": 68,
     "name": "Mushroomhead",
     "slug": "mushroomhead",
     "count": 2
   },
   {
-    "id": 69,
+    "id": 70,
     "name": "Poison the Well",
     "slug": "poison-the-well",
     "count": 2
   },
   {
-    "id": 72,
+    "id": 73,
     "name": "blackened death metal",
     "slug": "blackened-death-metal",
     "count": 2
   },
   {
-    "id": 73,
+    "id": 74,
     "name": "Castle Rat",
     "slug": "castle-rat",
     "count": 2
   },
   {
-    "id": 75,
+    "id": 76,
     "name": "Breaking Benjamin",
     "slug": "breaking-benjamin",
     "count": 2
   },
   {
-    "id": 79,
+    "id": 80,
     "name": "poppy",
     "slug": "poppy",
     "count": 2
   },
   {
-    "id": 82,
+    "id": 83,
     "name": "Orbit Culture",
     "slug": "orbit-culture",
     "count": 2
   },
   {
-    "id": 83,
+    "id": 84,
     "name": "Ov Sulfur",
     "slug": "ov-sulfur",
     "count": 2
   },
   {
-    "id": 95,
+    "id": 96,
     "name": "Better Noise Music",
     "slug": "better-noise-music",
     "count": 2
   },
   {
-    "id": 99,
+    "id": 100,
     "name": "Amity Affliction",
     "slug": "amity-affliction",
     "count": 2
   },
   {
-    "id": 102,
+    "id": 103,
     "name": "The Amity Affliction",
     "slug": "the-amity-affliction",
     "count": 2
   },
   {
-    "id": 104,
+    "id": 105,
     "name": "Eva Under Fire",
     "slug": "eva-under-fire",
     "count": 2
   },
   {
-    "id": 105,
+    "id": 106,
     "name": "Five Finger Death Punch",
     "slug": "five-finger-death-punch",
     "count": 2
   },
   {
-    "id": 110,
+    "id": 111,
     "name": "heavy music cruise",
     "slug": "heavy-music-cruise",
     "count": 2
   },
   {
-    "id": 116,
+    "id": 117,
     "name": "bruce dickinson",
     "slug": "bruce-dickinson",
     "count": 2
   },
   {
-    "id": 125,
+    "id": 126,
     "name": "Sepultura",
     "slug": "sepultura",
     "count": 2
   },
   {
-    "id": 136,
+    "id": 137,
     "name": "post-hardcore",
     "slug": "post-hardcore",
     "count": 2
@@ -1062,327 +1062,327 @@
     "count": 1
   },
   {
-    "id": 23,
+    "id": 19,
+    "name": "Louder Than Life 2026",
+    "slug": "louder-than-life-2026",
+    "count": 1
+  },
+  {
+    "id": 28,
     "name": "life burns faster",
     "slug": "life-burns-faster",
     "count": 1
   },
   {
-    "id": 25,
+    "id": 30,
     "name": "Metallica Sphere",
     "slug": "metallica-sphere",
     "count": 1
   },
   {
-    "id": 27,
+    "id": 32,
     "name": "M72",
     "slug": "m72",
     "count": 1
   },
   {
-    "id": 31,
+    "id": 36,
     "name": "Bay Area Thrash",
     "slug": "bay-area-thrash",
     "count": 1
   },
   {
-    "id": 35,
+    "id": 40,
     "name": "Better Lovers",
     "slug": "better-lovers",
     "count": 1
   },
   {
-    "id": 40,
+    "id": 43,
     "name": "Rock and Roll Hall of Fame",
     "slug": "rock-and-roll-hall-of-fame",
     "count": 1
   },
   {
-    "id": 41,
+    "id": 44,
     "name": "Tom Morello",
     "slug": "tom-morello",
     "count": 1
   },
   {
-    "id": 42,
+    "id": 45,
     "name": "Voivod",
     "slug": "voivod",
     "count": 1
   },
   {
-    "id": 44,
+    "id": 47,
     "name": "Reign In Blood",
     "slug": "reign-in-blood",
     "count": 1
   },
   {
-    "id": 48,
+    "id": 51,
     "name": "Mike Patton",
     "slug": "mike-patton",
     "count": 1
   },
   {
-    "id": 50,
+    "id": 53,
     "name": "Circle Jerks",
     "slug": "circle-jerks",
     "count": 1
   },
   {
-    "id": 58,
+    "id": 59,
     "name": "Atlantic Records",
     "slug": "atlantic-records",
     "count": 1
   },
   {
-    "id": 60,
+    "id": 61,
     "name": "PRESIDENT",
     "slug": "president",
     "count": 1
   },
   {
-    "id": 62,
+    "id": 63,
     "name": "enter shikari",
     "slug": "enter-shikari",
     "count": 1
   },
   {
-    "id": 65,
+    "id": 66,
     "name": "Ingested",
     "slug": "ingested",
     "count": 1
   },
   {
-    "id": 66,
+    "id": 67,
     "name": "Lovebites",
     "slug": "lovebites",
     "count": 1
   },
   {
-    "id": 70,
+    "id": 71,
     "name": "Shinedown",
     "slug": "shinedown",
     "count": 1
   },
   {
-    "id": 76,
+    "id": 77,
     "name": "Chevelle",
     "slug": "chevelle",
     "count": 1
   },
   {
-    "id": 78,
+    "id": 79,
     "name": "landmvrks",
     "slug": "landmvrks",
     "count": 1
   },
   {
-    "id": 80,
+    "id": 81,
     "name": "thousand below",
     "slug": "thousand-below",
     "count": 1
   },
   {
-    "id": 81,
+    "id": 82,
     "name": "Atlas (band)",
     "slug": "atlas-band",
     "count": 1
   },
   {
-    "id": 85,
+    "id": 86,
     "name": "KK's Priest",
     "slug": "kks-priest",
     "count": 1
   },
   {
-    "id": 88,
+    "id": 89,
     "name": "Randy LeBoeuf",
     "slug": "randy-leboeuf",
     "count": 1
   },
   {
-    "id": 89,
+    "id": 90,
     "name": "Resistor",
     "slug": "resistor",
     "count": 1
   },
   {
-    "id": 90,
+    "id": 91,
     "name": "Apple TV",
     "slug": "apple-tv",
     "count": 1
   },
   {
-    "id": 91,
+    "id": 92,
     "name": "concert film",
     "slug": "concert-film",
     "count": 1
   },
   {
-    "id": 92,
+    "id": 93,
     "name": "Prime Video",
     "slug": "prime-video",
     "count": 1
   },
   {
-    "id": 93,
+    "id": 94,
     "name": "Sabaton",
     "slug": "sabaton",
     "count": 1
   },
   {
-    "id": 94,
+    "id": 95,
     "name": "Apocalyptica",
     "slug": "apocalyptica",
     "count": 1
   },
   {
-    "id": 96,
+    "id": 97,
     "name": "Presale Codes",
     "slug": "presale-codes",
     "count": 1
   },
   {
-    "id": 97,
+    "id": 98,
     "name": "The Hu",
     "slug": "the-hu",
     "count": 1
   },
   {
-    "id": 101,
+    "id": 102,
     "name": "Pure Noise Records",
     "slug": "pure-noise-records",
     "count": 1
   },
   {
-    "id": 103,
+    "id": 104,
     "name": "Butcher Babies",
     "slug": "butcher-babies",
     "count": 1
   },
   {
-    "id": 107,
+    "id": 108,
     "name": "new single",
     "slug": "new-single",
     "count": 1
   },
   {
-    "id": 108,
+    "id": 109,
     "name": "Dropkick Murphys",
     "slug": "dropkick-murphys",
     "count": 1
   },
   {
-    "id": 109,
+    "id": 110,
     "name": "punk rock",
     "slug": "punk-rock",
     "count": 1
   },
   {
-    "id": 112,
+    "id": 113,
     "name": "Denzel Curry",
     "slug": "denzel-curry",
     "count": 1
   },
   {
-    "id": 115,
+    "id": 116,
     "name": "Blaze Bayley",
     "slug": "blaze-bayley",
     "count": 1
   },
   {
-    "id": 117,
+    "id": 118,
     "name": "Cyclone",
     "slug": "cyclone",
     "count": 1
   },
   {
-    "id": 119,
+    "id": 120,
     "name": "Fit For A King",
     "slug": "fit-for-a-king",
     "count": 1
   },
   {
-    "id": 120,
+    "id": 121,
     "name": "Loathe",
     "slug": "loathe",
     "count": 1
   },
   {
-    "id": 122,
+    "id": 123,
     "name": "Mastodon",
     "slug": "mastodon",
     "count": 1
   },
   {
-    "id": 123,
+    "id": 124,
     "name": "Maul",
     "slug": "maul",
     "count": 1
   },
   {
-    "id": 126,
+    "id": 127,
     "name": "Sister Sin",
     "slug": "sister-sin",
     "count": 1
   },
   {
-    "id": 127,
+    "id": 128,
     "name": "Static Dress",
     "slug": "static-dress",
     "count": 1
   },
   {
-    "id": 128,
+    "id": 129,
     "name": "Tailgunner",
     "slug": "tailgunner",
     "count": 1
   },
   {
-    "id": 129,
+    "id": 130,
     "name": "Transilvania",
     "slug": "transilvania",
     "count": 1
   },
   {
-    "id": 130,
+    "id": 131,
     "name": "Alexisonfire",
     "slug": "alexisonfire",
     "count": 1
   },
   {
-    "id": 131,
+    "id": 132,
     "name": "Europe metal festival",
     "slug": "europe-metal-festival",
     "count": 1
   },
   {
-    "id": 132,
+    "id": 133,
     "name": "festival announcement",
     "slug": "festival-announcement",
     "count": 1
   },
   {
-    "id": 133,
+    "id": 134,
     "name": "Man With A Mission",
     "slug": "man-with-a-mission",
     "count": 1
   },
   {
-    "id": 139,
+    "id": 140,
     "name": "Saxon",
     "slug": "saxon",
     "count": 1
   },
   {
-    "id": 140,
+    "id": 141,
     "name": "summer festivals 2026",
     "slug": "summer-festivals-2026",
-    "count": 1
-  },
-  {
-    "id": 141,
-    "name": "Louder Than Life 2026",
-    "slug": "louder-than-life-2026",
     "count": 1
   },
   {
