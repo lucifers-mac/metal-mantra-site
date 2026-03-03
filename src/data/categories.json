@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Metal News",
     "slug": "metal-news",
-    "count": 102,
+    "count": 103,
     "description": ""
   },
   {
@@ -22,23 +22,23 @@
   },
   {
     "id": 4,
+    "name": "Features",
+    "slug": "features",
+    "count": 10,
+    "description": ""
+  },
+  {
+    "id": 5,
     "name": "Reviews",
     "slug": "reviews",
     "count": 14,
     "description": ""
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Festivals",
     "slug": "festivals",
     "count": 20,
-    "description": ""
-  },
-  {
-    "id": 6,
-    "name": "Features",
-    "slug": "features",
-    "count": 9,
     "description": ""
   }
 ]
