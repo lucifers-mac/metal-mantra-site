@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Metal Rundowns",
   description: "M/W/F digest of the biggest stories in heavy music. Everything you missed, nothing you don't need.",
+  alternates: { canonical: "/rundowns/" },
 };
 
 export default function RundownsPage() {

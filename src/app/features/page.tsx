@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Features & Editorials",
   description: "Long-form features, editorials, and deep dives into heavy music culture.",
+  alternates: { canonical: "/features/" },
 };
 
 export default function FeaturesPage() {

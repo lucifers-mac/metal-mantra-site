@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Metal Festivals",
   description: "Festival guides, lineups, and coverage for the biggest rock and metal festivals.",
+  alternates: { canonical: "/festivals/" },
 };
 
 export default function FestivalsPage() {

@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Metal News",
   description: "The latest heavy music news — tour announcements, lineup changes, new releases, and breaking stories from the metal world.",
+  alternates: { canonical: "/news/" },
 };
 
 export default function NewsPage() {

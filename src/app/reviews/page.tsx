@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Reviews",
   description: "Album reviews, concert reviews, and honest takes on the latest heavy music releases.",
+  alternates: { canonical: "/reviews/" },
 };
 
 export default function ReviewsPage() {

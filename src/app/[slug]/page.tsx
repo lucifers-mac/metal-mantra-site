@@ -26,10 +26,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title,
     description,
+    alternates: {
+      canonical: `/${slug}/`,
+    },
     openGraph: {
       title,
       description,
       type: "article",
+      url: `/${slug}/`,
+      siteName: "Metal Mantra",
       publishedTime: post.date,
       modifiedTime: post.modified,
       images: post.featuredImage ? [{ url: post.featuredImage }] : [],
@@ -37,6 +42,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     },
     twitter: {
       card: "summary_large_image",
+      site: "@MetalMantraNews",
       title,
       description,
       images: post.featuredImage ? [post.featuredImage] : [],
@@ -70,7 +76,7 @@ export default async function PostPage({ params }: PageProps) {
     publisher: {
       "@type": "Organization",
       name: "Metal Mantra",
-      logo: { "@type": "ImageObject", url: "https://metal-mantra.com/logo.png" },
+      logo: { "@type": "ImageObject", url: "https://metal-mantra.com/metal-mantra-banner.png" },
     },
     description: post.seo.description || post.excerpt.replace(/<[^>]+>/g, "").slice(0, 160),
     wordCount: post.wordCount,
@@ -88,8 +94,8 @@ export default async function PostPage({ params }: PageProps) {
           <span>/</span>
           {post.categories[0] && (
             <>
-              <Link href={`/categories/${post.categories[0]}/`} className="hover:text-mantra-red transition-colors capitalize">
-                {post.categories[0].replace(/-/g, " ")}
+              <Link href={`/categories/${post.categories[0].toLowerCase().replace(/\s+/g, "-")}/`} className="hover:text-mantra-red transition-colors capitalize">
+                {post.categories[0]}
               </Link>
               <span>/</span>
             </>

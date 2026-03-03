@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Contact Metal Mantra",
   description: "Get in touch with Metal Mantra for press inquiries, corrections, tips, or general questions.",
+  alternates: { canonical: "/contact/" },
 };
 
 export default function ContactPage() {

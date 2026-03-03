@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Metal Mantra",
   description: "Metal Mantra is a heavy music news site built on 30+ years of Bay Area scene credibility.",
+  alternates: { canonical: "/about/" },
 };
 
 export default function AboutPage() {

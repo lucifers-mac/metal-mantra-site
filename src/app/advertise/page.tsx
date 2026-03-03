@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Advertise with Metal Mantra",
   description: "Reach a dedicated heavy music audience. Advertising and sponsorship opportunities with Metal Mantra.",
+  alternates: { canonical: "/advertise/" },
 };
 
 export default function AdvertisePage() {

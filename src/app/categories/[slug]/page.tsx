@@ -18,6 +18,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: cat ? cat.name : slug,
     description: cat?.description || `All Metal Mantra coverage in "${cat?.name || slug}".`,
+    alternates: { canonical: `/categories/${slug}/` },
   };
 }
 

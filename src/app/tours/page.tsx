@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Metal Tours 2026",
   description: "Every major metal and hard rock tour happening in 2026. Dates, tickets, and coverage.",
+  alternates: { canonical: "/tours/" },
 };
 
 export default function ToursPage() {
