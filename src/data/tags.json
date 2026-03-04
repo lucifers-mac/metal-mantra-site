@@ -6,7 +6,7 @@
     "count": 73
   },
   {
-    "id": 18,
+    "id": 13,
     "name": "Metal News",
     "slug": "metal-news",
     "count": 46
@@ -90,7 +90,7 @@
     "count": 7
   },
   {
-    "id": 9,
+    "id": 4,
     "name": "Metal Festivals",
     "slug": "metal-festivals",
     "count": 6
@@ -348,7 +348,7 @@
     "count": 4
   },
   {
-    "id": 8,
+    "id": 3,
     "name": "Ozzy Osbourne",
     "slug": "ozzy-osbourne",
     "count": 3
@@ -505,38 +505,38 @@
   },
   {
     "id": 1,
-    "name": "The Warning",
-    "slug": "the-warning",
-    "count": 2
-  },
-  {
-    "id": 3,
-    "name": "new single",
-    "slug": "new-single",
-    "count": 2
-  },
-  {
-    "id": 6,
     "name": "Ozzfest",
     "slug": "ozzfest",
     "count": 2
   },
   {
-    "id": 14,
+    "id": 9,
     "name": "Machine Head",
     "slug": "machine-head",
     "count": 2
   },
   {
-    "id": 17,
+    "id": 12,
     "name": "Slaughter to Prevail",
     "slug": "slaughter-to-prevail",
     "count": 2
   },
   {
-    "id": 20,
+    "id": 15,
     "name": "Sebastian Bach",
     "slug": "sebastian-bach",
+    "count": 2
+  },
+  {
+    "id": 17,
+    "name": "The Warning",
+    "slug": "the-warning",
+    "count": 2
+  },
+  {
+    "id": 19,
+    "name": "new single",
+    "slug": "new-single",
     "count": 2
   },
   {
@@ -1123,74 +1123,74 @@
   },
   {
     "id": 2,
-    "name": "Kerosene",
-    "slug": "kerosene",
-    "count": 1
-  },
-  {
-    "id": 4,
-    "name": "The Warning 2026",
-    "slug": "the-warning-2026",
-    "count": 1
-  },
-  {
-    "id": 5,
-    "name": "Keep Me Fed",
-    "slug": "keep-me-fed",
-    "count": 1
-  },
-  {
-    "id": 7,
     "name": "Sharon Osbourne",
     "slug": "sharon-osbourne",
     "count": 1
   },
   {
-    "id": 10,
+    "id": 5,
     "name": "2027 Music Festivals",
     "slug": "2027-music-festivals",
     "count": 1
   },
   {
-    "id": 11,
+    "id": 6,
     "name": "Nine Inch Nails",
     "slug": "nine-inch-nails",
     "count": 1
   },
   {
-    "id": 12,
+    "id": 7,
     "name": "Twisted Sister",
     "slug": "twisted-sister",
     "count": 1
   },
   {
-    "id": 13,
+    "id": 8,
     "name": "Killswitch Engage",
     "slug": "killswitch-engage",
     "count": 1
   },
   {
-    "id": 15,
+    "id": 10,
     "name": "Nervosa",
     "slug": "nervosa",
     "count": 1
   },
   {
-    "id": 16,
+    "id": 11,
     "name": "Forbidden",
     "slug": "forbidden",
     "count": 1
   },
   {
-    "id": 19,
+    "id": 14,
     "name": "rundown",
     "slug": "rundown",
     "count": 1
   },
   {
-    "id": 21,
+    "id": 16,
     "name": "Norman Skinner",
     "slug": "norman-skinner",
+    "count": 1
+  },
+  {
+    "id": 18,
+    "name": "Kerosene",
+    "slug": "kerosene",
+    "count": 1
+  },
+  {
+    "id": 20,
+    "name": "The Warning 2026",
+    "slug": "the-warning-2026",
+    "count": 1
+  },
+  {
+    "id": 21,
+    "name": "Keep Me Fed",
+    "slug": "keep-me-fed",
     "count": 1
   },
   {
