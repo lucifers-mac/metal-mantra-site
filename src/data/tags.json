@@ -48,16 +48,16 @@
     "count": 13
   },
   {
+    "id": 22,
+    "name": "Iron Maiden",
+    "slug": "iron-maiden",
+    "count": 12
+  },
+  {
     "id": 66,
     "name": "Festivals",
     "slug": "festivals",
     "count": 12
-  },
-  {
-    "id": 40,
-    "name": "Iron Maiden",
-    "slug": "iron-maiden",
-    "count": 11
   },
   {
     "id": 42,
@@ -96,7 +96,7 @@
     "count": 6
   },
   {
-    "id": 30,
+    "id": 31,
     "name": "Lamb of God",
     "slug": "lamb-of-god",
     "count": 6
@@ -240,13 +240,13 @@
     "count": 4
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "Bring Me The Horizon",
     "slug": "bring-me-the-horizon",
     "count": 4
   },
   {
-    "id": 31,
+    "id": 32,
     "name": "Rob Zombie",
     "slug": "rob-zombie",
     "count": 4
@@ -360,13 +360,13 @@
     "count": 3
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "August Burns Red",
     "slug": "august-burns-red",
     "count": 3
   },
   {
-    "id": 37,
+    "id": 38,
     "name": "Ozzy Osbourne",
     "slug": "ozzy-osbourne",
     "count": 3
@@ -528,43 +528,43 @@
     "count": 2
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Atreyu",
     "slug": "atreyu",
     "count": 2
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Alex Van Halen",
     "slug": "alex-van-halen",
     "count": 2
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "At The Gates",
     "slug": "at-the-gates",
     "count": 2
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "Black Label Society",
     "slug": "black-label-society",
     "count": 2
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "frozen soul",
     "slug": "frozen-soul",
     "count": 2
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Dave Mustaine",
     "slug": "dave-mustaine",
     "count": 2
   },
   {
-    "id": 38,
+    "id": 39,
     "name": "Rob Halford",
     "slug": "rob-halford",
     "count": 2
@@ -1122,37 +1122,37 @@
     "count": 1
   },
   {
-    "id": 29,
+    "id": 30,
     "name": "Haste the Day",
     "slug": "haste-the-day",
     "count": 1
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "Audible",
     "slug": "audible",
     "count": 1
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Metal Biographies",
     "slug": "metal-biographies",
     "count": 1
   },
   {
-    "id": 35,
+    "id": 36,
     "name": "Metal Books",
     "slug": "metal-books",
     "count": 1
   },
   {
-    "id": 36,
+    "id": 37,
     "name": "Nikki Sixx",
     "slug": "nikki-sixx",
     "count": 1
   },
   {
-    "id": 39,
+    "id": 40,
     "name": "Serj Tankian",
     "slug": "serj-tankian",
     "count": 1
