@@ -744,6 +744,12 @@
     "count": 2
   },
   {
+    "id": 147,
+    "name": "new single",
+    "slug": "new-single",
+    "count": 2
+  },
+  {
     "id": 150,
     "name": "heavy music cruise",
     "slug": "heavy-music-cruise",
@@ -843,6 +849,12 @@
     "id": 245,
     "name": "The Black Dahlia Murder",
     "slug": "the-black-dahlia-murder",
+    "count": 2
+  },
+  {
+    "id": 246,
+    "name": "The Warning",
+    "slug": "the-warning",
     "count": 2
   },
   {
@@ -1470,12 +1482,6 @@
     "count": 1
   },
   {
-    "id": 147,
-    "name": "new single",
-    "slug": "new-single",
-    "count": 1
-  },
-  {
     "id": 148,
     "name": "Dropkick Murphys",
     "slug": "dropkick-murphys",
@@ -1833,12 +1839,6 @@
     "id": 244,
     "name": "The Acacia Strain",
     "slug": "the-acacia-strain",
-    "count": 1
-  },
-  {
-    "id": 246,
-    "name": "The Warning",
-    "slug": "the-warning",
     "count": 1
   },
   {
@@ -5139,6 +5139,24 @@
     "id": 857,
     "name": "The Stowaways",
     "slug": "the-stowaways",
+    "count": 1
+  },
+  {
+    "id": 858,
+    "name": "Kerosene",
+    "slug": "kerosene",
+    "count": 1
+  },
+  {
+    "id": 859,
+    "name": "The Warning 2026",
+    "slug": "the-warning-2026",
+    "count": 1
+  },
+  {
+    "id": 860,
+    "name": "Keep Me Fed",
+    "slug": "keep-me-fed",
     "count": 1
   }
 ]
