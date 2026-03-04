@@ -108,6 +108,12 @@
     "count": 6
   },
   {
+    "id": 78,
+    "name": "Metal Festivals",
+    "slug": "metal-festivals",
+    "count": 6
+  },
+  {
     "id": 147,
     "name": "Motionless In White",
     "slug": "motionless-in-white",
@@ -159,12 +165,6 @@
     "id": 77,
     "name": "festival lineup",
     "slug": "festival-lineup",
-    "count": 5
-  },
-  {
-    "id": 78,
-    "name": "Metal Festivals",
-    "slug": "metal-festivals",
     "count": 5
   },
   {
@@ -366,6 +366,12 @@
     "count": 3
   },
   {
+    "id": 37,
+    "name": "Ozzy Osbourne",
+    "slug": "ozzy-osbourne",
+    "count": 3
+  },
+  {
     "id": 41,
     "name": "Louder Than Life",
     "slug": "louder-than-life",
@@ -555,12 +561,6 @@
     "id": 33,
     "name": "Dave Mustaine",
     "slug": "dave-mustaine",
-    "count": 2
-  },
-  {
-    "id": 37,
-    "name": "Ozzy Osbourne",
-    "slug": "ozzy-osbourne",
     "count": 2
   },
   {
@@ -1068,15 +1068,21 @@
     "count": 2
   },
   {
-    "id": 799,
-    "name": "metal album review",
-    "slug": "metal-album-review",
+    "id": 800,
+    "name": "Bay Area Metal",
+    "slug": "bay-area-metal",
     "count": 2
   },
   {
-    "id": 815,
-    "name": "Bay Area Metal",
-    "slug": "bay-area-metal",
+    "id": 811,
+    "name": "Ozzfest",
+    "slug": "ozzfest",
+    "count": 2
+  },
+  {
+    "id": 814,
+    "name": "metal album review",
+    "slug": "metal-album-review",
     "count": 2
   },
   {
@@ -4800,271 +4806,277 @@
     "count": 1
   },
   {
-    "id": 800,
-    "name": "aftershock",
-    "slug": "aftershock",
-    "count": 1
-  },
-  {
-    "id": 801,
-    "name": "Aftershock 2025",
-    "slug": "aftershock-2025",
-    "count": 1
-  },
-  {
-    "id": 802,
-    "name": "alternative metal concert",
-    "slug": "alternative-metal-concert",
-    "count": 1
-  },
-  {
-    "id": 803,
-    "name": "BLINK-182",
-    "slug": "blink-182",
-    "count": 1
-  },
-  {
-    "id": 804,
-    "name": "festival recap blog",
-    "slug": "festival-recap-blog",
-    "count": 1
-  },
-  {
-    "id": 805,
-    "name": "heavy metal lineup",
-    "slug": "heavy-metal-lineup",
-    "count": 1
-  },
-  {
-    "id": 806,
-    "name": "live music festival",
-    "slug": "live-music-festival",
-    "count": 1
-  },
-  {
-    "id": 807,
-    "name": "metal festival Sacramento",
-    "slug": "metal-festival-sacramento",
-    "count": 1
-  },
-  {
-    "id": 808,
-    "name": "metalcore bands",
-    "slug": "metalcore-bands",
-    "count": 1
-  },
-  {
-    "id": 809,
-    "name": "mosh pit festival",
-    "slug": "mosh-pit-festival",
-    "count": 1
-  },
-  {
-    "id": 810,
-    "name": "nu-metal revival",
-    "slug": "nu-metal-revival",
-    "count": 1
-  },
-  {
-    "id": 811,
-    "name": "rock festival 2025",
-    "slug": "rock-festival-2025",
-    "count": 1
-  },
-  {
-    "id": 812,
-    "name": "rock music review",
-    "slug": "rock-music-review",
-    "count": 1
-  },
-  {
-    "id": 813,
-    "name": "Sacramento rock festival",
-    "slug": "sacramento-rock-festival",
-    "count": 1
-  },
-  {
-    "id": 814,
-    "name": "West Coast rock festival",
-    "slug": "west-coast-rock-festival",
-    "count": 1
-  },
-  {
-    "id": 816,
-    "name": "heavy metal album",
-    "slug": "heavy-metal-album",
-    "count": 1
-  },
-  {
-    "id": 817,
-    "name": "us heavy metal",
-    "slug": "us-heavy-metal",
-    "count": 1
-  },
-  {
-    "id": 818,
-    "name": "back to the beginning",
-    "slug": "back-to-the-beginning",
-    "count": 1
-  },
-  {
-    "id": 819,
-    "name": "Black Sabbath",
-    "slug": "black-sabbath",
-    "count": 1
-  },
-  {
-    "id": 820,
-    "name": "Metal Icon",
-    "slug": "metal-icon",
-    "count": 1
-  },
-  {
-    "id": 821,
-    "name": "Metal Music",
-    "slug": "metal-music",
-    "count": 1
-  },
-  {
-    "id": 822,
-    "name": "Ozzfest",
-    "slug": "ozzfest",
-    "count": 1
-  },
-  {
-    "id": 823,
-    "name": "Prince of Darkness",
-    "slug": "prince-of-darkness",
-    "count": 1
-  },
-  {
-    "id": 824,
-    "name": "Rock Legend",
-    "slug": "rock-legend",
-    "count": 1
-  },
-  {
-    "id": 825,
+    "id": 799,
     "name": "72 Seasons",
     "slug": "72-seasons",
     "count": 1
   },
   {
-    "id": 826,
+    "id": 801,
     "name": "Bay Area Music",
     "slug": "bay-area-music",
     "count": 1
   },
   {
-    "id": 827,
+    "id": 802,
     "name": "In-The-Round Stage",
     "slug": "in-the-round-stage",
     "count": 1
   },
   {
-    "id": 828,
+    "id": 803,
     "name": "Levi’s Stadium",
     "slug": "levis-stadium",
     "count": 1
   },
   {
-    "id": 829,
+    "id": 804,
     "name": "M72 World Tour",
     "slug": "m72-world-tour",
     "count": 1
   },
   {
-    "id": 830,
+    "id": 805,
     "name": "Metal Shows",
     "slug": "metal-shows",
     "count": 1
   },
   {
-    "id": 831,
+    "id": 806,
     "name": "Metallica Concert Review",
     "slug": "metallica-concert-review",
     "count": 1
   },
   {
-    "id": 832,
+    "id": 807,
     "name": "Metallica Hometown Show",
     "slug": "metallica-hometown-show",
     "count": 1
   },
   {
-    "id": 833,
+    "id": 808,
     "name": "Metallica Legacy",
     "slug": "metallica-legacy",
     "count": 1
   },
   {
-    "id": 834,
+    "id": 809,
     "name": "No Repeat Weekend",
     "slug": "no-repeat-weekend",
     "count": 1
   },
   {
-    "id": 835,
+    "id": 810,
     "name": "Santa Clara",
     "slug": "santa-clara",
     "count": 1
   },
   {
+    "id": 812,
+    "name": "Sharon Osbourne",
+    "slug": "sharon-osbourne",
+    "count": 1
+  },
+  {
+    "id": 813,
+    "name": "2027 Music Festivals",
+    "slug": "2027-music-festivals",
+    "count": 1
+  },
+  {
+    "id": 815,
+    "name": "aftershock",
+    "slug": "aftershock",
+    "count": 1
+  },
+  {
+    "id": 816,
+    "name": "Aftershock 2025",
+    "slug": "aftershock-2025",
+    "count": 1
+  },
+  {
+    "id": 817,
+    "name": "alternative metal concert",
+    "slug": "alternative-metal-concert",
+    "count": 1
+  },
+  {
+    "id": 818,
+    "name": "BLINK-182",
+    "slug": "blink-182",
+    "count": 1
+  },
+  {
+    "id": 819,
+    "name": "festival recap blog",
+    "slug": "festival-recap-blog",
+    "count": 1
+  },
+  {
+    "id": 820,
+    "name": "heavy metal lineup",
+    "slug": "heavy-metal-lineup",
+    "count": 1
+  },
+  {
+    "id": 821,
+    "name": "live music festival",
+    "slug": "live-music-festival",
+    "count": 1
+  },
+  {
+    "id": 822,
+    "name": "metal festival Sacramento",
+    "slug": "metal-festival-sacramento",
+    "count": 1
+  },
+  {
+    "id": 823,
+    "name": "metalcore bands",
+    "slug": "metalcore-bands",
+    "count": 1
+  },
+  {
+    "id": 824,
+    "name": "mosh pit festival",
+    "slug": "mosh-pit-festival",
+    "count": 1
+  },
+  {
+    "id": 825,
+    "name": "nu-metal revival",
+    "slug": "nu-metal-revival",
+    "count": 1
+  },
+  {
+    "id": 826,
+    "name": "rock festival 2025",
+    "slug": "rock-festival-2025",
+    "count": 1
+  },
+  {
+    "id": 827,
+    "name": "rock music review",
+    "slug": "rock-music-review",
+    "count": 1
+  },
+  {
+    "id": 828,
+    "name": "Sacramento rock festival",
+    "slug": "sacramento-rock-festival",
+    "count": 1
+  },
+  {
+    "id": 829,
+    "name": "West Coast rock festival",
+    "slug": "west-coast-rock-festival",
+    "count": 1
+  },
+  {
+    "id": 830,
+    "name": "heavy metal album",
+    "slug": "heavy-metal-album",
+    "count": 1
+  },
+  {
+    "id": 831,
+    "name": "us heavy metal",
+    "slug": "us-heavy-metal",
+    "count": 1
+  },
+  {
+    "id": 832,
+    "name": "back to the beginning",
+    "slug": "back-to-the-beginning",
+    "count": 1
+  },
+  {
+    "id": 833,
+    "name": "Black Sabbath",
+    "slug": "black-sabbath",
+    "count": 1
+  },
+  {
+    "id": 834,
+    "name": "Metal Icon",
+    "slug": "metal-icon",
+    "count": 1
+  },
+  {
+    "id": 835,
+    "name": "Metal Music",
+    "slug": "metal-music",
+    "count": 1
+  },
+  {
     "id": 836,
+    "name": "Prince of Darkness",
+    "slug": "prince-of-darkness",
+    "count": 1
+  },
+  {
+    "id": 837,
+    "name": "Rock Legend",
+    "slug": "rock-legend",
+    "count": 1
+  },
+  {
+    "id": 838,
     "name": "Archetypes Collide",
     "slug": "archetypes-collide",
     "count": 1
   },
   {
-    "id": 837,
+    "id": 839,
     "name": "Carnival Horizon rock cruise",
     "slug": "carnival-horizon-rock-cruise",
     "count": 1
   },
   {
-    "id": 838,
+    "id": 840,
     "name": "cruise festival lineup",
     "slug": "cruise-festival-lineup",
     "count": 1
   },
   {
-    "id": 839,
+    "id": 841,
     "name": "DeathByRomy",
     "slug": "deathbyromy",
     "count": 1
   },
   {
-    "id": 840,
+    "id": 842,
     "name": "From Ashes To New",
     "slug": "from-ashes-to-new",
     "count": 1
   },
   {
-    "id": 841,
+    "id": 843,
     "name": "rock cruise",
     "slug": "rock-cruise",
     "count": 1
   },
   {
-    "id": 842,
+    "id": 844,
     "name": "rock festival at sea",
     "slug": "rock-festival-at-sea",
     "count": 1
   },
   {
-    "id": 843,
+    "id": 845,
     "name": "ShipRocked 2025",
     "slug": "shiprocked-2025",
     "count": 1
   },
   {
-    "id": 844,
+    "id": 846,
     "name": "Silly Goose",
     "slug": "silly-goose",
     "count": 1
   },
   {
-    "id": 845,
+    "id": 847,
     "name": "The Stowaways",
     "slug": "the-stowaways",
     "count": 1

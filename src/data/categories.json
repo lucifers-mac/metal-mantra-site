@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Metal News",
     "slug": "metal-news",
-    "count": 105,
+    "count": 106,
     "description": ""
   },
   {
@@ -38,7 +38,7 @@
     "id": 6,
     "name": "Festivals",
     "slug": "festivals",
-    "count": 20,
+    "count": 21,
     "description": ""
   }
 ]
