@@ -906,15 +906,15 @@
     "count": 2
   },
   {
-    "id": 501,
-    "name": "Sebastian Bach",
-    "slug": "sebastian-bach",
+    "id": 495,
+    "name": "Ozzfest",
+    "slug": "ozzfest",
     "count": 2
   },
   {
-    "id": 503,
-    "name": "Ozzfest",
-    "slug": "ozzfest",
+    "id": 504,
+    "name": "Sebastian Bach",
+    "slug": "sebastian-bach",
     "count": 2
   },
   {
@@ -3210,57 +3210,57 @@
     "count": 1
   },
   {
-    "id": 495,
-    "name": "Nine Inch Nails",
-    "slug": "nine-inch-nails",
-    "count": 1
-  },
-  {
     "id": 496,
-    "name": "Twisted Sister",
-    "slug": "twisted-sister",
-    "count": 1
-  },
-  {
-    "id": 497,
-    "name": "Killswitch Engage",
-    "slug": "killswitch-engage",
-    "count": 1
-  },
-  {
-    "id": 498,
-    "name": "Nervosa",
-    "slug": "nervosa",
-    "count": 1
-  },
-  {
-    "id": 499,
-    "name": "Forbidden",
-    "slug": "forbidden",
-    "count": 1
-  },
-  {
-    "id": 500,
-    "name": "rundown",
-    "slug": "rundown",
-    "count": 1
-  },
-  {
-    "id": 502,
-    "name": "Norman Skinner",
-    "slug": "norman-skinner",
-    "count": 1
-  },
-  {
-    "id": 504,
     "name": "Sharon Osbourne",
     "slug": "sharon-osbourne",
     "count": 1
   },
   {
-    "id": 505,
+    "id": 497,
     "name": "2027 Music Festivals",
     "slug": "2027-music-festivals",
+    "count": 1
+  },
+  {
+    "id": 498,
+    "name": "Nine Inch Nails",
+    "slug": "nine-inch-nails",
+    "count": 1
+  },
+  {
+    "id": 499,
+    "name": "Twisted Sister",
+    "slug": "twisted-sister",
+    "count": 1
+  },
+  {
+    "id": 500,
+    "name": "Killswitch Engage",
+    "slug": "killswitch-engage",
+    "count": 1
+  },
+  {
+    "id": 501,
+    "name": "Nervosa",
+    "slug": "nervosa",
+    "count": 1
+  },
+  {
+    "id": 502,
+    "name": "Forbidden",
+    "slug": "forbidden",
+    "count": 1
+  },
+  {
+    "id": 503,
+    "name": "rundown",
+    "slug": "rundown",
+    "count": 1
+  },
+  {
+    "id": 505,
+    "name": "Norman Skinner",
+    "slug": "norman-skinner",
     "count": 1
   },
   {
