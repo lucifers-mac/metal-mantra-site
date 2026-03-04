@@ -8,9 +8,9 @@
   },
   {
     "id": 2,
-    "name": "Features",
-    "slug": "features",
-    "count": 14,
+    "name": "Festivals",
+    "slug": "festivals",
+    "count": 21,
     "description": ""
   },
   {
@@ -22,23 +22,23 @@
   },
   {
     "id": 4,
-    "name": "Reviews",
-    "slug": "reviews",
+    "name": "Features",
+    "slug": "features",
     "count": 14,
     "description": ""
   },
   {
     "id": 5,
-    "name": "Festivals",
-    "slug": "festivals",
-    "count": 21,
+    "name": "Tours",
+    "slug": "tours",
+    "count": 28,
     "description": ""
   },
   {
     "id": 6,
-    "name": "Tours",
-    "slug": "tours",
-    "count": 28,
+    "name": "Reviews",
+    "slug": "reviews",
+    "count": 14,
     "description": ""
   }
 ]
