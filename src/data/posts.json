@@ -8452,6 +8452,7 @@
     "date": "2025-10-06T17:23:08",
     "modified": "2026-02-27T19:07:01",
     "categories": [
+      "Festivals",
       "Reviews"
     ],
     "tags": [
@@ -8546,7 +8547,7 @@
     ],
     "featuredImage": "https://res.cloudinary.com/dtst2b8ad/image/upload/v1772424304/metal-mantra/media/aftershock-2025-review.jpg",
     "featuredImageAlt": "Aftershock 2025 festival — live concert crowd and stage energy",
-    "contentType": "review",
+    "contentType": "festival",
     "wordCount": 1935,
     "readingTime": 10,
     "path": "/aftershock-2025-review",
