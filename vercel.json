@@ -1,5 +1,7 @@
 {
   "redirects": [
+    { "source": "/editorial/", "destination": "/features/", "statusCode": 301 },
+    { "source": "/interviews/", "destination": "/features/", "statusCode": 301 },
     { "source": "/contact-us/", "destination": "/contact/", "statusCode": 301 },
     { "source": "/about-us/", "destination": "/about/", "statusCode": 301 },
     { "source": "/privacy-policy/", "destination": "/privacy/", "statusCode": 301 },
