@@ -28,14 +28,26 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title,
     description,
+    alternates: {
+      canonical: `/${slug}/`,
+    },
     openGraph: {
       title,
       description,
       type: "article",
+      url: `/${slug}/`,
+      siteName: "Metal Mantra",
       publishedTime: post.date,
       modifiedTime: post.modified,
       images: post.featuredImage ? [{ url: post.featuredImage }] : [],
       tags: post.tags.map((t) => t.name),
+    },
+    twitter: {
+      card: "summary_large_image",
+      site: "@MetalMantraNews",
+      title,
+      description,
+      images: post.featuredImage ? [post.featuredImage] : [],
     },
   };
 }
