@@ -18,3 +18,6 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 src/data/posts.json.bak
+
+# Drafts are local-only — never deploy to Vercel
+content/drafts/
