@@ -72,7 +72,11 @@ export default async function PostPage({ params }: PageProps) {
     datePublished: post.date,
     dateModified: post.modified,
     image: post.featuredImage || undefined,
-    author: { "@type": "Organization", name: "Metal Mantra" },
+    author: {
+      "@type": "Person",
+      name: post.author || "FeNyX42",
+      url: `https://metal-mantra.com/author/${(post.author || "FeNyX42").toLowerCase()}/`,
+    },
     publisher: {
       "@type": "Organization",
       name: "Metal Mantra",

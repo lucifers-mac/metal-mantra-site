@@ -15,6 +15,7 @@ export interface Post {
   featuredImage: string;
   featuredImageAlt: string;
   contentType: string;
+  author: string;
   wordCount: number;
   readingTime: number;
   path: string;

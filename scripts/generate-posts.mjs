@@ -61,6 +61,7 @@ const posts = files
     const date = data.date || new Date().toISOString();
     const modified = data.modified || date;
     const excerpt = data.excerpt || "";
+    const author = data.author || "FeNyX42";
     const featuredImage = data.featuredImage || "";
     const categories = Array.isArray(data.categories) ? data.categories : [];
     const rawTags = Array.isArray(data.tags) ? data.tags : [];
@@ -83,6 +84,7 @@ const posts = files
       modified,
       categories,
       tags,
+      author,
       featuredImage,
       featuredImageAlt: data.featuredImageAlt || "",
       contentType: deriveContentType(categories),
