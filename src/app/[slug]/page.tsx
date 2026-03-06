@@ -65,6 +65,18 @@ export default async function PostPage({ params }: PageProps) {
     : related[0] || null;
 
   // Structured data for Google News
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://metal-mantra.com/" },
+      ...(post.categories[0]
+        ? [{ "@type": "ListItem", position: 2, name: post.categories[0], item: `https://metal-mantra.com/categories/${post.categories[0].toLowerCase().replace(/\s+/g, "-")}/` }]
+        : []),
+      { "@type": "ListItem", position: post.categories[0] ? 3 : 2, name: post.title },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
@@ -89,6 +101,7 @@ export default async function PostPage({ params }: PageProps) {
   return (
     <>
       <ReadingProgress />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <article className="max-w-4xl mx-auto px-4 sm:px-6 py-8">

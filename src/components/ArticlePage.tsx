@@ -19,6 +19,16 @@ const TYPE_BADGE: Record<string, string> = {
 export default function ArticlePage({ post }: { post: Post }) {
   const related = getRelatedPosts(post, 4);
 
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://metal-mantra.com/" },
+      { "@type": "ListItem", position: 2, name: post.urlPrefix, item: `https://metal-mantra.com/${post.urlPrefix}/` },
+      { "@type": "ListItem", position: 3, name: post.title },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
@@ -43,6 +53,7 @@ export default function ArticlePage({ post }: { post: Post }) {
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
