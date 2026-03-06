@@ -67,28 +67,34 @@ export default function FeNyX42Page() {
 
         <div className="mt-8 space-y-5 text-mantra-text leading-relaxed">
           <p>
-            I&rsquo;ve been in the pit since before most metal blogs existed. Over 30 years in the
-            Bay Area metal and hardcore scene — from the Ruthie&rsquo;s Inn days through the
-            Gilman Street era, through the rise and fall of every wave that mattered.
+            Tyson (FeNyX42) is the founder of Metal Mantra and has been deep in the heavy
+            music scene for over three decades — from the Bay Area underground to stages
+            and festivals across the country. He built Metal Mantra because the scene
+            deserves coverage that actually comes from inside it: real news from real
+            working bands, from rising metalcore acts to legendary artists still pushing
+            the genre.
           </p>
           <p>
-            I built Metal Mantra because heavy music coverage got soft. Too many sites
-            chasing clicks with listicle garbage and rewritten press releases. The scene
-            deserves better than that. It deserves coverage from someone who actually goes
-            to shows, actually buys records, and actually knows the difference between a
-            band paying dues and a band buying hype.
-          </p>
-          <p>
-            Metal Mantra covers tours, festivals, new releases, and the stories that matter
-            to people who live this music — not people who consume it as content. Every
-            Monday, Wednesday, and Friday morning, the{" "}
+            Metal Mantra covers tours, new releases, reviews, and live reporting with the
+            same energy the music demands. Every Monday, Wednesday, and Friday morning,
+            the{" "}
             <Link href="/rundowns/" className="text-mantra-red hover:underline">
               Metal Rundown
             </Link>{" "}
             drops the biggest stories in heavy music so you never miss what happened.
           </p>
           <p>
-            If Death Angel is playing, I&rsquo;m there. That&rsquo;s all you need to know.
+            When he&rsquo;s not publishing, Tyson runs{" "}
+            <a
+              href="https://bl3gh.co"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-mantra-red hover:underline"
+            >
+              bl3gh
+            </a>
+            , a creative brand producing custom apparel, vinyl stickers, and 3D-printed
+            goods inspired by heavy music culture.
           </p>
         </div>
 

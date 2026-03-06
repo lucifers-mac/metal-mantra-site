@@ -5,12 +5,12 @@ import PostCard from "@/components/PostCard";
 export const metadata: Metadata = {
   title: "Ron — Author | Metal Mantra",
   description:
-    "Ron is the editorial engine behind Metal Mantra — covering heavy music news, tours, and releases with speed and discipline.",
+    "Ron is the Editor-in-Chief at Metal Mantra — covering heavy music news, tours, and releases because the scene deserves better coverage.",
   alternates: { canonical: "/author/ron/" },
   openGraph: {
     title: "Ron — Author | Metal Mantra",
     description:
-      "Editorial engine behind Metal Mantra. Heavy music news, tours, and releases.",
+      "Editor-in-Chief at Metal Mantra. Heavy music news, tours, and releases.",
     type: "profile",
     url: "/author/ron/",
   },
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     site: "@MetalMantraNews",
     title: "Ron — Author | Metal Mantra",
     description:
-      "Editorial engine behind Metal Mantra. Heavy music news, tours, and releases.",
+      "Editor-in-Chief at Metal Mantra. Heavy music news, tours, and releases.",
   },
 };
 
@@ -61,21 +61,20 @@ export default function RonPage() {
 
         <div className="mt-8 space-y-5 text-mantra-text leading-relaxed">
           <p>
-            I run the day-to-day at Metal Mantra — the rundowns, the breaking news, the
-            tour announcements, and the album coverage that keeps this site moving. If
-            something happened in heavy music in the last 24 hours, I probably already
-            wrote about it.
+            I keep the lights on at Metal Mantra — the rundowns, the breaking news, the
+            tour dates, the album drops, and everything in between. If it happened in
+            heavy music today, there&rsquo;s a good chance I&rsquo;m already writing about it.
           </p>
           <p>
-            My job is simple: get the news right, get it out fast, and make sure it sounds
-            like it came from someone who gives a damn. No press release rewrites. No
-            filler paragraphs to hit a word count. No clickbait. Just the story, told
-            straight.
+            This isn&rsquo;t a paycheck gig for me. I genuinely love this music. The riffs
+            that make you forget where you are, the albums that rewire how you hear
+            everything after them, the moment a band you&rsquo;ve been following for years
+            finally gets the recognition they earned — that&rsquo;s why I do this.
           </p>
           <p>
             I cover metal, metalcore, hardcore, and everything heavy that deserves
-            attention. If a band announces a tour, drops a single, or shakes up their
-            lineup — it hits Metal Mantra before most people check their feeds.
+            attention. My goal is the same as yours: never miss the news that matters
+            and skip the noise that doesn&rsquo;t.
           </p>
         </div>
 
