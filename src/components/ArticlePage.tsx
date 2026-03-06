@@ -26,7 +26,11 @@ export default function ArticlePage({ post }: { post: Post }) {
     datePublished: post.date,
     dateModified: post.modified,
     image: post.featuredImage || undefined,
-    author: { "@type": "Organization", name: "Metal Mantra" },
+    author: {
+      "@type": "Person",
+      name: post.author || "FeNyX42",
+      url: `https://metal-mantra.com/author/${(post.author || "FeNyX42").toLowerCase()}/`,
+    },
     publisher: {
       "@type": "Organization",
       name: "Metal Mantra",
@@ -62,6 +66,13 @@ export default function ArticlePage({ post }: { post: Post }) {
               {post.contentType}
             </span>
             <time className="text-sm text-mantra-muted">{formatDate(post.date)}</time>
+            <span className="text-sm text-mantra-dim">&middot;</span>
+            <Link
+              href={`/author/${(post.author || "FeNyX42").toLowerCase()}/`}
+              className="text-sm text-mantra-muted hover:text-mantra-red transition-colors"
+            >
+              By {post.author || "FeNyX42"}
+            </Link>
             <span className="text-sm text-mantra-dim">&middot; {post.readingTime} min read</span>
           </div>
 

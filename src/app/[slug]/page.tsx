@@ -124,8 +124,14 @@ export default async function PostPage({ params }: PageProps) {
               {post.contentType}
             </span>
             <time className="text-sm text-mantra-muted">{formatDate(post.date)}</time>
+            <span className="text-sm text-mantra-dim">&middot;</span>
+            <Link
+              href={`/author/${(post.author || "FeNyX42").toLowerCase()}/`}
+              className="text-sm text-mantra-muted hover:text-mantra-red transition-colors"
+            >
+              By {post.author || "FeNyX42"}
+            </Link>
             <span className="text-sm text-mantra-dim">&middot; {post.readingTime} min read</span>
-            <span className="text-sm text-mantra-dim">&middot; {post.wordCount} words</span>
           </div>
 
           <h1
