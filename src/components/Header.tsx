@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { label: "News", href: "/news/" },
   { label: "Tours", href: "/tours/" },
   { label: "Festivals", href: "/festivals/" },
+  { label: "Guides", href: "/guides/" },
   { label: "Reviews", href: "/reviews/" },
   { label: "Features", href: "/features/" },
   { label: "Rundowns", href: "/rundowns/" },

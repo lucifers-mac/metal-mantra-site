@@ -2,12 +2,13 @@ import Link from "next/link";
 import PostCard from "@/components/PostCard";
 import NewsletterSignup from "@/components/NewsletterSignup";
 import SponsorSlot from "@/components/SponsorSlot";
-import { getTrendingPosts, getPopularTags, getPostsByType, formatDateShort } from "@/lib/content";
+import { getTrendingPosts, getPopularTags, getPostsByType, getPostsByTag, formatDateShort } from "@/lib/content";
 
 export default function Sidebar() {
   const trending = getTrendingPosts(5);
   const popularTags = getPopularTags(20);
   const rundowns = getPostsByType("rundown").slice(0, 4);
+  const guides = getPostsByTag("guide").slice(0, 6);
 
   return (
     <aside className="space-y-6">
@@ -49,7 +50,36 @@ export default function Sidebar() {
         </div>
       )}
 
-      {/* Newsletter — right after Rundowns */}
+      {/* Guides */}
+      {guides.length > 0 && (
+        <div className="bg-mantra-card border border-mantra-border rounded-lg p-5">
+          <div className="flex items-center justify-between mb-4">
+            <h3
+              className="text-sm font-bold uppercase tracking-[0.15em] text-mantra-ember"
+              style={{ fontFamily: "var(--font-heading)" }}
+            >
+              Guides
+            </h3>
+            <Link href="/guides/" className="text-[11px] text-mantra-dim hover:text-mantra-ember transition-colors uppercase tracking-wider font-bold">
+              All &rarr;
+            </Link>
+          </div>
+          <ul className="space-y-2">
+            {guides.map((post) => (
+              <li key={post.slug}>
+                <Link
+                  href={`/${post.slug}/`}
+                  className="text-xs text-mantra-muted hover:text-white transition-colors leading-snug block"
+                >
+                  {post.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {/* Newsletter — right after Guides */}
       <NewsletterSignup variant="footer" />
 
       {/* Sponsor */}
