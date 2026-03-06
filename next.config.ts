@@ -54,8 +54,8 @@ const slugRedirects = [
 
 const nextConfig: NextConfig = {
   images: {
-    unoptimized: true,
     remotePatterns: [
+      { protocol: "https", hostname: "res.cloudinary.com" },
       { protocol: "https", hostname: "metal-mantra.com" },
       { protocol: "https", hostname: "**.wp.com" },
     ],

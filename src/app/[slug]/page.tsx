@@ -6,6 +6,7 @@ import ReadingProgress from "@/components/ReadingProgress";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { optimizeImage } from "@/lib/cloudinary";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -159,9 +160,11 @@ export default async function PostPage({ params }: PageProps) {
         {post.featuredImage && (
           <figure className="mb-8 rounded-xl overflow-hidden">
             <img
-              src={post.featuredImage}
+              src={optimizeImage(post.featuredImage, 1200)}
               alt={post.featuredImageAlt || post.title}
               className="w-full"
+              loading="eager"
+              fetchPriority="high"
             />
           </figure>
         )}
