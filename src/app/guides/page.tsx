@@ -18,6 +18,7 @@ const CATEGORIES: { label: string; slugs: string[] } [] = [
       "sonic-temple-2026",
       "welcome-to-rockville-2026",
       "headbangers-boat-2026",
+      "sick-new-world",
     ],
   },
   {
