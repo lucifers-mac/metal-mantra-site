@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title,
     description,
     alternates: {
-      canonical: `/${slug}/`,
+      canonical: `/festivals/${slug}/`,
     },
     openGraph: {
       title,
