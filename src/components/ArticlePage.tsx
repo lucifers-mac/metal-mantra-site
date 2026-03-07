@@ -1,4 +1,4 @@
-import { Post, getRelatedPosts, formatDate } from "@/lib/content";
+import { Post, getRelatedPosts, getLatestPosts, formatDate } from "@/lib/content";
 import { optimizeImage } from "@/lib/cloudinary";
 import PostCard from "@/components/PostCard";
 import Sidebar from "@/components/Sidebar";
@@ -6,6 +6,8 @@ import AffiliateWidget from "@/components/AffiliateWidget";
 import SponsorSlot from "@/components/SponsorSlot";
 import ShareBar from "@/components/ShareBar";
 import NewsletterSignup from "@/components/NewsletterSignup";
+import ReadingProgress from "@/components/ReadingProgress";
+import ReadNextBar from "@/components/ReadNextBar";
 import Link from "next/link";
 
 const TYPE_BADGE: Record<string, string> = {
@@ -19,6 +21,9 @@ const TYPE_BADGE: Record<string, string> = {
 
 export default function ArticlePage({ post }: { post: Post }) {
   const related = getRelatedPosts(post, 4);
+  const allPosts = getLatestPosts(200);
+  const currentIdx = allPosts.findIndex((p) => p.id === post.id);
+  const nextPost = currentIdx >= 0 && currentIdx < allPosts.length - 1 ? allPosts[currentIdx + 1] : related[0] || null;
 
   const breadcrumbLd = {
     "@context": "https://schema.org",
@@ -84,6 +89,7 @@ export default function ArticlePage({ post }: { post: Post }) {
 
   return (
     <>
+      <ReadingProgress />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {videoJsonLd.map((v, i) => (
@@ -247,6 +253,10 @@ export default function ArticlePage({ post }: { post: Post }) {
             ))}
           </div>
         </section>
+      )}
+
+      {nextPost && (
+        <ReadNextBar title={nextPost.title} href={nextPost.path} contentType={nextPost.contentType} />
       )}
     </>
   );
