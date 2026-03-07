@@ -129,14 +129,6 @@ export default function ArticlePage({ post }: { post: Post }) {
             {post.title}
           </h1>
 
-          {/* Rating badge — standalone, prominent */}
-          {post.rating && isReviewType && (
-            <div className="mt-4 inline-flex items-baseline gap-1 bg-mantra-red/15 border border-mantra-red/40 rounded-lg px-4 py-2">
-              <span className="text-mantra-red text-4xl font-black leading-none" style={{ fontFamily: "var(--font-display)" }}>{post.rating}</span>
-              <span className="text-mantra-dim text-lg font-bold">/10</span>
-            </div>
-          )}
-
           {/* Red underline accent */}
           <div className="mt-4 w-16 h-0.5 bg-mantra-red" />
         </header>
