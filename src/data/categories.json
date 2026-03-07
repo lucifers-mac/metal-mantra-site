@@ -17,21 +17,21 @@
     "id": 3,
     "name": "Festivals",
     "slug": "festivals",
-    "count": 24,
+    "count": 25,
     "description": ""
   },
   {
     "id": 4,
-    "name": "Rundowns",
-    "slug": "rundowns",
-    "count": 27,
+    "name": "Features",
+    "slug": "features",
+    "count": 16,
     "description": ""
   },
   {
     "id": 5,
-    "name": "Features",
-    "slug": "features",
-    "count": 15,
+    "name": "Rundowns",
+    "slug": "rundowns",
+    "count": 27,
     "description": ""
   },
   {
