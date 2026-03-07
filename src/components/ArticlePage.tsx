@@ -119,14 +119,7 @@ export default function ArticlePage({ post }: { post: Post }) {
               By {post.author || "FeNyX42"}
             </Link>
             <span className="text-sm text-mantra-dim">&middot; {post.readingTime} min read</span>
-            {post.rating && isReviewType && (
-              <span className="ml-auto flex items-center gap-1.5 bg-mantra-red/10 border border-mantra-red/30 rounded-lg px-3 py-1">
-                <span className="text-mantra-red text-lg font-black" style={{ fontFamily: "var(--font-display)" }}>
-                  {post.rating}
-                </span>
-                <span className="text-mantra-dim text-xs">/10</span>
-              </span>
-            )}
+
           </div>
 
           <h1
@@ -135,6 +128,14 @@ export default function ArticlePage({ post }: { post: Post }) {
           >
             {post.title}
           </h1>
+
+          {/* Rating badge — standalone, prominent */}
+          {post.rating && isReviewType && (
+            <div className="mt-4 inline-flex items-baseline gap-1 bg-mantra-red/15 border border-mantra-red/40 rounded-lg px-4 py-2">
+              <span className="text-mantra-red text-4xl font-black leading-none" style={{ fontFamily: "var(--font-display)" }}>{post.rating}</span>
+              <span className="text-mantra-dim text-lg font-bold">/10</span>
+            </div>
+          )}
 
           {/* Red underline accent */}
           <div className="mt-4 w-16 h-0.5 bg-mantra-red" />
