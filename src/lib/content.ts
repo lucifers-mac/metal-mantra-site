@@ -25,6 +25,7 @@ export interface Post {
     title: string;
     description: string;
   };
+  rating?: number | null;
 }
 
 export interface Category {

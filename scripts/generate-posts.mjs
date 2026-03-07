@@ -97,6 +97,7 @@ const posts = files
         title: data.seoTitle || title,
         description: data.metaDescription || excerpt,
       },
+      rating: data.rating ? Number(data.rating) : null,
     };
   })
   .filter(Boolean)

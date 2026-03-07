@@ -30,10 +30,13 @@ export default function ArticlePage({ post }: { post: Post }) {
     ],
   };
 
-  const jsonLd = {
+  const isReviewType = post.categories.map((c: string) => c.toLowerCase()).includes("reviews");
+
+  const jsonLd: Record<string, unknown> = {
     "@context": "https://schema.org",
-    "@type": "NewsArticle",
+    "@type": post.rating && isReviewType ? "Review" : "NewsArticle",
     headline: post.title,
+    name: post.title,
     datePublished: post.date,
     dateModified: post.modified,
     image: post.featuredImage || undefined,
@@ -50,6 +53,14 @@ export default function ArticlePage({ post }: { post: Post }) {
     description: post.seo.description || post.excerpt.replace(/<[^>]+>/g, "").slice(0, 160),
     wordCount: post.wordCount,
     mainEntityOfPage: { "@type": "WebPage", "@id": `https://metal-mantra.com${post.path}` },
+    ...(post.rating && isReviewType ? {
+      reviewRating: {
+        "@type": "Rating",
+        ratingValue: post.rating,
+        bestRating: 10,
+        worstRating: 1,
+      },
+    } : {}),
   };
 
   return (
@@ -86,6 +97,14 @@ export default function ArticlePage({ post }: { post: Post }) {
               By {post.author || "FeNyX42"}
             </Link>
             <span className="text-sm text-mantra-dim">&middot; {post.readingTime} min read</span>
+            {post.rating && isReviewType && (
+              <span className="ml-auto flex items-center gap-1.5 bg-mantra-red/10 border border-mantra-red/30 rounded-lg px-3 py-1">
+                <span className="text-mantra-red text-lg font-black" style={{ fontFamily: "var(--font-display)" }}>
+                  {post.rating}
+                </span>
+                <span className="text-mantra-dim text-xs">/10</span>
+              </span>
+            )}
           </div>
 
           <h1
