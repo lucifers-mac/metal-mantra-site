@@ -158,6 +158,11 @@ export default function PostCard({ post, variant = "default", number }: PostCard
       <div className="p-4">
         <div className="flex items-center gap-2 mb-2">
           <TypeBadge type={post.contentType} />
+          {post.rating && (
+            <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 text-[10px] font-black bg-mantra-red/10 border border-mantra-red/30 rounded text-mantra-red-hot">
+              {post.rating}<span className="text-mantra-dim font-normal">/10</span>
+            </span>
+          )}
           <time className="text-[11px] text-mantra-muted">{formatDateShort(post.date)}</time>
         </div>
         <h3
