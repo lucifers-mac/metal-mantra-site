@@ -1,22 +1,90 @@
 {
   "redirects": [
-    { "source": "/editorial/", "destination": "/features/", "statusCode": 301 },
-    { "source": "/interviews/", "destination": "/features/", "statusCode": 301 },
-    { "source": "/contact-us/", "destination": "/contact/", "statusCode": 301 },
-    { "source": "/about-us/", "destination": "/about/", "statusCode": 301 },
-    { "source": "/privacy-policy/", "destination": "/privacy/", "statusCode": 301 },
-    { "source": "/category/new-releases/", "destination": "/news/", "statusCode": 301 },
-    { "source": "/category/rundown/", "destination": "/rundowns/", "statusCode": 301 },
-    { "source": "/category/festivals/", "destination": "/festivals/", "statusCode": 301 },
-    { "source": "/category/metal-news/", "destination": "/news/", "statusCode": 301 },
-    { "source": "/category/tours/", "destination": "/tours/", "statusCode": 301 },
-    { "source": "/category/reviews/", "destination": "/reviews/", "statusCode": 301 },
-    { "source": "/category/features/", "destination": "/features/", "statusCode": 301 },
-    { "source": "/submit-your-release-editorial/", "destination": "/advertise/", "statusCode": 301 },
-    { "source": "/submit/", "destination": "/advertise/", "statusCode": 301 },
-    { "source": "/cart/", "destination": "/", "statusCode": 301 },
-    { "source": "/2025/11/", "destination": "/news/", "statusCode": 301 },
-    { "source": "/tag/:tag/", "destination": "/news/", "statusCode": 301 },
+    {
+      "source": "/editorial/",
+      "destination": "/features/",
+      "statusCode": 301
+    },
+    {
+      "source": "/interviews/",
+      "destination": "/features/",
+      "statusCode": 301
+    },
+    {
+      "source": "/contact-us/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about-us/",
+      "destination": "/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/privacy-policy/",
+      "destination": "/privacy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/new-releases/",
+      "destination": "/news/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/rundown/",
+      "destination": "/rundowns/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/festivals/",
+      "destination": "/festivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/metal-news/",
+      "destination": "/news/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/tours/",
+      "destination": "/tours/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/reviews/",
+      "destination": "/reviews/",
+      "statusCode": 301
+    },
+    {
+      "source": "/category/features/",
+      "destination": "/features/",
+      "statusCode": 301
+    },
+    {
+      "source": "/submit-your-release-editorial/",
+      "destination": "/advertise/",
+      "statusCode": 301
+    },
+    {
+      "source": "/submit/",
+      "destination": "/advertise/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cart/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/2025/11/",
+      "destination": "/news/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tag/:tag/",
+      "destination": "/news/",
+      "statusCode": 301
+    },
     {
       "source": "/metal-hard-rock-news-february-27-2026-rob-zombie-drops-at-the-gates-says-goodbye/",
       "destination": "/rundowns/metal-hard-rock-news-february-27-2026-rob-zombie-drops-at-the-gates-says-goodbye/",
@@ -29,17 +97,17 @@
     },
     {
       "source": "/wage-war-it-calls-me-by-name-ep-tour-2026/",
-      "destination": "/news/wage-war-it-calls-me-by-name-ep-tour-2026/",
+      "destination": "/tours/wage-war-it-calls-me-by-name-ep-tour-2026/",
       "statusCode": 301
     },
     {
       "source": "/metallica-sphere-las-vegas-2026/",
-      "destination": "/news/metallica-sphere-las-vegas-2026/",
+      "destination": "/tours/metallica-sphere-las-vegas-2026/",
       "statusCode": 301
     },
     {
       "source": "/death-angel-act-iii-tour-2026/",
-      "destination": "/news/death-angel-act-iii-tour-2026/",
+      "destination": "/tours/death-angel-act-iii-tour-2026/",
       "statusCode": 301
     },
     {
@@ -69,7 +137,7 @@
     },
     {
       "source": "/president-angel-wings-video-bad-omens-tour/",
-      "destination": "/news/president-angel-wings-video-bad-omens-tour/",
+      "destination": "/tours/president-angel-wings-video-bad-omens-tour/",
       "statusCode": 301
     },
     {
@@ -79,17 +147,17 @@
     },
     {
       "source": "/dethklok-spring-2026-tour-metalocalypse-20/",
-      "destination": "/news/dethklok-spring-2026-tour-metalocalypse-20/",
+      "destination": "/tours/dethklok-spring-2026-tour-metalocalypse-20/",
       "statusCode": 301
     },
     {
       "source": "/breaking-benjamin-2026-north-american-tour/",
-      "destination": "/news/breaking-benjamin-2026-north-american-tour/",
+      "destination": "/tours/breaking-benjamin-2026-north-american-tour/",
       "statusCode": 301
     },
     {
       "source": "/poppy-2026-north-american-tour-dates/",
-      "destination": "/news/poppy-2026-north-american-tour-dates/",
+      "destination": "/tours/poppy-2026-north-american-tour-dates/",
       "statusCode": 301
     },
     {
@@ -104,7 +172,7 @@
     },
     {
       "source": "/resistor-bite-this-album-dead-soul-video/",
-      "destination": "/news/resistor-bite-this-album-dead-soul-video/",
+      "destination": "/tours/resistor-bite-this-album-dead-soul-video/",
       "statusCode": 301
     },
     {
@@ -114,7 +182,7 @@
     },
     {
       "source": "/the-hu-apocalyptica-tour-2026-presale/",
-      "destination": "/news/the-hu-apocalyptica-tour-2026-presale/",
+      "destination": "/tours/the-hu-apocalyptica-tour-2026-presale/",
       "statusCode": 301
     },
     {
@@ -124,12 +192,12 @@
     },
     {
       "source": "/eva-under-fire-drop-murder-scene/",
-      "destination": "/news/eva-under-fire-drop-murder-scene/",
+      "destination": "/tours/eva-under-fire-drop-murder-scene/",
       "statusCode": 301
     },
     {
       "source": "/dropkick-murphys-fire-off-citizen-i-c-e/",
-      "destination": "/news/dropkick-murphys-fire-off-citizen-i-c-e/",
+      "destination": "/tours/dropkick-murphys-fire-off-citizen-i-c-e/",
       "statusCode": 301
     },
     {
@@ -139,7 +207,7 @@
     },
     {
       "source": "/knocked-loose-denzel-curry-hive-mind/",
-      "destination": "/news/knocked-loose-denzel-curry-hive-mind/",
+      "destination": "/reviews/knocked-loose-denzel-curry-hive-mind/",
       "statusCode": 301
     },
     {
@@ -169,7 +237,7 @@
     },
     {
       "source": "/metal-mantra-shiprocked-2026-editorial/",
-      "destination": "/features/metal-mantra-shiprocked-2026-editorial/",
+      "destination": "/festivals/metal-mantra-shiprocked-2026-editorial/",
       "statusCode": 301
     },
     {
@@ -179,7 +247,7 @@
     },
     {
       "source": "/the-devil-wears-prada-spring-2026-tour/",
-      "destination": "/news/the-devil-wears-prada-spring-2026-tour/",
+      "destination": "/tours/the-devil-wears-prada-spring-2026-tour/",
       "statusCode": 301
     },
     {
@@ -194,12 +262,12 @@
     },
     {
       "source": "/vicious-rumors-2026-us-tour-abusement-park/",
-      "destination": "/news/vicious-rumors-2026-us-tour-abusement-park/",
+      "destination": "/tours/vicious-rumors-2026-us-tour-abusement-park/",
       "statusCode": 301
     },
     {
       "source": "/avatar-spring-2026-tour/",
-      "destination": "/news/avatar-spring-2026-tour/",
+      "destination": "/tours/avatar-spring-2026-tour/",
       "statusCode": 301
     },
     {
@@ -229,7 +297,7 @@
     },
     {
       "source": "/black-veil-brides-drop-certainty/",
-      "destination": "/news/black-veil-brides-drop-certainty/",
+      "destination": "/reviews/black-veil-brides-drop-certainty/",
       "statusCode": 301
     },
     {
@@ -259,7 +327,7 @@
     },
     {
       "source": "/top-10-metal-tours-coming-in-2026/",
-      "destination": "/features/top-10-metal-tours-coming-in-2026/",
+      "destination": "/tours/top-10-metal-tours-coming-in-2026/",
       "statusCode": 301
     },
     {
@@ -304,7 +372,7 @@
     },
     {
       "source": "/thrash-of-the-titans-usa-tour-2026/",
-      "destination": "/news/thrash-of-the-titans-usa-tour-2026/",
+      "destination": "/tours/thrash-of-the-titans-usa-tour-2026/",
       "statusCode": 301
     },
     {
@@ -324,7 +392,7 @@
     },
     {
       "source": "/iron-maiden-2026-run-for-your-lives-tour/",
-      "destination": "/news/iron-maiden-2026-run-for-your-lives-tour/",
+      "destination": "/tours/iron-maiden-2026-run-for-your-lives-tour/",
       "statusCode": 301
     },
     {
@@ -344,17 +412,17 @@
     },
     {
       "source": "/amon-amarth-dethklok-tour/",
-      "destination": "/news/amon-amarth-dethklok-tour/",
+      "destination": "/tours/amon-amarth-dethklok-tour/",
       "statusCode": 301
     },
     {
       "source": "/sebastian-bach-2026-north-america-tour/",
-      "destination": "/news/sebastian-bach-2026-north-america-tour/",
+      "destination": "/tours/sebastian-bach-2026-north-america-tour/",
       "statusCode": 301
     },
     {
       "source": "/kreator-2026-tour-spring-us-headline-dates/",
-      "destination": "/news/kreator-2026-tour-spring-us-headline-dates/",
+      "destination": "/tours/kreator-2026-tour-spring-us-headline-dates/",
       "statusCode": 301
     },
     {
@@ -364,12 +432,12 @@
     },
     {
       "source": "/bloodywood-announce-2026-system-of-a-brown-tour/",
-      "destination": "/news/bloodywood-announce-2026-system-of-a-brown-tour/",
+      "destination": "/tours/bloodywood-announce-2026-system-of-a-brown-tour/",
       "statusCode": 301
     },
     {
       "source": "/a7x-good-charlotte-announce-2026-na-tour/",
-      "destination": "/news/a7x-good-charlotte-announce-2026-na-tour/",
+      "destination": "/tours/a7x-good-charlotte-announce-2026-na-tour/",
       "statusCode": 301
     },
     {
@@ -379,7 +447,7 @@
     },
     {
       "source": "/varials-announce-where-the-light-leaves/",
-      "destination": "/news/varials-announce-where-the-light-leaves/",
+      "destination": "/tours/varials-announce-where-the-light-leaves/",
       "statusCode": 301
     },
     {
@@ -389,7 +457,7 @@
     },
     {
       "source": "/a7x-magic-surprise-release/",
-      "destination": "/news/a7x-magic-surprise-release/",
+      "destination": "/reviews/a7x-magic-surprise-release/",
       "statusCode": 301
     },
     {
@@ -414,7 +482,7 @@
     },
     {
       "source": "/amity-affliction-august-burns-red-2026-tour/",
-      "destination": "/news/amity-affliction-august-burns-red-2026-tour/",
+      "destination": "/tours/amity-affliction-august-burns-red-2026-tour/",
       "statusCode": 301
     },
     {
@@ -429,12 +497,12 @@
     },
     {
       "source": "/scatterbrain-marks-brian-burkheisers-bold-return/",
-      "destination": "/news/scatterbrain-marks-brian-burkheisers-bold-return/",
+      "destination": "/reviews/scatterbrain-marks-brian-burkheisers-bold-return/",
       "statusCode": 301
     },
     {
       "source": "/evanescence-2026-world-tour/",
-      "destination": "/news/evanescence-2026-world-tour/",
+      "destination": "/tours/evanescence-2026-world-tour/",
       "statusCode": 301
     },
     {
@@ -464,7 +532,7 @@
     },
     {
       "source": "/review-left-for-good-bad-omens/",
-      "destination": "/news/review-left-for-good-bad-omens/",
+      "destination": "/reviews/review-left-for-good-bad-omens/",
       "statusCode": 301
     },
     {
@@ -489,17 +557,17 @@
     },
     {
       "source": "/sleep-token-oakland-2025-concert-review/",
-      "destination": "/news/sleep-token-oakland-2025-concert-review/",
+      "destination": "/reviews/sleep-token-oakland-2025-concert-review/",
       "statusCode": 301
     },
     {
       "source": "/testament-para-bellum-album-review/",
-      "destination": "/news/testament-para-bellum-album-review/",
+      "destination": "/reviews/testament-para-bellum-album-review/",
       "statusCode": 301
     },
     {
       "source": "/aftershock-2025-review/",
-      "destination": "/reviews/aftershock-2025-review/",
+      "destination": "/festivals/aftershock-2025-review/",
       "statusCode": 301
     },
     {
@@ -509,7 +577,7 @@
     },
     {
       "source": "/vicious-rumors-the-devils-asylum-review/",
-      "destination": "/news/vicious-rumors-the-devils-asylum-review/",
+      "destination": "/reviews/vicious-rumors-the-devils-asylum-review/",
       "statusCode": 301
     },
     {
