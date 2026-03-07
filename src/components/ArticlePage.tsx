@@ -5,6 +5,7 @@ import Sidebar from "@/components/Sidebar";
 import AffiliateWidget from "@/components/AffiliateWidget";
 import SponsorSlot from "@/components/SponsorSlot";
 import ShareBar from "@/components/ShareBar";
+import NewsletterSignup from "@/components/NewsletterSignup";
 import Link from "next/link";
 
 const TYPE_BADGE: Record<string, string> = {
@@ -145,6 +146,13 @@ export default function ArticlePage({ post }: { post: Post }) {
         })()}
 
         {/* Tags */}
+        {/* Newsletter CTA — injected after every article body except rundowns */}
+        {post.contentType !== "rundown" && (
+          <div className="mt-10">
+            <NewsletterSignup variant="inline" />
+          </div>
+        )}
+
         {post.tags.length > 0 && (
           <div className="mt-10 pt-6 border-t border-mantra-border">
             <div className="flex items-center gap-2 flex-wrap">
