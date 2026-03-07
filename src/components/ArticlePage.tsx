@@ -32,6 +32,9 @@ export default function ArticlePage({ post }: { post: Post }) {
 
   const isReviewType = post.categories.map((c: string) => c.toLowerCase()).includes("reviews");
 
+  // Extract YouTube video IDs from article content for VideoObject schema
+  const youtubeIds = [...(post.content.matchAll(/youtube\.com\/embed\/([a-zA-Z0-9_-]{11})/g))].map(m => m[1]);
+
   const jsonLd: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": post.rating && isReviewType ? "Review" : "NewsArticle",
@@ -63,10 +66,29 @@ export default function ArticlePage({ post }: { post: Post }) {
     } : {}),
   };
 
+  const videoJsonLd = youtubeIds.length > 0 ? youtubeIds.map(id => ({
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: post.title,
+    description: post.seo.description || post.excerpt.replace(/<[^>]+>/g, "").slice(0, 160),
+    thumbnailUrl: `https://img.youtube.com/vi/${id}/maxresdefault.jpg`,
+    uploadDate: post.date,
+    embedUrl: `https://www.youtube.com/embed/${id}`,
+    url: `https://www.youtube.com/watch?v=${id}`,
+    publisher: {
+      "@type": "Organization",
+      name: "Metal Mantra",
+      logo: { "@type": "ImageObject", url: "https://metal-mantra.com/metal-mantra-banner.png" },
+    },
+  })) : [];
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      {videoJsonLd.map((v, i) => (
+        <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(v) }} />
+      ))}
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
         <div className="lg:grid lg:grid-cols-3 lg:gap-10">
