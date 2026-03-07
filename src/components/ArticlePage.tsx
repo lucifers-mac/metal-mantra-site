@@ -108,6 +108,42 @@ export default function ArticlePage({ post }: { post: Post }) {
         {/* Content */}
         <div className="article-content max-w-none" dangerouslySetInnerHTML={{ __html: post.content }} />
 
+        {/* Category-triggered affiliate CTAs */}
+        {(() => {
+          const cats = post.categories.map((c: string) => c.toLowerCase());
+          const isTourFestival = cats.some((c: string) => ["tours", "festivals"].includes(c));
+          const isReview = cats.includes("reviews");
+          const primaryBand = post.tags?.[0]?.name || "";
+          const tmQuery = encodeURIComponent(primaryBand || post.title);
+          const amzQuery = encodeURIComponent((primaryBand || post.title) + " music");
+          if (!isTourFestival && !isReview) return null;
+          return (
+            <div className="mt-8 p-4 bg-[#111] border border-[#2a2a2a] rounded-lg flex flex-wrap gap-3 items-center">
+              <span className="text-xs text-[#6b7280] uppercase tracking-wider font-semibold mr-1">Get it:</span>
+              {isTourFestival && (
+                <a
+                  href={`https://ticketmaster.evyy.net/c/6786771/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsearch%3Fq%3D${tmQuery}`}
+                  target="_blank"
+                  rel="noopener noreferrer sponsored"
+                  className="inline-flex items-center gap-1.5 bg-[#DC2626] hover:bg-[#b91c1c] text-white text-sm font-medium px-4 py-2 rounded transition-colors"
+                >
+                  🎟 Tickets on Ticketmaster
+                </a>
+              )}
+              {isReview && (
+                <a
+                  href={`https://www.amazon.com/s?k=${amzQuery}&tag=metalmantra-20`}
+                  target="_blank"
+                  rel="noopener noreferrer sponsored"
+                  className="inline-flex items-center gap-1.5 bg-[#1a1a1a] hover:bg-[#222] border border-[#2a2a2a] hover:border-[#DC2626] text-[#d1d5db] text-sm font-medium px-4 py-2 rounded transition-colors"
+                >
+                  🛒 Find on Amazon
+                </a>
+              )}
+            </div>
+          );
+        })()}
+
         {/* Tags */}
         {post.tags.length > 0 && (
           <div className="mt-10 pt-6 border-t border-mantra-border">
