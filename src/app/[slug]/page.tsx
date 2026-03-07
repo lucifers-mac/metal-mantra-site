@@ -151,12 +151,6 @@ export default async function PostPage({ params }: PageProps) {
               By {post.author || "FeNyX42"}
             </Link>
             <span className="text-sm text-mantra-dim">&middot; {post.readingTime} min read</span>
-            {post.rating && post.categories?.some((c: string) => c.toLowerCase() === "reviews") && (
-              <span className="ml-auto inline-flex items-baseline gap-1 bg-mantra-red/15 border border-mantra-red/40 rounded-lg px-3 py-1">
-                <span className="text-mantra-red text-2xl font-black leading-none" style={{ fontFamily: "var(--font-display)" }}>{post.rating}</span>
-                <span className="text-mantra-dim text-sm font-bold">/10</span>
-              </span>
-            )}
           </div>
 
           <h1
@@ -165,6 +159,13 @@ export default async function PostPage({ params }: PageProps) {
           >
             {post.title}
           </h1>
+
+          {post.rating && post.categories?.some((c: string) => c.toLowerCase() === "reviews") && (
+            <div className="mt-4 inline-flex items-baseline gap-1 bg-mantra-red/15 border border-mantra-red/40 rounded-lg px-4 py-2">
+              <span className="text-mantra-red text-4xl font-black leading-none" style={{ fontFamily: "var(--font-display)" }}>{post.rating}</span>
+              <span className="text-mantra-dim text-lg font-bold">/10</span>
+            </div>
+          )}
         </header>
 
         {/* Featured Image */}
